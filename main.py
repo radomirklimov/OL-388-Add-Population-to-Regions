@@ -35,6 +35,9 @@ with open(proposal_file, newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
 
     for row in reader:
+        if row["country"] != "DE":
+            continue
+
         placeString = row["places"]
 
         if placeString in seen:
