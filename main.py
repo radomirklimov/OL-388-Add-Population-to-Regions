@@ -4,16 +4,23 @@ import shutil
 import pandas as pd
 
 proposal_file = "location_proposals.csv"
-reference_file = "reference_file.xlsx"
+german_file = "population_germany.xlsx"
+austria_file = "population_austria.csv"
+switzerland_file = "population_switzerland.csv"
 
-# Load Excel workbook
-wb = load_workbook(reference_file, read_only=True, data_only=True)
-ws = wb.active
+# Load german population
+gp = load_workbook(german_file, read_only=True, data_only=True)
+gpa = gp.active
 
-# Build city -> population lookup from Excel
-reference_population = {}
+# Build city -> population lookup for all cities in all countries
+reference_population = {
+    "DE": {},
+    "AT": {},
+    "CH": {}
+}
 
-for row in ws.iter_rows(values_only=True):
+# germany
+for row in gpa.iter_rows(values_only=True):
     if row[6] is None or row[22] is None:
         continue
 
@@ -21,9 +28,36 @@ for row in ws.iter_rows(values_only=True):
     level = str(row[1]).strip()
 
     if level in ("5", "6"):
-        reference_population[name] = int(row[22])
+        reference_population["DE"][name] = int(row[22])
+gp.close()
 
-wb.close()
+# austria
+with open(austria_file, newline="", encoding="utf-8") as f:
+    for line in f:
+        if line.strip().startswith("ID;"):
+            header = line
+            break
+
+    reader = csv.reader(f, delimiter=";")
+
+    # Read the data
+    for row in reader:
+        name = row[1]
+        population = int(row[2])
+
+        reference_population["AT"][name] = population
+
+# switzerland
+with open(switzerland_file, newline="", encoding="utf-8") as f:
+    reader = csv.DictReader(f, delimiter=";")
+
+    # Read the data
+    for row in reader:
+        name = row["GEO_NAME"]
+        population = int(row["VALUE"])
+
+        reference_population["CH"][name] = population
+
 
 # Read proposal file
 population_lookup = {}
@@ -36,9 +70,6 @@ with open(proposal_file, newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
 
     for row in reader:
-        if row["country"] != "DE":
-            continue
-
         placeString = row["places"]
 
         if placeString in seen:
@@ -50,7 +81,7 @@ with open(proposal_file, newline="", encoding="utf-8") as f:
         total_population = 0
 
         for p in places:
-            population = reference_population.get(p)
+            population = reference_population[row["country"]].get(p)
 
             if population == 0:
                 nullPopulation += 1
@@ -61,11 +92,12 @@ with open(proposal_file, newline="", encoding="utf-8") as f:
                 print(f"WARN: no population of {p} found")
                 continue
 
+            seen.add(placeString)
             total_population += population
 
         if total_population != 0:
             population_lookup[placeString] = total_population
-            seen.add(placeString)
+
 
 for city, population in population_lookup.items():
     print(f"{city}: {population}")
@@ -78,14 +110,20 @@ print()
 print(f"Number of cities whose population was 0 in reference_file: {nullPopulation}")
 
 
-
-# add new column and save population 
+# ADD POPULATION COLUMN AND SAVE ALL FOUND POPULATIONS TO A NEW CSV FILE
+# Read the CSV
 lp = pd.read_csv("location_proposals.csv")
+
+# Make a copy
 lp_copy = lp.copy()
 
-lp_copy["population"] = 0
+# Create the new column by looking up the population
+lp_copy["population"] = lp_copy["places"].map(population_lookup)
 
-# Save back to a CSV
+# Optional: replace missing values with 0
+lp_copy["population"] = lp_copy["population"].fillna(0).astype(int)
+
+# Save the updated copy
 lp_copy.to_csv("location_proposals_with_population.csv", index=False)
 
 
