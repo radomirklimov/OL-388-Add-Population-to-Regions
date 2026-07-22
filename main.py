@@ -1,5 +1,7 @@
 import csv
 from openpyxl import load_workbook
+import shutil
+import pandas as pd
 
 proposal_file = "location_proposals.csv"
 reference_file = "reference_file.xlsx"
@@ -22,7 +24,6 @@ for row in ws.iter_rows(values_only=True):
         reference_population[name] = int(row[22])
 
 wb.close()
-
 
 # Read proposal file
 population_lookup = {}
@@ -78,7 +79,14 @@ print(f"Number of cities whose population was 0 in reference_file: {nullPopulati
 
 
 
+# add new column and save population 
+lp = pd.read_csv("location_proposals.csv")
+lp_copy = lp.copy()
 
+lp_copy["population"] = 0
+
+# Save back to a CSV
+lp_copy.to_csv("location_proposals_with_population.csv", index=False)
 
 
 
