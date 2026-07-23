@@ -2,10 +2,13 @@ import csv
 from openpyxl import load_workbook
 import shutil
 import pandas as pd
+import logging
+import pandas as pd
 
 proposal_file = "location_proposals.csv"
 german_file = "population_germany.xlsx"
 austria_file = "population_austria.csv"
+austria_1_file = "population_austria_1.ods"
 switzerland_file = "population_switzerland.csv"
 
 # Load german population
@@ -47,6 +50,22 @@ with open(austria_file, newline="", encoding="utf-8") as f:
 
         reference_population["AT"][name] = population
 
+# austria 1
+df = pd.read_excel(austria_1_file, engine="odf", header=1)
+# Remove leading/trailing whitespace from column names
+df.columns = df.columns.str.strip()
+
+for _, row in df.iterrows():
+    # Skip rows with missing data
+    if pd.isna(row["Ortschaftsname"]) or pd.isna(row["Bevölkerungam 01.01.2026"] or row["Bevölkerungam 01.01.2026"] == 0):
+        continue
+
+    name = str(row["Ortschaftsname"]).strip()
+    # Convert "10.492" -> 10492
+    population = int(str(row["Bevölkerungam 01.01.2026"]).replace(".", ""))
+
+    reference_population["AT"][name] = population
+
 # switzerland
 with open(switzerland_file, newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f, delimiter=";")
@@ -61,10 +80,9 @@ with open(switzerland_file, newline="", encoding="utf-8") as f:
 
 # Read proposal file
 population_lookup = {}
+non_population_cities = []
 seen = set()
 allCities = 0
-notFound = 0
-nullPopulation = 0
 
 with open(proposal_file, newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
@@ -83,12 +101,8 @@ with open(proposal_file, newline="", encoding="utf-8") as f:
         for p in places:
             population = reference_population[row["country"]].get(p)
 
-            if population == 0:
-                nullPopulation += 1
-                continue
-
-            if population is None:
-                notFound += 1
+            if population is None or population == 0:
+                non_population_cities.append(f"{row['country']}: {p}")
                 print(f"WARN: no population of {p} found")
                 continue
 
@@ -101,14 +115,6 @@ with open(proposal_file, newline="", encoding="utf-8") as f:
 
 for city, population in population_lookup.items():
     print(f"{city}: {population}")
-
-print()
-print(f"Number of all cities: {allCities}")
-print()
-print(f"Number of cities whose population couldn't be found: {notFound}")
-print()
-print(f"Number of cities whose population was 0 in reference_file: {nullPopulation}")
-
 
 # ADD POPULATION COLUMN AND SAVE ALL FOUND POPULATIONS TO A NEW CSV FILE
 # Read the CSV
@@ -126,8 +132,21 @@ lp_copy["population"] = lp_copy["population"].fillna(0).astype(int)
 # Save the updated copy
 lp_copy.to_csv("location_proposals_with_population.csv", index=False)
 
+# TODO: collect all cities(independent of row, stand-alone city) for later research
+logging.basicConfig(
+    filename="non_population_cities.log",
+    level=logging.INFO,
+    format="%(message)s"
+)
+
+for city in non_population_cities:
+    logging.info(f"City without population: {city}")
+logging.info("")
+logging.info(f"Total cities without population value: {len(non_population_cities)} from {allCities} total")
 
 
+print()
+print(f"Total cities without population value: {len(non_population_cities)} from {allCities} total")
 
 
 

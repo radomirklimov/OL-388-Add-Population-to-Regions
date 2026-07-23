@@ -495,6 +495,7 @@ WARN: no population of Bückwitz found
 WARN: no population of Dessow found
 WARN: no population of Segeletz found
 WARN: no population of Barsikow found
+WARN: no population of Gartow found
 WARN: no population of Manker found
 WARN: no population of Rohrlack found
 WARN: no population of Kerzlin found
@@ -1102,12 +1103,15 @@ WARN: no population of Breddorfermoor found
 WARN: no population of Wittbeck found
 WARN: no population of Lohheide, gemfr. Bezirk found
 WARN: no population of Salzwedel , Hansestadt found
+WARN: no population of Gartow found
+WARN: no population of Göhrde found
 WARN: no population of Heimbuch found
 WARN: no population of Ostenholz found
 WARN: no population of Wense found
 WARN: no population of Oerbke found
 WARN: no population of Krelinger Bruch found
 WARN: no population of Bomlitz found
+WARN: no population of Grünenplan found
 WARN: no population of Beckedorfer Schacht found
 WARN: no population of Marienfeld found
 WARN: no population of Am Sandkopf found
@@ -1157,17 +1161,24 @@ WARN: no population of Böseckendorf found
 WARN: no population of Deuna found
 WARN: no population of Gerterode found
 WARN: no population of Kleinbartloff found
+WARN: no population of Holzminden found
 WARN: no population of Bremke found
 WARN: no population of Dohnsen found
 WARN: no population of Tuchtfeld found
 WARN: no population of Wegensen found
 WARN: no population of Hunzen found
+WARN: no population of Eimen found
+WARN: no population of Eschershausen found
 WARN: no population of Brille found
 WARN: no population of Wilmeröderberg found
+WARN: no population of Boffzen found
 WARN: no population of Watzumer Häuschen found
 WARN: no population of Groß Rode found
 WARN: no population of Tetzelstein found
+WARN: no population of Brunsleberfeld found
 WARN: no population of Reitling found
+WARN: no population of Schöningen found
+WARN: no population of Mariental found
 WARN: no population of Algesbüttel found
 WARN: no population of Ringelah found
 WARN: no population of Lutter am Barenberge found
@@ -1525,6 +1536,7 @@ WARN: no population of Wartenstein found
 WARN: no population of Untere Horbachsmühle found
 WARN: no population of Heidehof found
 WARN: no population of Hüttgeswasen found
+WARN: no population of Fischbach found
 WARN: no population of Gerichtsmannsmühle found
 WARN: no population of Asbacherhütte found
 WARN: no population of Harfenmühle found
@@ -1651,6 +1663,7 @@ WARN: no population of Mühlenthal found
 WARN: no population of Friedenthal found
 WARN: no population of Ingelbach-Bahnhof found
 WARN: no population of Marienstatt found
+WARN: no population of Eichen found
 WARN: no population of Obernau found
 WARN: no population of Marzauermühle found
 WARN: no population of Krambergsmühle found
@@ -1799,6 +1812,7 @@ WARN: no population of Eichenbachermühle found
 WARN: no population of Mückenmühle found
 WARN: no population of Mückenhof found
 WARN: no population of Klaftertalerhof found
+WARN: no population of Fischbach found
 WARN: no population of Sickingerhof found
 WARN: no population of Finsterbrunnertal found
 WARN: no population of Ländlerhof found
@@ -2025,6 +2039,7 @@ WARN: no population of Haftelhof found
 WARN: no population of Kleinsteinfeld found
 WARN: no population of Waldhof found
 WARN: no population of Falkenmühle found
+WARN: no population of Rheinau found
 WARN: no population of Ebersteinerhof found
 WARN: no population of Schoren found
 WARN: no population of Insel Mainau found
@@ -2306,9 +2321,11 @@ WARN: no population of Gerschweiler found
 WARN: no population of Brühlhof found
 WARN: no population of Altdorf b. Nürnberg found
 WARN: no population of Schwaig b. Nürnberg found
+WARN: no population of Winkelhaid found
 WARN: no population of Minderleinsmühle found
 WARN: no population of Gabermühle found
 WARN: no population of Neunkirchen a. Brand found
+WARN: no population of Leinburg found
 WARN: no population of Neunkirchen a. Sand found
 WARN: no population of Schottersmühle found
 WARN: no population of Fuchshof found
@@ -2367,6 +2384,7 @@ WARN: no population of Bad Berneck i. Fichtelgebirge found
 WARN: no population of Friedrichshof found
 WARN: no population of Schöchleinsmühle found
 WARN: no population of Schnackenwöhr found
+WARN: no population of Fichtelberg found
 WARN: no population of Hurtingöd found
 WARN: no population of Neualbenreuth found
 WARN: no population of Auerberg found
@@ -2521,6 +2539,7 @@ WARN: no population of Schulenberg found
 WARN: no population of Altenau found
 WARN: no population of Wildemann found
 WARN: no population of Buschhaus found
+WARN: no population of Helmstedt found
 WARN: no population of Büddenstedt found
 WARN: no population of Gielde found
 WARN: no population of Hornburg found
@@ -2542,6 +2561,7 @@ WARN: no population of Rehwinkel found
 WARN: no population of Hermannsburg found
 WARN: no population of Unterlüß found
 WARN: no population of Malse found
+WARN: no population of Nordseeinsel Memmert found
 WARN: no population of Hisel found
 WARN: no population of Groß Dratow found
 WARN: no population of Neu Schloen found
@@ -2648,6 +2668,14 @@ WARN: no population of Neuendorf b. Elmshorn found
 WARN: no population of Hahausen found
 WARN: no population of Lutter am Barenberge found
 WARN: no population of Wallmoden found
+WARN: no population of Mariental found
+WARN: no population of Schöningen found
+WARN: no population of Boffzen found
+WARN: no population of Eimen found
+WARN: no population of Eschershausen found
+WARN: no population of Holzminden found
+WARN: no population of Gartow found
+WARN: no population of Göhrde found
 WARN: no population of Bomlitz found
 WARN: no population of Oldenburg (Oldenburg) found
 WARN: no population of Langenfeld (Rheinland) found
@@ -2663,17 +2691,24 @@ WARN: no population of Rotenburg a. d. Fulda found
 WARN: no population of Oberweser found
 WARN: no population of Wahlsburg found
 WARN: no population of Bromskirchen found
+WARN: no population of Eichen found
 WARN: no population of Obernau found
 WARN: no population of Steinebach/ Sieg found
+WARN: no population of Fischbach found
 WARN: no population of Simmern/ Hunsrück found
 WARN: no population of Neustadt/ Westerwald found
+WARN: no population of Fischbach found
 WARN: no population of Hirschhorn/ Pfalz found
 WARN: no population of Quirnbach/ Pfalz found
 WARN: no population of Herxheim bei Landau/ Pfalz found
 WARN: no population of Heidesheim am Rhein found
 WARN: no population of Wackernheim found
 WARN: no population of Müllheim found
+WARN: no population of Rheinau found
 WARN: no population of Neualbenreuth found
+WARN: no population of Fichtelberg found
+WARN: no population of Leinburg found
+WARN: no population of Winkelhaid found
 WARN: no population of Bischofsheim a.d.Rhön found
 WARN: no population of Sulzbach/ Saar found
 WARN: no population of Dillingen/ Saar found
@@ -2788,1214 +2823,68 @@ WARN: no population of Trausdorf an der Wulka / Trajštof found
 WARN: no population of Wulkaprodersdorf / Vulkaprodrštof found
 WARN: no population of Zillingtal / Celindof found
 WARN: no population of Zagersdorf / Cogrštof found
-WARN: no population of Burgauberg found
-WARN: no population of Kroatisch Ehrensdorf found
-WARN: no population of Rehgraben found
-WARN: no population of Krottendorf found
 WARN: no population of Güttenbach / Pinkovac found
-WARN: no population of Reinersdorf found
 WARN: no population of Neuberg im Burgenland / Nova Gora found
-WARN: no population of Gamischdorf found
 WARN: no population of Stinatz / Stinjaki found
-WARN: no population of Sumetendorf found
-WARN: no population of Punitz found
-WARN: no population of Unterbildein found
-WARN: no population of Zahling found
-WARN: no population of Poppendorf im Burgenland found
-WARN: no population of Henndorf im Burgenland found
-WARN: no population of Tauka found
-WARN: no population of Krottendorf bei Neuhaus am Klausenbach found
-WARN: no population of Doiber found
-WARN: no population of Maria Bild found
 WARN: no population of Draßburg / Rasporak found
-WARN: no population of Walbersdorf found
 WARN: no population of Antau / Otava found
 WARN: no population of Baumgarten / Pajngrt found
-WARN: no population of Stöttera found
-WARN: no population of Königshof found
 WARN: no population of Pama / Bijelo Selo found
 WARN: no population of Parndorf / Pandrof found
 WARN: no population of Neudorf / Novo Selo found
-WARN: no population of Girm found
 WARN: no population of Frankenau / Frakanava found
 WARN: no population of Langental / Longitolj found
-WARN: no population of Unterpetersdorf found
 WARN: no population of Kaisersdorf / Kalištrof found
-WARN: no population of Oberpetersdorf found
-WARN: no population of Hochstraß found
-WARN: no population of Unterloisdorf found
-WARN: no population of Landsee found
-WARN: no population of Haschendorf found
 WARN: no population of Kroatisch Minihof / Mjenovo found
 WARN: no population of Oberpullendorf / Felsöpulya found
-WARN: no population of Lebenbrunn found
-WARN: no population of Kalkgruben found
-WARN: no population of Unterrabnitz found
 WARN: no population of Weingraben / Bajngrob found
-WARN: no population of Jormannsdorf found
-WARN: no population of Dreihütten found
-WARN: no population of Eisenberg an der Pinka found
-WARN: no population of Kroisegg found
-WARN: no population of Kleinpetersdorf found
-WARN: no population of Woppendorf found
-WARN: no population of Kitzladen found
-WARN: no population of Tauchen found
 WARN: no population of Althodis / Stari Hodas found
-WARN: no population of Kleinbachselten found
 WARN: no population of Oberwart / Felsöör found
 WARN: no population of Schachendorf / Cajta found
-WARN: no population of Altschlaining found
-WARN: no population of Günseck found
-WARN: no population of Eisenzicken found
 WARN: no population of Allersgraben / Širokani found
-WARN: no population of Schönherrn found
 WARN: no population of Schandorf / Cemba found
-WARN: no population of Klagenfurt,02.Bez.:Innere Stadt found
-WARN: no population of Oberwollanig found
-WARN: no population of Stollwitz found
-WARN: no population of Wittenig found
-WARN: no population of Stöfflerberg found
-WARN: no population of Sittmoos found
-WARN: no population of Leditz found
-WARN: no population of Maria Luggau found
-WARN: no population of Weizelsdorf found
-WARN: no population of Otrouza found
-WARN: no population of Sabuatach found
-WARN: no population of Plaschischen found
-WARN: no population of Plöschenberg found
-WARN: no population of Nußberg found
 WARN: no population of Edling / Kajzaze found
-WARN: no population of Stemeritsch found
-WARN: no population of Stuttern found
-WARN: no population of Unterdellach found
-WARN: no population of Annamischl found
-WARN: no population of Gotschuchen found
-WARN: no population of Arndorf found
 WARN: no population of Zell-Oberwinkel / Sele-Zvrhnji Kot found
-WARN: no population of Matzendorf found
-WARN: no population of Salchendorf found
-WARN: no population of Gray found
-WARN: no population of Moserwinkl found
-WARN: no population of Grai found
-WARN: no population of Rabachboden found
-WARN: no population of Heft found
-WARN: no population of Dürnfeld found
-WARN: no population of Raffelsdorf found
-WARN: no population of Eggen II found
-WARN: no population of Zwatzhof found
-WARN: no population of Gulitzen found
-WARN: no population of Welsbach found
-WARN: no population of Rottenstein found
-WARN: no population of Unterrain found
-WARN: no population of Hardernitzen found
-WARN: no population of Kraig found
-WARN: no population of Frallach found
-WARN: no population of Raßnig found
-WARN: no population of Kraß found
-WARN: no population of Schmelzhütten found
-WARN: no population of Platz found
-WARN: no population of Potschling found
-WARN: no population of Blaßnig found
-WARN: no population of Windschnurn found
-WARN: no population of Brandstatt found
-WARN: no population of Matzelsdorf found
-WARN: no population of Sachsenweg found
-WARN: no population of Oberpirkach found
-WARN: no population of Untertweng found
-WARN: no population of Witschdorf found
-WARN: no population of Nigglai found
-WARN: no population of Treffling found
-WARN: no population of Oberamlach found
-WARN: no population of Wöllatratten found
-WARN: no population of Fellberg found
-WARN: no population of Neuschitz found
-WARN: no population of Oberdorf found
-WARN: no population of Namlach found
-WARN: no population of Drauhofen found
-WARN: no population of Sandbichl found
 WARN: no population of Möderboden found
-WARN: no population of Pöckau found
-WARN: no population of Oberwöllan found
-WARN: no population of Glanz found
-WARN: no population of Kopein found
-WARN: no population of Glabatschach found
-WARN: no population of Duel found
-WARN: no population of Frojach found
-WARN: no population of Unteralm found
-WARN: no population of Puch found
 WARN: no population of Kömmel / Komelj found
-WARN: no population of Obergreutschach found
-WARN: no population of Buchhalm found
-WARN: no population of Bad Eisenkappel found
 WARN: no population of Hinterlibitsch / Suha found
-WARN: no population of Dolintschach found
 WARN: no population of Jaunstein / Podjuna found
-WARN: no population of St. Kollmann found
-WARN: no population of Kogelnigberg found
 WARN: no population of Weißeneggerberg found
-WARN: no population of Tainach found
-WARN: no population of Obergösel found
-WARN: no population of Unterbergen found
-WARN: no population of Unterauerling found
-WARN: no population of Unteraigen found
-WARN: no population of Herzogberg found
-WARN: no population of Kampach found
-WARN: no population of Reideben found
-WARN: no population of Untereggen found
-WARN: no population of Tschwarzen found
-WARN: no population of Glantscha found
-WARN: no population of Görzberg found
-WARN: no population of Kösting found
-WARN: no population of Alt-Ossiach found
-WARN: no population of Rottenstein found
-WARN: no population of Grai found
-WARN: no population of Winkl Ossiachberg found
-WARN: no population of Regenfeld found
-WARN: no population of Oberwagram found
-WARN: no population of Kreilhof found
 WARN: no population of Angerholz found
-WARN: no population of Mauer bei Amstetten found
-WARN: no population of Kollmitzberg found
-WARN: no population of Krenstetten found
-WARN: no population of Badhof found
 WARN: no population of Aigenfließen found
-WARN: no population of Edelhof found
-WARN: no population of Thalbauer found
-WARN: no population of Kematen found
-WARN: no population of Amesleiten found
-WARN: no population of Windpassing found
-WARN: no population of Öhling found
-WARN: no population of Strubb found
-WARN: no population of Hochau found
-WARN: no population of Matzendorf found
-WARN: no population of Erla found
-WARN: no population of St. Peter in der Au-Markt found
-WARN: no population of Hilm found
-WARN: no population of Igelschwang found
 WARN: no population of Hartlmühl found
-WARN: no population of Haag Dorf found
-WARN: no population of Großprolling found
-WARN: no population of Mayerling found
-WARN: no population of St. Corona am Schöpfl found
-WARN: no population of Großau found
-WARN: no population of Weigelsdorf found
-WARN: no population of Preinsfeld found
-WARN: no population of Grillenberg found
-WARN: no population of Landegg found
-WARN: no population of Fahrafeld found
-WARN: no population of Siebenhaus found
-WARN: no population of Deutsch-Brodersdorf found
-WARN: no population of Tribuswinkel found
-WARN: no population of Blumau found
-WARN: no population of Margarethen am Moos found
-WARN: no population of Arbesthal found
-WARN: no population of Hainburg an der Donau found
-WARN: no population of Haslau an der Donau found
-WARN: no population of Pachfurth found
-WARN: no population of Regelsbrunn found
-WARN: no population of Stixneusiedl found
-WARN: no population of Wienerherberg found
 WARN: no population of Fischamend-Dorf found
-WARN: no population of Pellendorf found
-WARN: no population of Rannersdorf found
-WARN: no population of Kollnbrunn found
-WARN: no population of Waltersdorf an der March found
-WARN: no population of Waidendorf found
-WARN: no population of Kopfstetten found
-WARN: no population of Groißenbrunn found
-WARN: no population of Fuchsenbigl found
-WARN: no population of Rannersdorf an der Zaya found
-WARN: no population of Schönfeld im Marchfeld found
-WARN: no population of Breitstetten found
-WARN: no population of Raggendorf found
-WARN: no population of Palterndorf found
-WARN: no population of Niederabsdorf found
-WARN: no population of Obersulz found
-WARN: no population of Götzendorf found
-WARN: no population of Tallesbrunn found
-WARN: no population of Windisch Baumgarten found
-WARN: no population of Oberweiden found
-WARN: no population of Amaliendorf found
-WARN: no population of Neu-Nagelberg found
-WARN: no population of Reinberg-Heidenreichstein found
-WARN: no population of Wielings found
-WARN: no population of Ehrendorf found
-WARN: no population of Seifritz found
-WARN: no population of Wultschau found
-WARN: no population of Türnau found
-WARN: no population of Altmanns found
-WARN: no population of Nondorf found
-WARN: no population of Fromberg found
-WARN: no population of Hirschenschlag found
-WARN: no population of Harmanschlag found
-WARN: no population of Kleedorf found
-WARN: no population of Ulrichs found
-WARN: no population of Groß-Höbarten found
-WARN: no population of Oberparschenbrunn found
-WARN: no population of Schöngrabern found
-WARN: no population of Obritz found
-WARN: no population of Auggenthal found
-WARN: no population of Oberthern found
-WARN: no population of Mühlbach am Manhartsberg found
-WARN: no population of Puch found
-WARN: no population of Kleinweikersdorf found
-WARN: no population of Ragelsdorf found
-WARN: no population of Leodagger found
-WARN: no population of Parisdorf found
-WARN: no population of Unternalb found
-WARN: no population of Oberretzbach found
-WARN: no population of Großkadolz found
-WARN: no population of Roseldorf found
-WARN: no population of Oberstinkenbrunn found
-WARN: no population of Dietmannsdorf found
-WARN: no population of Kiblitz found
-WARN: no population of Mahrersdorf found
-WARN: no population of Wutzendorf found
-WARN: no population of Matzelsdorf found
-WARN: no population of Unterthürnau found
-WARN: no population of Stoitzendorf found
-WARN: no population of Kotzendorf found
-WARN: no population of Schirmannsreith found
-WARN: no population of Breiteneich found
-WARN: no population of Wappoltenreith found
-WARN: no population of Wenjapons found
-WARN: no population of Stockern found
-WARN: no population of Posselsdorf found
-WARN: no population of Gobelsdorf found
-WARN: no population of Klein-Reinprechtsdorf found
-WARN: no population of Mörtersdorf found
-WARN: no population of Kainreith found
-WARN: no population of Rassingdorf found
-WARN: no population of Wartberg found
-WARN: no population of Königsbrunn im Weinviertel found
-WARN: no population of Maisbirbaum found
-WARN: no population of Nursch found
-WARN: no population of Seitzersdorf-Wolfpassing found
-WARN: no population of Tresdorf found
-WARN: no population of Stranzendorf found
-WARN: no population of Senning found
-WARN: no population of Unterzögersdorf found
-WARN: no population of Streitdorf found
-WARN: no population of Seyring found
-WARN: no population of Harrau found
-WARN: no population of Nesselstauden found
-WARN: no population of Unterloiben found
-WARN: no population of Etsdorf am Kamp found
-WARN: no population of Stift Göttweig found
-WARN: no population of Theiß found
-WARN: no population of Litschgraben found
-WARN: no population of Kammern found
-WARN: no population of Schiltingeramt found
-WARN: no population of Allentsgschwendt found
-WARN: no population of Benking found
-WARN: no population of Trandorf found
-WARN: no population of Meidling found
-WARN: no population of Sperkental found
-WARN: no population of Mitterarnsdorf found
-WARN: no population of Wolfshoferamt found
-WARN: no population of Meislingeramt found
-WARN: no population of Schwallenbach found
-WARN: no population of Reichau found
-WARN: no population of St. Michael found
-WARN: no population of Stiefern found
-WARN: no population of Annarotte found
-WARN: no population of Laimergraben found
-WARN: no population of Kasberg found
-WARN: no population of Steinbachtal found
-WARN: no population of Ebenwald found
-WARN: no population of Vordereben found
-WARN: no population of Mitterbach-Seerotte found
-WARN: no population of Haraseck found
-WARN: no population of Durlaß found
-WARN: no population of Lahnsattel found
-WARN: no population of Rainfeld found
-WARN: no population of Lehenrotte found
-WARN: no population of Dölla found
-WARN: no population of Rametzhofen found
 WARN: no population of Kottingburgstall found
-WARN: no population of Forstamt found
-WARN: no population of Dürnbach found
-WARN: no population of Hinterleiten found
 WARN: no population of Graslhof found
-WARN: no population of Maxenbach found
-WARN: no population of Heinrichsberg found
-WARN: no population of Kimming found
-WARN: no population of Wallenbach found
-WARN: no population of Urfahr found
-WARN: no population of Bodendorf found
-WARN: no population of Oberthalheim found
-WARN: no population of Kollapriel found
-WARN: no population of Eggathon found
-WARN: no population of Kemmelbach found
-WARN: no population of Gulling found
-WARN: no population of Persenbeug found
-WARN: no population of Röhrapoint found
-WARN: no population of Mürfelndorf found
-WARN: no population of Troibetsberg found
-WARN: no population of Fohregg found
-WARN: no population of Hub an der Mank found
-WARN: no population of St. Martin am Ybbsfelde found
-WARN: no population of Berging found
-WARN: no population of Schallaburg found
-WARN: no population of Eitental found
-WARN: no population of Sarling found
-WARN: no population of Nächst Altenmarkt found
-WARN: no population of Schallemmersdorf found
-WARN: no population of Reintal found
-WARN: no population of Stützenhofen found
-WARN: no population of Schrick found
-WARN: no population of Zwentendorf found
-WARN: no population of Manhartsbrunn found
-WARN: no population of Zwingendorf found
-WARN: no population of Ginzersdorf found
-WARN: no population of Bogenneusiedl found
-WARN: no population of Ritzendorf found
-WARN: no population of Niederkreuzstetten found
-WARN: no population of Neubau found
-WARN: no population of Ketzelsdorf found
-WARN: no population of Ameis found
-WARN: no population of Unterschoderlee found
-WARN: no population of Kronberg found
-WARN: no population of Neuruppersdorf found
-WARN: no population of Ebersdorf an der Zaya found
-WARN: no population of Münichsthal found
-WARN: no population of Weissenbach bei Mödling found
-WARN: no population of Tachenberg found
-WARN: no population of Aspang Markt found
-WARN: no population of Neustift am Alpenwalde found
-WARN: no population of Grottendorf found
-WARN: no population of Saloder found
-WARN: no population of Ober-Danegg found
-WARN: no population of Kranichberg found
-WARN: no population of Natschbach found
-WARN: no population of Mollram found
-WARN: no population of Leiding found
 WARN: no population of Ödenhof found
-WARN: no population of Oberland found
-WARN: no population of Gerasdorf am Steinfeld found
-WARN: no population of Scheiblingkirchen found
 WARN: no population of Greis found
-WARN: no population of Rosental found
-WARN: no population of Steinbruch found
-WARN: no population of Sollgraben found
-WARN: no population of Semmering-Kurort found
-WARN: no population of Sieding found
-WARN: no population of Kulma found
-WARN: no population of Bürg found
-WARN: no population of Kirchau found
-WARN: no population of Weibnitz found
-WARN: no population of Strelzhof found
-WARN: no population of Hettmannsdorf found
-WARN: no population of Pichl found
-WARN: no population of Zweiersdorf found
-WARN: no population of Habersdorf found
-WARN: no population of Stollberg found
-WARN: no population of Winkl found
 WARN: no population of Markenschlagrotte found
-WARN: no population of Plambach found
-WARN: no population of Hengstberg found
-WARN: no population of Pielachhäuser found
-WARN: no population of Unterhameten found
-WARN: no population of Anzenberg found
-WARN: no population of Katzenberg found
-WARN: no population of Hummelberg bei Kasten found
-WARN: no population of Tradigistgegend found
-WARN: no population of Fuchsberg found
-WARN: no population of Schroffengegend found
-WARN: no population of Untergoin found
-WARN: no population of Barbaraholz found
-WARN: no population of Rennersdorf found
-WARN: no population of Kleinhain found
-WARN: no population of Deutschbach found
-WARN: no population of Feilendorf found
 WARN: no population of Haslaurotte found
-WARN: no population of Rottersdorf found
-WARN: no population of Gemeinlebarn found
-WARN: no population of Klangen found
-WARN: no population of Langmannersdorf found
-WARN: no population of Ratzersdorf found
-WARN: no population of Au am Kraking found
-WARN: no population of Tullnerbach-Lawies found
-WARN: no population of Neuhaus-Langau found
-WARN: no population of Ybbsbachamt found
-WARN: no population of Oberamt found
 WARN: no population of Pfoisau found
-WARN: no population of Sulzbichl found
-WARN: no population of Hochrieß found
-WARN: no population of Schliefau found
-WARN: no population of Robitzboden found
-WARN: no population of Gabel found
-WARN: no population of Kandelsberg found
 WARN: no population of Neubruck found
-WARN: no population of Dürnbach found
-WARN: no population of Kratzenberg found
-WARN: no population of Heiligeneich found
-WARN: no population of Gösing am Wagram found
-WARN: no population of Jettsdorf found
-WARN: no population of Baumgarten am Tullnerfeld found
-WARN: no population of Winkl found
-WARN: no population of Utzenlaa found
-WARN: no population of Michelndorf found
-WARN: no population of Nitzing found
-WARN: no population of Preuwitz found
-WARN: no population of Wipfing found
-WARN: no population of Maria Gugging found
-WARN: no population of Neu-Dietmanns found
-WARN: no population of Lexnitz found
-WARN: no population of Kleinmotten found
-WARN: no population of Weinern found
-WARN: no population of Schlader found
-WARN: no population of Großtaxen found
-WARN: no population of Drösiedl found
-WARN: no population of Pommersdorf found
-WARN: no population of Schirnes found
-WARN: no population of Stoies found
-WARN: no population of Dimling found
-WARN: no population of Griesbach found
 WARN: no population of Rudolz found
-WARN: no population of Kottschallings found
-WARN: no population of Bad Fischau found
-WARN: no population of Schützenkasten found
-WARN: no population of Haschendorf found
-WARN: no population of Brunn bei Pitten found
-WARN: no population of Vorderbruck found
-WARN: no population of Hattmannsdorf found
-WARN: no population of Hackbichl found
-WARN: no population of Maiersdorf found
-WARN: no population of Mittereck found
-WARN: no population of Eichbüchl found
-WARN: no population of Lembach found
-WARN: no population of Frohsdorf found
-WARN: no population of Winkl found
-WARN: no population of Matzendorf found
-WARN: no population of Feichtenbach found
 WARN: no population of Schwarzenbach (Zerstreut) found
-WARN: no population of Neusiedl found
-WARN: no population of Dürnbach found
-WARN: no population of Emmerberg found
-WARN: no population of Wöllersdorf found
-WARN: no population of Zwinzen found
-WARN: no population of Etlas found
-WARN: no population of Kleinpoppen found
-WARN: no population of Breitenfeld found
-WARN: no population of Kleinnondorf found
-WARN: no population of Etlas found
-WARN: no population of Engelbrechts found
-WARN: no population of Ulrichschlag found
-WARN: no population of Gaßles found
-WARN: no population of Gotthardschlag found
-WARN: no population of Kainrathschlag found
-WARN: no population of Reitzendorf found
-WARN: no population of Endlas found
-WARN: no population of Dürnberg found
-WARN: no population of Reichhalms found
-WARN: no population of Voitschlag found
-WARN: no population of Lohn found
-WARN: no population of Schlag found
-WARN: no population of Biberschlag found
-WARN: no population of Hirschenschlag found
-WARN: no population of Rosenau Dorf found
-WARN: no population of Oberthan found
-WARN: no population of Weirading found
-WARN: no population of Leithen found
-WARN: no population of Holz found
-WARN: no population of Ranshofen found
-WARN: no population of Oberaching found
-WARN: no population of Klöpfing found
-WARN: no population of Eggenham found
-WARN: no population of Ehrschwendt found
-WARN: no population of Edt found
-WARN: no population of Großschieder found
-WARN: no population of Steinbruch found
-WARN: no population of Mitterndorf found
-WARN: no population of Liedlschwandt found
-WARN: no population of Schweiber found
-WARN: no population of Lamperding found
-WARN: no population of Höcken found
-WARN: no population of Bergham found
-WARN: no population of Oberfeld found
 WARN: no population of Spitzenberg found
-WARN: no population of Kaltenau found
-WARN: no population of Habersdorf found
-WARN: no population of Macking found
-WARN: no population of Kitzing found
-WARN: no population of Posching found
-WARN: no population of Aigelsberg found
-WARN: no population of Rödham found
-WARN: no population of Scherfeck found
-WARN: no population of Laubenbach found
-WARN: no population of Bergham found
-WARN: no population of Biri found
-WARN: no population of Marlupp found
-WARN: no population of Unterlochen found
-WARN: no population of Reuhub found
-WARN: no population of Leithen found
-WARN: no population of Obertreubach found
-WARN: no population of Mankham found
-WARN: no population of Bergham found
-WARN: no population of Sommerberg found
-WARN: no population of Haizing found
-WARN: no population of Steinbruch found
-WARN: no population of Waschpoint found
-WARN: no population of Leppersdorf found
-WARN: no population of Birihub found
-WARN: no population of Sankt Peter found
-WARN: no population of Schlag found
-WARN: no population of Stampfendorf found
-WARN: no population of Schmidsberg found
-WARN: no population of Oberdorf found
-WARN: no population of Markersreith found
-WARN: no population of Harterleiten found
-WARN: no population of Mönchwald found
-WARN: no population of Manzenreith found
-WARN: no population of Wullowitz found
-WARN: no population of Komau found
-WARN: no population of Oberhofstetten found
-WARN: no population of Selker found
-WARN: no population of Hörschlag found
-WARN: no population of Steinwald found
-WARN: no population of Stiftung found
-WARN: no population of Stiftungsberg found
-WARN: no population of Pehersdorf found
-WARN: no population of Josefstal found
-WARN: no population of Aglasberg found
-WARN: no population of Hattmannsdorf found
-WARN: no population of Hacklberg found
-WARN: no population of Windgföll found
-WARN: no population of Riemetschlag found
-WARN: no population of Riegl found
-WARN: no population of Rehkogl found
-WARN: no population of Steinbruch found
-WARN: no population of Unterlangbath found
-WARN: no population of Moosham found
-WARN: no population of Gosauzwang found
-WARN: no population of Kampesberg found
-WARN: no population of Großkufhaus found
-WARN: no population of Vornbuch found
-WARN: no population of Steg found
-WARN: no population of Dorf found
 WARN: no population of Radhaming found
-WARN: no population of Pöttenheim found
-WARN: no population of Hengstberg found
-WARN: no population of Thongraben found
-WARN: no population of Leithen found
-WARN: no population of Leithen found
-WARN: no population of Kickendorf found
 WARN: no population of Eidenedt found
-WARN: no population of Wassergraben found
-WARN: no population of Pichl found
-WARN: no population of Güttling found
-WARN: no population of Burghartsberg found
-WARN: no population of Oberetnisch found
-WARN: no population of Gaisedt found
-WARN: no population of Fronberg found
-WARN: no population of Oberbuchberg found
-WARN: no population of Sumeding found
-WARN: no population of Kolbing found
-WARN: no population of Unterleiten found
-WARN: no population of Frei found
-WARN: no population of Löwengrub found
-WARN: no population of Stockwies found
-WARN: no population of Großgerstdopl found
-WARN: no population of Mitterndorf found
-WARN: no population of Parz am Öhlstampf found
-WARN: no population of Winkl found
-WARN: no population of Lahof found
-WARN: no population of Auweidenholz found
-WARN: no population of Kitzing found
-WARN: no population of Untermeggenbach found
-WARN: no population of Leithen found
-WARN: no population of Mitterweng found
-WARN: no population of Wagenhub found
-WARN: no population of Mitterstoder found
-WARN: no population of Weinzierl found
 WARN: no population of Plaschlhof found
-WARN: no population of Hausmanning found
-WARN: no population of Gundendorf found
-WARN: no population of Maidorf found
-WARN: no population of Pichl found
-WARN: no population of Sankt Pankraz found
-WARN: no population of Oberweng found
-WARN: no population of Zehetner found
 WARN: no population of Vordertambergau found
-WARN: no population of Strienzing found
-WARN: no population of Laimgräben found
-WARN: no population of Audorf found
-WARN: no population of Ipfdorf found
-WARN: no population of Kroisbach found
-WARN: no population of Sieding found
-WARN: no population of Rappersdorf found
-WARN: no population of Schauersfreiling found
-WARN: no population of Pühring found
-WARN: no population of Bergham found
-WARN: no population of Bruck bei Tödling found
-WARN: no population of Obereglsee found
-WARN: no population of Trindorf found
-WARN: no population of Langholzfeld found
-WARN: no population of Sipbach found
-WARN: no population of Pachersdorf found
-WARN: no population of Neubau found
-WARN: no population of Appersberg found
-WARN: no population of Niederlebing found
-WARN: no population of Groißing found
-WARN: no population of Kolbing found
-WARN: no population of Großerlau found
-WARN: no population of Würzenberg found
-WARN: no population of Greinsberg found
-WARN: no population of Oberhörnbach found
-WARN: no population of Würzenberg found
-WARN: no population of Gröbetsweg found
-WARN: no population of Hinterholz found
-WARN: no population of Mollnegg found
-WARN: no population of Naarn found
-WARN: no population of Markt-Süd found
-WARN: no population of Dörfl found
-WARN: no population of Kürnstein found
-WARN: no population of Großerlau found
-WARN: no population of Schörgendorf found
-WARN: no population of Großmaseldorf found
-WARN: no population of Froschau found
-WARN: no population of Lina found
-WARN: no population of Pragtal found
-WARN: no population of Steingreß found
-WARN: no population of Ungerding found
-WARN: no population of Oberbreitsach found
-WARN: no population of Sausack found
-WARN: no population of Rödt found
-WARN: no population of Moosham found
-WARN: no population of Edt found
-WARN: no population of Breiningsham found
-WARN: no population of Ufer found
-WARN: no population of Rödham found
-WARN: no population of Kramling found
-WARN: no population of Riegerting found
-WARN: no population of Jagleck found
-WARN: no population of Mühlberg found
-WARN: no population of Niederach found
-WARN: no population of Kellern found
-WARN: no population of Pattighamried found
-WARN: no population of Untermauer found
-WARN: no population of Rödt found
-WARN: no population of Hart found
-WARN: no population of Röfl found
-WARN: no population of Grausgrub found
-WARN: no population of Jenseits found
-WARN: no population of Freidling found
-WARN: no population of Kühdobl found
-WARN: no population of Hannesgrub Nord found
-WARN: no population of Etting found
-WARN: no population of Kleinmurham found
-WARN: no population of Unterafiesl found
-WARN: no population of Oberfeuchtenbach found
-WARN: no population of Getzing found
-WARN: no population of Fuchsberg found
-WARN: no population of Wulln found
-WARN: no population of Gerastorf found
-WARN: no population of Unterthiergrub found
-WARN: no population of Edholz found
-WARN: no population of Albenödt found
-WARN: no population of Oedt found
-WARN: no population of Vordernebelberg found
-WARN: no population of Steinbruch found
-WARN: no population of Oberbumberg found
-WARN: no population of Baumgartsau found
-WARN: no population of Dittmannsdorf found
-WARN: no population of Liebetsberg found
-WARN: no population of Hamet found
-WARN: no population of Kleinstifting found
-WARN: no population of Dittmannsdorf found
-WARN: no population of Schlag found
-WARN: no population of Allersdorf found
-WARN: no population of Günterreith found
-WARN: no population of Habring found
-WARN: no population of Innenschlag found
-WARN: no population of Bairach found
-WARN: no population of Grubdorf found
-WARN: no population of Sprinzenstein found
 WARN: no population of Holzschlag found
-WARN: no population of Berdetschlag found
-WARN: no population of Baureith found
-WARN: no population of Nößlbach found
-WARN: no population of Fasthub found
-WARN: no population of Winertshamerau found
-WARN: no population of Wallensham found
-WARN: no population of Mitterndorf found
-WARN: no population of Lohndorf found
-WARN: no population of Maasbach found
-WARN: no population of Oberranna found
-WARN: no population of Leithen found
-WARN: no population of Ludham found
-WARN: no population of Brünning found
-WARN: no population of Korneredt found
-WARN: no population of Pomedt found
-WARN: no population of Kößlau found
-WARN: no population of Unterteufenbach found
 WARN: no population of Sankt Marienkirchen bei Schärding found
-WARN: no population of Aschenberg found
-WARN: no population of Geiselham found
-WARN: no population of Allerheiligen found
-WARN: no population of Ingling found
-WARN: no population of Kasten found
-WARN: no population of Wildhag found
-WARN: no population of Mühlgrub found
-WARN: no population of Haagen found
-WARN: no population of Oberland found
-WARN: no population of Oberdambach found
-WARN: no population of Pechgraben found
-WARN: no population of Möderndorf found
-WARN: no population of Oberrohr found
-WARN: no population of Kohlergraben found
-WARN: no population of Matzelsdorf found
-WARN: no population of Großmengersdorf found
-WARN: no population of Losensteinleiten found
-WARN: no population of Kleinreifling found
-WARN: no population of Oberstiftung found
-WARN: no population of Obergeng found
-WARN: no population of Hagenau found
-WARN: no population of Neulichtenberg found
-WARN: no population of Althellmonsödt found
-WARN: no population of Mühlholz found
-WARN: no population of Obergeng found
-WARN: no population of Neulichtenberg found
-WARN: no population of Schallenberg found
-WARN: no population of Helmetzedt found
-WARN: no population of Dürnberg found
-WARN: no population of Großamberg found
-WARN: no population of Stiftung found
-WARN: no population of Haselwies found
-WARN: no population of Albrechtschlag found
-WARN: no population of Leithen found
-WARN: no population of Wörmansedt found
-WARN: no population of Mühlbach found
-WARN: no population of Aichet found
-WARN: no population of Köppach found
-WARN: no population of Jedlham found
-WARN: no population of Viecht found
-WARN: no population of Schwandeck found
-WARN: no population of Finkenröth found
-WARN: no population of Unterrain found
-WARN: no population of Bergham found
-WARN: no population of Innerschwand found
-WARN: no population of Reibersdorf found
-WARN: no population of Vornbuch found
-WARN: no population of Satteltal found
-WARN: no population of Bergham found
-WARN: no population of Eichenweg found
-WARN: no population of Edt found
-WARN: no population of Kropfling found
-WARN: no population of Kropfling found
-WARN: no population of Mittereinwald found
-WARN: no population of Bergham found
-WARN: no population of Puchkirchen found
-WARN: no population of Altensam found
-WARN: no population of Winkl found
-WARN: no population of Sonnfeld found
-WARN: no population of Geidenberg found
-WARN: no population of Pichl found
-WARN: no population of Bergham found
-WARN: no population of Keuschen found
-WARN: no population of Philippsberg found
-WARN: no population of Marktwald found
-WARN: no population of Haidach found
-WARN: no population of Weißenbach am Attersee found
-WARN: no population of Halt found
-WARN: no population of Unterach found
-WARN: no population of Freileiten found
-WARN: no population of Viecht found
-WARN: no population of Hölleiten found
-WARN: no population of Reichholz found
-WARN: no population of Schlaugenham found
-WARN: no population of Heissing found
-WARN: no population of Heinrichsberg found
-WARN: no population of Puch found
-WARN: no population of Krottendorf found
-WARN: no population of Bergham found
-WARN: no population of Hupfau found
-WARN: no population of Ittensam found
-WARN: no population of Kropfing found
-WARN: no population of Laherberg found
-WARN: no population of Oberschacher found
-WARN: no population of Grillparz found
-WARN: no population of Kalteneck found
-WARN: no population of Fischerau found
-WARN: no population of Leithen found
-WARN: no population of Löpperding found
-WARN: no population of Kapsam found
-WARN: no population of Krexham found
-WARN: no population of Moosleiten found
-WARN: no population of Maidorf found
-WARN: no population of Schnarrndorf found
-WARN: no population of Stadl-Hausruck found
-WARN: no population of Ritzendorf found
-WARN: no population of Schauersberg found
-WARN: no population of Hetzendorf found
-WARN: no population of Salfelden found
-WARN: no population of Spumberg found
-WARN: no population of Steuer found
-WARN: no population of Obergäu found
-WARN: no population of Gamp found
-WARN: no population of Vorderwiestal found
-WARN: no population of Hinterwiestal found
-WARN: no population of Rußbachsaag found
-WARN: no population of Taugl found
-WARN: no population of Riedl found
-WARN: no population of Würzenberg found
-WARN: no population of Muntigl found
-WARN: no population of Großenegg found
-WARN: no population of Oberwinkl found
 WARN: no population of Kalham found
-WARN: no population of Bulharting found
-WARN: no population of Eichet found
-WARN: no population of Gramling found
-WARN: no population of Winkl found
-WARN: no population of Knotzing found
-WARN: no population of Matzing found
-WARN: no population of Schlößl found
-WARN: no population of Vollern found
-WARN: no population of Winkl found
-WARN: no population of Winkl found
-WARN: no population of Aigen found
-WARN: no population of Leithen found
-WARN: no population of Wals found
 WARN: no population of Sinnhub found
-WARN: no population of Gadaunern found
-WARN: no population of Winkl found
-WARN: no population of Klammstein found
-WARN: no population of Reitdorf found
-WARN: no population of Hofmark found
-WARN: no population of Sonnhalb found
-WARN: no population of Schlöglberg found
-WARN: no population of Maier found
-WARN: no population of Schwemmberg found
-WARN: no population of Ginau found
-WARN: no population of Lammertal found
-WARN: no population of Sankt Veit im Pongau found
-WARN: no population of Obertauern found
-WARN: no population of Sulzau found
-WARN: no population of Eulersberg found
-WARN: no population of Pichl found
-WARN: no population of Vordermuhr found
-WARN: no population of Mitterberg found
-WARN: no population of Sankt Andrä im Lungau found
-WARN: no population of Sankt Margarethen im Lungau found
-WARN: no population of Sauerfeld found
-WARN: no population of Bundschuh found
 WARN: no population of Rothenwand found
-WARN: no population of Mühlberg found
-WARN: no population of Reit found
-WARN: no population of Taxenbacher-Fusch found
-WARN: no population of Arndorf found
-WARN: no population of Unterkrimml found
-WARN: no population of Winkl found
-WARN: no population of Scheffsnoth found
-WARN: no population of Enterwinkl found
-WARN: no population of Loferstein found
-WARN: no population of Rosental found
-WARN: no population of Walchen found
-WARN: no population of Hinterglemm found
-WARN: no population of Ruhgassing found
-WARN: no population of Sankt Martin bei Lofer found
-WARN: no population of Reit found
-WARN: no population of Tobersbach found
-WARN: no population of Vorderkrimml found
-WARN: no population of Graz,05.Bez.:Gries found
-WARN: no population of Laßnitz found
-WARN: no population of Heuholz found
-WARN: no population of Tobis found
-WARN: no population of Kerschbaum found
-WARN: no population of Wohlsdorf found
-WARN: no population of Bergegg found
-WARN: no population of Sankt Lorenzen found
-WARN: no population of Graschach found
-WARN: no population of Sommereben found
-WARN: no population of Garanas found
-WARN: no population of Rassach found
-WARN: no population of Mitterlimberg found
-WARN: no population of Lebern found
-WARN: no population of Dörfla found
-WARN: no population of Sankt Veit found
-WARN: no population of Tobelbad found
-WARN: no population of Schaftal found
-WARN: no population of Hofstätten found
-WARN: no population of Rinnegg found
-WARN: no population of Thoneben found
-WARN: no population of Mühl found
-WARN: no population of Markt-Übelbach found
-WARN: no population of Fölling found
-WARN: no population of Königgraben found
-WARN: no population of Lamberg found
-WARN: no population of Edelsbach bei Graz found
-WARN: no population of Gnaning found
-WARN: no population of Peugen found
-WARN: no population of Eisbach found
-WARN: no population of Södingberg found
-WARN: no population of Obergoggitsch found
-WARN: no population of Grambach found
-WARN: no population of Sankt Marein bei Graz-Umgebung found
-WARN: no population of Pirka found
-WARN: no population of Laa found
-WARN: no population of Pichla found
-WARN: no population of Maltschach found
-WARN: no population of Sajach found
-WARN: no population of Nestelbach found
-WARN: no population of Matzelsdorf found
-WARN: no population of Neurath found
-WARN: no population of Jöß found
-WARN: no population of Lebring found
-WARN: no population of Altenbach found
-WARN: no population of Oedt found
-WARN: no population of Sausal found
-WARN: no population of Praratheregg found
-WARN: no population of Oberjahring found
 WARN: no population of Tillmitsch Links der Laßnitz found
-WARN: no population of Aflenz an der Sulm found
-WARN: no population of Ehrenhausen found
-WARN: no population of Sulztal found
-WARN: no population of Sausal found
-WARN: no population of Felgitsch found
-WARN: no population of Oberlupitscheni found
-WARN: no population of Leutschach found
-WARN: no population of Alla found
-WARN: no population of Neutersdorf found
-WARN: no population of Matzelsdorf found
-WARN: no population of Obervogau found
-WARN: no population of Schattenberg found
-WARN: no population of Mötschendorf found
-WARN: no population of Kraubathgraben found
-WARN: no population of Prentgraben found
-WARN: no population of Radmer an der Stube found
-WARN: no population of Hinterlainsach found
-WARN: no population of Madstein found
-WARN: no population of Treffning found
-WARN: no population of Lichtersberg found
-WARN: no population of Eßling found
-WARN: no population of Gschlößl found
-WARN: no population of Bräuhof found
-WARN: no population of Birnberg found
-WARN: no population of Döllach found
-WARN: no population of Dietmannsdorf bei Trieben found
-WARN: no population of Maitschern found
-WARN: no population of Pichl found
-WARN: no population of Treglwang found
-WARN: no population of Raumberg found
-WARN: no population of Hieflau found
-WARN: no population of Pruggern found
-WARN: no population of Unterlengdorf found
-WARN: no population of Gritschenberg found
-WARN: no population of Sankt Georgen found
-WARN: no population of Unterlaussa found
-WARN: no population of Pichl found
-WARN: no population of Großsölk found
-WARN: no population of Untergrimming found
-WARN: no population of Jakobsberg found
-WARN: no population of Pöllau am Greim found
-WARN: no population of Schöderberg found
-WARN: no population of Krakaudorf found
-WARN: no population of Laßnitz-Murau found
-WARN: no population of Dürnstein in der Steiermark found
-WARN: no population of Winklern bei Oberwölz found
-WARN: no population of Bodendorf found
-WARN: no population of Sankt Blasen found
-WARN: no population of Lind bei Scheifling found
-WARN: no population of Einach found
-WARN: no population of Frojach found
-WARN: no population of Muggauberg found
-WARN: no population of Oberwald found
-WARN: no population of Rubmannsberg found
-WARN: no population of Großwöllmiß found
-WARN: no population of Raßberg found
-WARN: no population of Modriach found
-WARN: no population of Södingberg found
-WARN: no population of Pack found
-WARN: no population of Hemmerberg found
-WARN: no population of Hochgößnitz found
-WARN: no population of Köppling found
-WARN: no population of Völlegg found
-WARN: no population of Sonnleitberg found
-WARN: no population of Reith bei Hartmannsdorf found
-WARN: no population of Wetzawinkel found
-WARN: no population of Ludersdorf found
-WARN: no population of Dorfviertel found
-WARN: no population of Oberdorf found
-WARN: no population of Haselbach bei Weiz found
-WARN: no population of Gschaid bei Weiz found
-WARN: no population of Klettendorf found
-WARN: no population of Grubbauer found
-WARN: no population of Inneres Kaltenegg found
 WARN: no population of Sankt Kathrein am Offenegg II.Viertel found
-WARN: no population of Takern II found
-WARN: no population of Nagl found
-WARN: no population of Außeregg found
-WARN: no population of Raas found
-WARN: no population of Baierdorf-Umgebung found
-WARN: no population of Piregg found
-WARN: no population of Fladnitz-Tober found
-WARN: no population of Oberrettenbach found
-WARN: no population of Arnwiesen found
-WARN: no population of Plenzengreith found
-WARN: no population of Krammersdorf found
-WARN: no population of Kleinpesendorf found
-WARN: no population of Dietmannsdorf found
-WARN: no population of Büchl found
-WARN: no population of Hetzendorf found
-WARN: no population of Puchschachen found
-WARN: no population of Oberfarrach found
-WARN: no population of Wöll found
-WARN: no population of Pichl found
-WARN: no population of Dürnberg found
-WARN: no population of Frauenburg found
-WARN: no population of Großlobming found
-WARN: no population of Bärnthal found
-WARN: no population of Sankt Johann am Tauern Schattseite found
-WARN: no population of Ritzendorf found
-WARN: no population of Weyern found
-WARN: no population of Möbersdorf found
-WARN: no population of Sankt Erhard found
-WARN: no population of Alpl found
-WARN: no population of Lechen found
-WARN: no population of Mixnitz found
-WARN: no population of Mödersdorf found
-WARN: no population of Fladenbach found
-WARN: no population of Au bei Turnau found
-WARN: no population of Tutschach found
-WARN: no population of Pischk found
-WARN: no population of Arndorf found
-WARN: no population of Walstern found
-WARN: no population of Edlach found
-WARN: no population of Dorf found
-WARN: no population of Veitsch found
-WARN: no population of Palbersdorf found
-WARN: no population of Oberdorf found
-WARN: no population of Speilbrunn found
-WARN: no population of Hopfau found
-WARN: no population of Nörning found
-WARN: no population of Ortgraben found
-WARN: no population of Wolfgrub found
-WARN: no population of Habersdorf found
-WARN: no population of Mitterdombach found
-WARN: no population of Unterneuberg found
-WARN: no population of Kaltenegg found
-WARN: no population of Mitterberg found
-WARN: no population of Riegl found
-WARN: no population of Guggendorf found
-WARN: no population of Ruppersdorf found
-WARN: no population of Buchberg bei Herberstein found
-WARN: no population of Pittermann found
-WARN: no population of Geier found
-WARN: no population of Hirnsdorf found
-WARN: no population of Übersbach found
-WARN: no population of Pongratzen found
-WARN: no population of Radersdorf found
-WARN: no population of Untertiefenbach found
-WARN: no population of Leithen found
-WARN: no population of Gillersdorf found
-WARN: no population of Unterlimbach found
-WARN: no population of Hinteregg found
-WARN: no population of Wörth an der Lafnitz found
-WARN: no population of Karnerviertel found
-WARN: no population of Oberpurkla found
-WARN: no population of Wetzelsdorf bei Jagerberg found
-WARN: no population of Pichla found
-WARN: no population of Klöchberg found
-WARN: no population of Lichendorf found
-WARN: no population of Patzen found
-WARN: no population of Waldsberg found
-WARN: no population of Zelting found
-WARN: no population of Schiefer found
-WARN: no population of Gossendorf found
-WARN: no population of Glatzental found
-WARN: no population of Dörfla found
-WARN: no population of Radersdorf found
-WARN: no population of Gosdorf found
-WARN: no population of Edelstauden found
-WARN: no population of Aigen found
-WARN: no population of Glojach found
-WARN: no population of Wilten found
-WARN: no population of Leins found
-WARN: no population of Obermieming found
-WARN: no population of Zaunhof found
-WARN: no population of Kühtai found
-WARN: no population of Zwieselstein found
 WARN: no population of Obtarrenz found
-WARN: no population of Köfels found
-WARN: no population of Axamer Lizum found
-WARN: no population of Medraz found
-WARN: no population of Hattingerberg found
-WARN: no population of Obfeldes found
-WARN: no population of Oberweg found
-WARN: no population of Pfons found
-WARN: no population of Außerschmirn found
-WARN: no population of Heiligkreuz found
 WARN: no population of Plöven found
 WARN: no population of Sagl found
-WARN: no population of Kleinvolderberg found
-WARN: no population of Hopfgarten-Markt found
-WARN: no population of Kleinsöll found
-WARN: no population of Mehrn found
-WARN: no population of Oberbuchberg found
-WARN: no population of Mariatal found
-WARN: no population of Endach found
-WARN: no population of Saulueg found
-WARN: no population of Oberlangkampfen found
-WARN: no population of Noppenberg found
-WARN: no population of Scheffach found
 WARN: no population of Almen found
-WARN: no population of Durchholzen found
-WARN: no population of Auffach found
-WARN: no population of Schnann found
-WARN: no population of St. Jakob am Arlberg found
-WARN: no population of Zammerberg found
-WARN: no population of Alkus found
-WARN: no population of Winkl found
-WARN: no population of Unterassling found
-WARN: no population of Untergaimberg found
-WARN: no population of Iselsberg found
-WARN: no population of Oberpeischlach found
-WARN: no population of Hollbruck found
-WARN: no population of Lindsberg found
-WARN: no population of Debanttal found
-WARN: no population of Oberdrum found
-WARN: no population of Leiten found
-WARN: no population of Oberrotte found
-WARN: no population of Gritzen found
-WARN: no population of Arnbach found
-WARN: no population of Oberdorf found
-WARN: no population of Panzendorf found
-WARN: no population of Mitteregg found
-WARN: no population of Untergiblen found
-WARN: no population of Obergarten found
-WARN: no population of Rauth found
-WARN: no population of Bschlabs found
-WARN: no population of Oberletzen found
-WARN: no population of Oberpinswang found
-WARN: no population of Hägerau found
-WARN: no population of Holz found
-WARN: no population of Gaicht found
-WARN: no population of Aschau found
-WARN: no population of Imming found
 WARN: no population of Bächental found
-WARN: no population of Gagering found
-WARN: no population of Pankrazberg found
-WARN: no population of Helfenstein found
-WARN: no population of Hippach-Schwendberg found
-WARN: no population of Schlagturn found
-WARN: no population of Kleinboden found
-WARN: no population of Vomperberg found
-WARN: no population of Tiergarten found
-WARN: no population of Zellbergeben found
 WARN: no population of Gantschier found
 WARN: no population of Ausserbraz found
-WARN: no population of Wald am Arlberg found
-WARN: no population of Türtsch found
 WARN: no population of Ludescherberg found
 WARN: no population of Nenzinger Himmel found
-WARN: no population of Plazera found
-WARN: no population of Gortipohl found
-WARN: no population of Nesler found
-WARN: no population of Rehmen found
-WARN: no population of Großdorf found
-WARN: no population of Riezlern found
-WARN: no population of Batschuns found
 WARN: no population of Wien, Innere Stadt found
 WARN: no population of Wien, Leopoldstadt found
 WARN: no population of Wien, Landstraße found
@@ -4104,7 +2993,6 @@ WARN: no population of Kemptthal found
 WARN: no population of Pfäffikon ZH found
 WARN: no population of Rumlikon found
 WARN: no population of Ehrikon found
-WARN: no population of Hinteregg found
 WARN: no population of Benglen found
 WARN: no population of Wermatswil found
 WARN: no population of Zwillikon found
@@ -15398,718 +14286,1749 @@ Plaue: 1972
 Schmiedehausen: 344
 Saalfeld/Saale: 29086
 Neundorf (bei Schleiz): 257
-Eisenstadt: 16396
-Donnerskirchen: 1856
-Großhöflein: 2078
-Leithaprodersdorf: 1258
-Mörbisch am See: 2163
-Müllendorf: 1529
-Neufeld an der Leitha: 3633
-Oggau am Neusiedler See: 1703
-Purbach am Neusiedler See: 3128
-Sankt Margarethen im Burgenland: 2705
-Schützen am Gebirge: 1453
-Wimpassing an der Leitha: 1704
-Loretto: 545
-Stotzing: 839
-Bocksdorf: 800
-Neustift bei Güssing: 432
-Olbendorf: 1481
-Ollersdorf im Burgenland: 959
-Stegersbach: 2746
-Hackerberg: 383
-Wörterberg: 532
-Großmürbisch: 224
-Inzenhof: 328
-Kleinmürbisch: 221
-Tschanigraben: 69
-Heugraben: 220
-Rohr im Burgenland: 358
-Rauchwart: 468
-Moschendorf: 357
-Deutsch Kaltenbrunn: 1743
-Mühlgraben: 376
-Forchtenstein: 2797
-Hirm: 1127
-Loipersbach im Burgenland: 1286
-Marz: 2049
-Neudörfl: 5016
-Pöttelsdorf: 760
-Pöttsching: 3036
-Rohrbach bei Mattersburg: 2687
-Bad Sauerbrunn: 2387
-Schattendorf: 2334
-Sieggraben: 1239
-Sigleß: 1161
-Krensdorf: 624
-Andau: 2257
-Apetlon: 1728
-Deutsch Jahrndorf: 647
-Frauenkirchen: 2960
-Gols: 3929
-Halbturn: 1849
-Illmitz: 2308
-Jois: 1693
-Kittsee: 3898
-Mönchhof: 2176
-Neusiedl am See: 8867
-Nickelsdorf: 1806
-Pamhagen: 1455
-Podersdorf am See: 2129
-Sankt Andrä am Zicksee: 1378
-Tadten: 1123
-Wallern im Burgenland: 1629
-Weiden am See: 2560
-Winden am See: 1373
-Zurndorf: 2322
-Potzneusiedl: 689
-Edelstal: 824
-Lackenbach: 1125
-Lutzmannsburg: 843
-Neutal: 1145
-Piringsdorf: 829
-Raiding: 920
-Ritzing: 914
-Stoob: 1374
-Lackendorf: 632
-Unterfrauenhaid: 638
-Oberloisdorf: 824
-Kemeten: 1559
-Kohfidisch: 1419
-Litzelsdorf: 1137
-Markt Allhau: 2054
-Oberdorf im Burgenland: 959
-Oberschützen: 2499
-Pinkafeld: 5881
-Rechnitz: 3014
-Riedlingsdorf: 1664
-Rotenturm an der Pinka: 1462
-Wolfau: 1514
-Neustift an der Lafnitz: 829
-Jabing: 735
-Badersdorf: 283
-Köstendorf: 2752
-Stallhofen: 3252
-Pörtschach am Wörther See: 2959
-St. Oswald: 1141
-Baldramsdorf: 1827
-Mallnitz: 753
-Asten: 7681
-Pölla: 902
-Leoben: 24455
-Bad Bleiberg: 2109
-Feistritz an der Gail: 649
-Feld am See: 1050
-Göriach: 350
-Velden am Wörther See: 9171
-Bad St. Leonhard im Lavanttal: 4202
-Krems an der Donau: 25581
-Wiener Neustadt: 50025
-Ennsdorf: 3331
-Ertl: 1250
-Euratsfeld: 2827
-Ferschnitz: 1867
-Haidershofen: 3706
-St. Valentin: 9291
-Seitenstetten: 3389
-Viehdorf: 1346
-Wolfsbach: 2246
-Zeillern: 1929
-Baden: 26097
-Enzesfeld-Lindabrunn: 4297
-Günselsdorf: 1744
-Hirtenberg: 2571
-Klausen-Leopoldsdorf: 1701
-Kottingbrunn: 7380
-Leobersdorf: 5363
-Mitterndorf an der Fischa: 3155
-Oberwaltersdorf: 5353
-Pfaffstätten: 3522
-Reisenberg: 1721
-Sooß: 1065
-Tattendorf: 1509
-Teesdorf: 1897
-Trumau: 3714
-Weissenbach an der Triesting: 1673
-Au am Leithaberge: 964
-Bad Deutsch-Altenburg: 1960
-Bruck an der Leitha: 8895
-Götzendorf an der Leitha: 2217
-Höflein: 1243
-Hof am Leithaberge: 1694
-Hundsheim: 661
-Petronell-Carnuntum: 1256
-Prellenkirchen: 1725
-Sommerein: 2279
-Wolfsthal: 1275
-Gramatneusiedl: 3643
-Klein-Neusiedl: 910
-Lanzendorf: 1987
-Leopoldsdorf: 5585
-Maria-Lanzendorf: 2270
-Moosbrunn: 1802
-Rauchenwarth: 803
-Schwadorf: 2439
-Zwölfaxing: 1639
-Aderklaa: 220
-Andlersdorf: 155
-Angern an der March: 3570
-Auersthal: 2062
-Deutsch-Wagram: 9389
-Ebenthal: 901
-Gänserndorf: 12348
-Glinzendorf: 366
-Groß-Enzersdorf: 12156
-Großhofen: 114
-Groß-Schweinbarth: 1389
-Hohenau an der March: 2737
-Hohenruppersdorf: 945
-Jedenspeigen: 1109
-Mannsdorf an der Donau: 340
-Marchegg: 3173
-Markgrafneusiedl: 933
-Neusiedl an der Zaya: 1219
-Obersiebenbrunn: 1774
-Orth an der Donau: 2253
-Parbasdorf: 175
-Prottes: 1421
-Raasdorf: 750
-Schönkirchen-Reyersdorf: 2033
-Spannberg: 990
-Strasshof an der Nordbahn: 12324
-Untersiebenbrunn: 1761
-Gmünd: 5139
-Litschau: 2083
-Sulz: 2713
-Alberndorf im Pulkautal: 703
-Guntersdorf: 1176
-Riegersburg: 4952
-Mailberg: 551
-Maissau: 1964
-Schrattenthal: 877
-Langau: 665
-Bisamberg: 4892
-Hagenbrunn: 2447
-Korneuburg: 13790
-Langenzersdorf: 8197
-Leitzersdorf: 1173
-Spillern: 2676
-Stetteldorf am Wagram: 1065
-Langenlois: 7470
-Rohrendorf bei Krems: 2127
-Straß im Straßertale: 1761
-Stratzing: 877
-Droß: 1025
-Hohenberg: 1405
-Bergland: 1897
-Erlauf: 1109
-Klein-Pöchlarn: 1058
-Loosdorf: 3866
-Marbach an der Donau: 1709
-Petzenkirchen: 1648
-Fischbach: 1479
-Altlichtenwarth: 736
-Asparn an der Zaya: 1964
-Bockfließ: 1265
-Gaubitsch: 945
-Großengersdorf: 1578
-Hausbrunn: 922
-Herrnbaumgarten: 925
-Laa an der Thaya: 6206
-Kirchstetten: 2282
-Niederleis: 930
-Pillichsdorf: 1235
-Rabensburg: 1064
-Schrattenberg: 835
-Unterstinkenbrunn: 557
-Ottenthal: 525
-Achau: 1736
-Biedermannsdorf: 3166
-Breitenfurt bei Wien: 5956
-Brunn am Gebirge: 12308
-Gaaden: 1606
-Gießhübl: 2440
-Gumpoldskirchen: 4051
-Guntramsdorf: 9441
-Hennersdorf: 1513
-Kaltenleutgeben: 3304
-Laab im Walde: 1087
-Laxenburg: 3090
-Maria Enzersdorf: 8910
-Mödling: 20662
-Münchendorf: 3247
-Perchtoldsdorf: 14904
-Vösendorf: 7663
-Wiener Neudorf: 9647
-Breitenstein: 273
-Edlitz: 928
-Grimmenstein: 1337
-Grünbach am Schneeberg: 1608
-Mönichkirchen: 615
-Otterthal: 545
-Payerbach: 2104
-Prigglitz: 435
-Raach am Hochgebirge: 321
-St. Corona am Wechsel: 395
-Schwarzau am Steinfeld: 2225
-Trattenbach: 518
-Wimpassing im Schwarzatale: 1603
-Gerersdorf: 1081
-Neidling: 1524
-Nußdorf ob der Traisen: 1922
-Uttendorf: 3009
-Gablitz: 5195
-Mauerbach: 3669
-Purkersdorf: 9931
-Wolfsgraben: 1815
-Pernegg: 672
-Lunz am See: 1753
-Wieselburg: 4950
-Absdorf: 2556
-Großweikersdorf: 3347
-Königstetten: 2517
-Langenrohr: 2573
-Sieghartskirchen: 7799
-Katzelsdorf: 3156
-Wolfpassing: 1759
-Schwarzenberg: 1931
-Eggendorf: 5110
-Felixdorf: 4557
-Krumbach: 1108
-Lichtenwörth: 2969
-Markt Piesting: 3089
-Miesenbach: 630
-Muggendorf: 502
-Rohr im Gebirge: 418
-Bromberg: 1169
-Sollenau: 5481
-Theresienfeld: 4259
-Walpersbach: 1201
-Weikersdorf am Steinfelde: 1103
-Wiesmath: 1548
-Zillingdorf: 2070
-Bärnkopf: 331
-Rappottenstein: 1732
-Linz: 214272
-Steyr: 37898
-Eggelsberg: 2939
-Mattighofen: 7763
-Ostermiething: 3378
-Perwang am Grabensee: 1118
-Überackern: 687
-Eferding: 4435
-Haibach ob der Donau: 1273
-Lengau: 5236
-Gmunden: 13142
-Gosau: 1853
-Grünau im Almtal: 2050
-Laakirchen: 9726
-Obertraun: 726
-Hochleithen: 1081
+Eisenstadt: 104920
+Donnerskirchen: 18560
+Großhöflein: 20780
+Leithaprodersdorf: 12580
+Mörbisch am See: 21630
+Müllendorf: 15290
+Neufeld an der Leitha: 36330
+Oggau am Neusiedler See: 17030
+Purbach am Neusiedler See: 31280
+Sankt Margarethen im Burgenland: 27050
+Schützen am Gebirge: 14530
+Wimpassing an der Leitha: 17040
+Loretto: 5450
+Stotzing: 8390
+Bocksdorf: 8000
+Burgauberg: 7630
+Kroatisch Ehrensdorf: 630
+Rehgraben: 1610
+Krottendorf: 1750
+Reinersdorf: 1570
+Neustift bei Güssing: 4320
+Olbendorf: 14810
+Ollersdorf im Burgenland: 9590
+Gamischdorf: 1410
+Stegersbach: 27460
+Sumetendorf: 420
+Punitz: 2860
+Hackerberg: 3830
+Wörterberg: 5320
+Großmürbisch: 2240
+Inzenhof: 620
+Kleinmürbisch: 2210
+Tschanigraben: 690
+Heugraben: 110
+Rohr im Burgenland: 3580
+Unterbildein: 1620
+Rauchwart: 4680
+Moschendorf: 3570
+Deutsch Kaltenbrunn: 11940
+Zahling: 3560
+Poppendorf im Burgenland: 3980
+Henndorf im Burgenland: 4900
+Tauka: 2860
+Krottendorf bei Neuhaus am Klausenbach: 1270
+Doiber: 2420
+Maria Bild: 2020
+Mühlgraben: 8240
+Forchtenstein: 27970
+Hirm: 270
+Loipersbach im Burgenland: 12860
+Marz: 20490
+Walbersdorf: 8140
+Neudörfl: 730
+Pöttelsdorf: 7600
+Pöttsching: 30360
+Rohrbach bei Mattersburg: 26870
+Bad Sauerbrunn: 23870
+Schattendorf: 23340
+Sieggraben: 12390
+Sigleß: 11610
+Stöttera: 5640
+Krensdorf: 6240
+Andau: 22570
+Apetlon: 17280
+Königshof: 460
+Deutsch Jahrndorf: 6470
+Frauenkirchen: 29600
+Gols: 39290
+Halbturn: 18490
+Illmitz: 23080
+Jois: 16930
+Kittsee: 38980
+Mönchhof: 21760
+Neusiedl am See: 88670
+Nickelsdorf: 18060
+Pamhagen: 14550
+Podersdorf am See: 21290
+Sankt Andrä am Zicksee: 13780
+Tadten: 11230
+Wallern im Burgenland: 16290
+Weiden am See: 25600
+Winden am See: 13730
+Zurndorf: 23220
+Potzneusiedl: 6890
+Edelstal: 8240
+Girm: 3650
+Unterpetersdorf: 4840
+Oberpetersdorf: 5810
+Lackenbach: 11250
+Hochstraß: 1950
+Lutzmannsburg: 5960
+Unterloisdorf: 2090
+Landsee: 2840
+Haschendorf: 6910
+Neutal: 11450
+Lebenbrunn: 1240
+Piringsdorf: 8290
+Raiding: 9200
+Ritzing: 420
+Stoob: 13740
+Kalkgruben: 3190
+Lackendorf: 6320
+Unterfrauenhaid: 6380
+Unterrabnitz: 4860
+Oberloisdorf: 8240
+Jormannsdorf: 6570
+Dreihütten: 1190
+Eisenberg an der Pinka: 4670
+Kroisegg: 2670
+Kleinpetersdorf: 2360
+Woppendorf: 1180
+Kemeten: 15590
+Kohfidisch: 8840
+Litzelsdorf: 11370
+Kitzladen: 3210
+Tauchen: 1430
+Markt Allhau: 15260
+Kleinbachselten: 1320
+Oberdorf im Burgenland: 9590
+Oberschützen: 11560
+Pinkafeld: 55430
+Rechnitz: 30140
+Riedlingsdorf: 16640
+Rotenturm an der Pinka: 9660
+Altschlaining: 2920
+Günseck: 1590
+Eisenzicken: 2610
+Schönherrn: 800
+Wolfau: 80
+Neustift an der Lafnitz: 8290
+Jabing: 7350
+Badersdorf: 2830
+Klagenfurt,02.Bez.:Innere Stadt: 7630
+Oberwollanig: 2620
+Stollwitz: 320
+Wittenig: 420
+Stöfflerberg: 170
+Sittmoos: 140
+Köstendorf: 11870
+Leditz: 90
+Maria Luggau: 1730
+Weizelsdorf: 3700
+Otrouza: 680
+Sabuatach: 160
+Plaschischen: 1380
+Plöschenberg: 500
+Nußberg: 260
+Stemeritsch: 280
+Stuttern: 90
+Unterdellach: 580
+Stallhofen: 13120
+Pörtschach am Wörther See: 29590
+Annamischl: 160
+Gotschuchen: 2160
+Arndorf: 3430
+Matzendorf: 18340
+Salchendorf: 1040
+Gray: 150
+St. Oswald: 11410
+Moserwinkl: 190
+Grai: 90
+Rabachboden: 150
+Heft: 100
+Dürnfeld: 470
+Raffelsdorf: 580
+Eggen II: 30
+Zwatzhof: 250
+Gulitzen: 1520
+Welsbach: 100
+Rottenstein: 430
+Unterrain: 230
+Hardernitzen: 540
+Kraig: 6520
+Baldramsdorf: 6290
+Frallach: 770
+Raßnig: 310
+Kraß: 720
+Schmelzhütten: 860
+Platz: 210
+Potschling: 600
+Blaßnig: 160
+Windschnurn: 280
+Mallnitz: 4350
+Brandstatt: 2360
+Matzelsdorf: 810
+Asten: 2100
+Sachsenweg: 50
+Oberpirkach: 150
+Untertweng: 7060
+Witschdorf: 1730
+Pölla: 170
+Nigglai: 50
+Treffling: 4980
+Oberamlach: 1720
+Wöllatratten: 610
+Fellberg: 70
+Neuschitz: 680
+Oberdorf: 1120
+Namlach: 1590
+Leoben: 83110
+Drauhofen: 420
+Sandbichl: 580
+Pöckau: 7690
+Oberwöllan: 610
+Bad Bleiberg: 4790
+Feistritz an der Gail: 6490
+Feld am See: 6420
+Glanz: 1060
+Kopein: 110
+Göriach: 1430
+Glabatschach: 100
+Duel: 2120
+Frojach: 5250
+Unteralm: 1050
+Velden am Wörther See: 24280
+Puch: 3950
+Obergreutschach: 620
+Buchhalm: 1220
+Bad Eisenkappel: 8830
+Dolintschach: 190
+St. Kollmann: 950
+Kogelnigberg: 130
+Tainach: 5770
+Bad St. Leonhard im Lavanttal: 19040
+Obergösel: 1010
+Unterbergen: 640
+Unterauerling: 990
+Unteraigen: 140
+Herzogberg: 600
+Kampach: 840
+Reideben: 750
+Untereggen: 270
+Tschwarzen: 900
+Glantscha: 450
+Görzberg: 110
+Kösting: 100
+Alt-Ossiach: 2620
+Winkl Ossiachberg: 740
+Regenfeld: 460
+Krems an der Donau: 151030
+Oberwagram: 970
+Kreilhof: 2900
+Wiener Neustadt: 500250
+Mauer bei Amstetten: 23910
+Kollmitzberg: 7060
+Krenstetten: 4600
+Badhof: 3480
+Ennsdorf: 33310
+Ertl: 12500
+Euratsfeld: 28270
+Ferschnitz: 18670
+Edelhof: 280
+Haidershofen: 37060
+Thalbauer: 380
+Kematen: 27060
+Amesleiten: 4140
+Windpassing: 860
+Öhling: 14230
+Strubb: 380
+Hochau: 550
+Erla: 7990
+St. Peter in der Au-Markt: 19550
+St. Valentin: 92910
+Seitenstetten: 33890
+Hilm: 3110
+Viehdorf: 6330
+Igelschwang: 50
+Haag Dorf: 3540
+Wolfsbach: 810
+Großprolling: 1660
+Zeillern: 19290
+Mayerling: 3010
+St. Corona am Schöpfl: 3270
+Großau: 1120
+Baden: 260970
+Weigelsdorf: 2200
+Enzesfeld-Lindabrunn: 42970
+Günselsdorf: 17440
+Preinsfeld: 1320
+Grillenberg: 3990
+Hirtenberg: 25710
+Klausen-Leopoldsdorf: 17010
+Kottingbrunn: 73800
+Leobersdorf: 53630
+Mitterndorf an der Fischa: 31550
+Oberwaltersdorf: 53530
+Pfaffstätten: 34190
+Landegg: 11080
+Fahrafeld: 2210
+Reisenberg: 17210
+Siebenhaus: 6420
+Deutsch-Brodersdorf: 9900
+Sooß: 1630
+Tattendorf: 15090
+Teesdorf: 18970
+Tribuswinkel: 36550
+Trumau: 37140
+Weissenbach an der Triesting: 9230
+Blumau: 1150
+Au am Leithaberge: 9640
+Bad Deutsch-Altenburg: 19600
+Bruck an der Leitha: 77600
+Margarethen am Moos: 15650
+Arbesthal: 5220
+Götzendorf an der Leitha: 16620
+Hainburg an der Donau: 70550
+Haslau an der Donau: 9410
+Höflein: 1130
+Hof am Leithaberge: 16940
+Hundsheim: 2050
+Petronell-Carnuntum: 12560
+Prellenkirchen: 11320
+Pachfurth: 7000
+Regelsbrunn: 3400
+Sommerein: 22790
+Stixneusiedl: 5660
+Wolfsthal: 12750
+Wienerherberg: 7630
+Gramatneusiedl: 36430
+Pellendorf: 120
+Klein-Neusiedl: 9100
+Lanzendorf: 270
+Leopoldsdorf: 2000
+Maria-Lanzendorf: 22700
+Moosbrunn: 18020
+Rauchenwarth: 8030
+Schwadorf: 24390
+Rannersdorf: 60
+Zwölfaxing: 16390
+Aderklaa: 2200
+Andlersdorf: 1550
+Angern an der March: 14970
+Auersthal: 20620
+Kollnbrunn: 4470
+Deutsch-Wagram: 93890
+Waltersdorf an der March: 2390
+Waidendorf: 4960
+Ebenthal: 120
+Kopfstetten: 2200
+Groißenbrunn: 2200
+Gänserndorf: 123480
+Glinzendorf: 3660
+Groß-Enzersdorf: 71710
+Großhofen: 1140
+Groß-Schweinbarth: 13890
+Fuchsenbigl: 3460
+Rannersdorf an der Zaya: 1750
+Hohenau an der March: 27370
+Hohenruppersdorf: 9450
+Jedenspeigen: 6740
+Schönfeld im Marchfeld: 4120
+Breitstetten: 4280
+Mannsdorf an der Donau: 3400
+Marchegg: 23640
+Markgrafneusiedl: 9330
+Raggendorf: 6170
+Neusiedl an der Zaya: 11000
+Obersiebenbrunn: 17740
+Orth an der Donau: 22530
+Palterndorf: 5840
+Parbasdorf: 1750
+Prottes: 14210
+Raasdorf: 6940
+Niederabsdorf: 5800
+Schönkirchen-Reyersdorf: 20330
+Spannberg: 9900
+Strasshof an der Nordbahn: 123240
+Obersulz: 6010
+Untersiebenbrunn: 17610
+Götzendorf: 1360
+Tallesbrunn: 3260
+Windisch Baumgarten: 1830
+Oberweiden: 4140
+Amaliendorf: 6900
+Neu-Nagelberg: 870
+Reinberg-Heidenreichstein: 980
+Wielings: 640
+Gmünd: 44230
+Ehrendorf: 3320
+Seifritz: 160
+Wultschau: 1200
+Türnau: 280
+Altmanns: 1210
+Nondorf: 500
+Fromberg: 1000
+Litschau: 12520
+Hirschenschlag: 550
+Harmanschlag: 2410
+Kleedorf: 1030
+Ulrichs: 910
+Groß-Höbarten: 1320
+Sulz: 27130
+Alberndorf im Pulkautal: 7030
+Oberparschenbrunn: 950
+Schöngrabern: 10340
+Guntersdorf: 8340
+Obritz: 5600
+Riegersburg: 6520
+Auggenthal: 2920
+Oberthern: 2130
+Mühlbach am Manhartsberg: 2160
+Mailberg: 5510
+Maissau: 9310
+Kleinweikersdorf: 1750
+Ragelsdorf: 380
+Leodagger: 810
+Parisdorf: 1250
+Unternalb: 7430
+Oberretzbach: 1190
+Schrattenthal: 3300
+Großkadolz: 5720
+Roseldorf: 1580
+Oberstinkenbrunn: 2110
+Dietmannsdorf: 930
+Kiblitz: 1300
+Mahrersdorf: 1090
+Wutzendorf: 120
+Unterthürnau: 60
+Stoitzendorf: 2280
+Kotzendorf: 460
+Schirmannsreith: 410
+Breiteneich: 3740
+Wappoltenreith: 810
+Wenjapons: 1030
+Langau: 100
+Stockern: 1920
+Posselsdorf: 670
+Gobelsdorf: 330
+Klein-Reinprechtsdorf: 520
+Mörtersdorf: 1380
+Kainreith: 1490
+Rassingdorf: 510
+Wartberg: 1440
+Bisamberg: 42410
+Königsbrunn im Weinviertel: 7600
+Maisbirbaum: 2270
+Nursch: 1110
+Hagenbrunn: 20310
+Seitzersdorf-Wolfpassing: 4190
+Korneuburg: 137900
+Langenzersdorf: 81970
+Leitzersdorf: 6100
+Tresdorf: 7380
+Stranzendorf: 3040
+Senning: 110
+Spillern: 26760
+Stetteldorf am Wagram: 5240
+Unterzögersdorf: 4100
+Streitdorf: 1410
+Seyring: 200
+Harrau: 330
+Nesselstauden: 670
+Unterloiben: 3140
+Etsdorf am Kamp: 11450
+Stift Göttweig: 250
+Theiß: 5590
+Litschgraben: 210
+Kammern: 180
+Schiltingeramt: 840
+Langenlois: 47580
+Allentsgschwendt: 1380
+Benking: 280
+Trandorf: 2630
+Meidling: 2110
+Sperkental: 700
+Rohrendorf bei Krems: 21270
+Mitterarnsdorf: 1650
+Wolfshoferamt: 4660
+Meislingeramt: 310
+Schwallenbach: 1210
+Straß im Straßertale: 13890
+Stratzing: 8770
+Reichau: 580
+St. Michael: 260
+Stiefern: 1870
+Droß: 10000
+Annarotte: 1900
+Laimergraben: 250
+Kasberg: 510
+Hohenberg: 1630
+Steinbachtal: 290
+Ebenwald: 260
+Vordereben: 20
+Mitterbach-Seerotte: 3310
+Haraseck: 390
+Durlaß: 330
+Lahnsattel: 570
+Rainfeld: 7580
+Lehenrotte: 3540
+Dölla: 490
+Bergland: 18970
+Rametzhofen: 300
+Forstamt: 180
+Dürnbach: 670
+Erlauf: 9610
+Hinterleiten: 70
+Maxenbach: 40
+Heinrichsberg: 650
+Kimming: 60
+Klein-Pöchlarn: 10580
+Wallenbach: 610
+Urfahr: 350
+Loosdorf: 1970
+Bodendorf: 1810
+Marbach an der Donau: 2950
+Oberthalheim: 500
+Kollapriel: 230
+Eggathon: 190
+Kemmelbach: 4960
+Gulling: 900
+Persenbeug: 12860
+Petzenkirchen: 16480
+Röhrapoint: 320
+Mürfelndorf: 440
+Troibetsberg: 200
+Fohregg: 410
+Hub an der Mank: 90
+St. Martin am Ybbsfelde: 10020
+Berging: 30
+Schallaburg: 1440
+Eitental: 750
+Sarling: 4450
+Fischbach: 8550
+Nächst Altenmarkt: 1890
+Schallemmersdorf: 370
+Altlichtenwarth: 7360
+Asparn an der Zaya: 11270
+Reintal: 150
+Bockfließ: 12650
+Stützenhofen: 1020
+Gaubitsch: 4180
+Schrick: 11060
+Zwentendorf: 1970
+Manhartsbrunn: 4120
+Großengersdorf: 15780
+Zwingendorf: 4820
+Ginzersdorf: 2420
+Hausbrunn: 9220
+Herrnbaumgarten: 9250
+Bogenneusiedl: 1660
+Ritzendorf: 140
+Niederkreuzstetten: 9910
+Laa an der Thaya: 47800
+Neubau: 1190
+Kirchstetten: 1630
+Niederleis: 6950
+Pillichsdorf: 12350
+Ketzelsdorf: 2180
+Rabensburg: 10640
+Schrattenberg: 8350
+Ameis: 3240
+Unterschoderlee: 1120
+Kronberg: 30
+Unterstinkenbrunn: 5570
+Neuruppersdorf: 4540
+Ebersdorf an der Zaya: 1960
+Münichsthal: 7200
+Ottenthal: 3160
+Achau: 17360
+Biedermannsdorf: 31660
+Breitenfurt bei Wien: 59560
+Brunn am Gebirge: 123080
+Gaaden: 1360
+Gießhübl: 50
+Gumpoldskirchen: 40510
+Guntramsdorf: 94410
+Hennersdorf: 15130
+Weissenbach bei Mödling: 2800
+Kaltenleutgeben: 33040
+Laab im Walde: 10870
+Laxenburg: 30900
+Maria Enzersdorf: 89100
+Mödling: 206620
+Münchendorf: 32470
+Perchtoldsdorf: 149040
+Vösendorf: 76630
+Wiener Neudorf: 96470
+Tachenberg: 1410
+Aspang Markt: 18040
+Neustift am Alpenwalde: 310
+Breitenstein: 730
+Edlitz: 430
+Grottendorf: 970
+Saloder: 170
+Ober-Danegg: 1560
+Grimmenstein: 9620
+Grünbach am Schneeberg: 14520
+Kranichberg: 1350
+Mönichkirchen: 6150
+Natschbach: 9170
+Mollram: 6990
+Otterthal: 5450
+Payerbach: 11450
+Leiding: 1810
+Prigglitz: 2580
+Raach am Hochgebirge: 1730
+Oberland: 1850
+St. Corona am Wechsel: 3950
+Gerasdorf am Steinfeld: 4390
+Scheiblingkirchen: 6420
+Rosental: 7530
+Schwarzau am Steinfeld: 15700
+Steinbruch: 910
+Sollgraben: 20
+Semmering-Kurort: 5960
+Sieding: 1350
+Kulma: 500
+Trattenbach: 5180
+Bürg: 1220
+Kirchau: 2860
+Weibnitz: 340
+Strelzhof: 810
+Wimpassing im Schwarzatale: 16030
+Hettmannsdorf: 3820
+Pichl: 190
+Zweiersdorf: 1370
+Habersdorf: 1600
+Stollberg: 810
+Winkl: 1670
+Gerersdorf: 950
+Plambach: 720
+Hengstberg: 180
+Pielachhäuser: 2000
+Unterhameten: 340
+Anzenberg: 130
+Katzenberg: 340
+Hummelberg bei Kasten: 100
+Tradigistgegend: 1330
+Fuchsberg: 190
+Schroffengegend: 690
+Untergoin: 940
+Neidling: 1180
+Barbaraholz: 370
+Nußdorf ob der Traisen: 5480
+Rennersdorf: 80
+Kleinhain: 1520
+Uttendorf: 17780
+Deutschbach: 1680
+Feilendorf: 250
+Rottersdorf: 1970
+Gemeinlebarn: 7300
+Klangen: 740
+Langmannersdorf: 3540
+Ratzersdorf: 450
+Gablitz: 51950
+Mauerbach: 33310
+Au am Kraking: 50
+Purkersdorf: 99310
+Tullnerbach-Lawies: 16820
+Wolfsgraben: 18150
+Neuhaus-Langau: 60
+Pernegg: 8870
+Ybbsbachamt: 3200
+Oberamt: 4290
+Lunz am See: 17530
+Sulzbichl: 130
+Hochrieß: 810
+Schliefau: 1970
+Robitzboden: 3200
+Gabel: 70
+Kandelsberg: 300
+Wieselburg: 49500
+Kratzenberg: 100
+Absdorf: 25560
+Heiligeneich: 14740
+Gösing am Wagram: 3620
+Jettsdorf: 3540
+Großweikersdorf: 19300
+Baumgarten am Tullnerfeld: 9180
+Utzenlaa: 1380
+Königstetten: 25170
+Langenrohr: 14310
+Michelndorf: 2870
+Sieghartskirchen: 21440
+Katzelsdorf: 420
+Nitzing: 3910
+Wolfpassing: 8840
+Preuwitz: 1290
+Wipfing: 7730
+Maria Gugging: 13610
+Neu-Dietmanns: 4190
+Lexnitz: 520
+Kleinmotten: 950
+Weinern: 590
+Schlader: 390
+Großtaxen: 780
+Drösiedl: 710
+Schwarzenberg: 19310
+Pommersdorf: 430
+Schirnes: 490
+Stoies: 180
+Dimling: 1000
+Griesbach: 140
+Kottschallings: 830
+Bad Fischau: 23020
+Schützenkasten: 200
+Eggendorf: 6550
+Brunn bei Pitten: 4860
+Felixdorf: 45570
+Vorderbruck: 5880
+Hattmannsdorf: 2460
+Hackbichl: 380
+Maiersdorf: 7070
+Mittereck: 70
+Eichbüchl: 1640
+Lembach: 1120
+Krumbach: 11080
+Frohsdorf: 12040
+Lichtenwörth: 29690
+Markt Piesting: 23640
+Miesenbach: 430
+Muggendorf: 3390
+Feichtenbach: 1090
+Rohr im Gebirge: 4180
+Bromberg: 330
+Sollenau: 54810
+Theresienfeld: 42590
+Neusiedl: 1350
+Walpersbach: 8230
+Weikersdorf am Steinfelde: 11030
+Wiesmath: 15480
+Emmerberg: 640
+Wöllersdorf: 28370
+Zillingdorf: 12050
+Zwinzen: 720
+Etlas: 80
+Bärnkopf: 3310
+Kleinpoppen: 780
+Breitenfeld: 1710
+Kleinnondorf: 470
+Engelbrechts: 600
+Ulrichschlag: 720
+Gaßles: 130
+Gotthardschlag: 250
+Kainrathschlag: 920
+Reitzendorf: 440
+Endlas: 440
+Dürnberg: 1450
+Reichhalms: 320
+Rappottenstein: 3320
+Voitschlag: 800
+Lohn: 1510
+Schlag: 1750
+Biberschlag: 330
+Rosenau Dorf: 530
+Linz: 2142720
+Steyr: 378980
+Oberthan: 2130
+Weirading: 100
+Leithen: 720
+Holz: 1660
+Ranshofen: 23360
+Oberaching: 210
+Eggelsberg: 11180
+Klöpfing: 290
+Eggenham: 800
+Ehrschwendt: 340
+Edt: 290
+Großschieder: 150
+Mitterndorf: 18570
+Liedlschwandt: 570
+Schweiber: 430
+Lamperding: 100
+Höcken: 2620
+Bergham: 750
+Oberfeld: 350
+Mattighofen: 77630
+Kaltenau: 180
+Ostermiething: 22060
+Macking: 140
+Perwang am Grabensee: 4230
+Kitzing: 360
+Posching: 80
+Aigelsberg: 220
+Rödham: 1020
+Scherfeck: 620
+Laubenbach: 210
+Biri: 1740
+Marlupp: 200
+Unterlochen: 1110
+Reuhub: 180
+Obertreubach: 670
+Überackern: 2790
+Mankham: 400
+Sommerberg: 1840
+Eferding: 44350
+Haibach ob der Donau: 4830
+Haizing: 2260
+Waschpoint: 2370
+Lengau: 630
+Leppersdorf: 3530
+Birihub: 370
+Sankt Peter: 1850
+Stampfendorf: 70
+Schmidsberg: 250
+Markersreith: 380
+Harterleiten: 50
+Mönchwald: 850
+Manzenreith: 1090
+Wullowitz: 540
+Komau: 260
+Oberhofstetten: 630
+Selker: 1160
+Hörschlag: 1010
+Steinwald: 770
+Stiftung: 1190
+Stiftungsberg: 840
+Pehersdorf: 950
+Josefstal: 250
+Aglasberg: 840
+Hacklberg: 1390
+Windgföll: 670
+Riemetschlag: 1020
+Riegl: 1990
+Rehkogl: 1040
+Unterlangbath: 2180
+Gmunden: 131420
+Gosau: 18530
+Grünau im Almtal: 20500
+Moosham: 1310
+Gosauzwang: 140
+Kampesberg: 1820
+Laakirchen: 97260
+Obertraun: 6160
+Hochleithen: 1200
+Großkufhaus: 5970
+Vornbuch: 480
+Steg: 100
 St. Wolfgang im Salzkammergut: 2848
-Traunkirchen: 1724
-Bad Schallerbach: 4540
-Neumarkt im Hausruckkreis: 1553
-Kirchdorf an der Krems: 5027
-Klaus an der Pyhrnbahn: 1143
-Kremsmünster: 7039
-Molln: 3587
-Rosenau am Hengstpaß: 658
-Steinbach am Ziehberg: 870
-Windischgarsten: 2352
-Neuhofen an der Krems: 6915
-Langenstein: 2576
-Inzing: 4169
-Waldhausen im Strudengau: 2828
-Obernberg am Inn: 1729
-Ried im Innkreis: 12965
-Wippenham: 594
-Helfenberg: 1533
-Auberg: 600
-Neudorf: 869
-Mayrhof: 319
-Atzesberg: 444
-Kirchbach: 2455
-Esternberg: 2830
-Freinberg: 1520
-Pasching: 7979
-Wernstein am Inn: 1547
-Bad Hall: 5899
-Dietach: 3477
-Laussa: 1233
-Losenstein: 1695
-Maria Neustift: 1642
-Reichraming: 1642
-Sierning: 9910
-Ternberg: 3437
-Altenberg bei Linz: 4861
-Gallneukirchen: 6708
-Steyregg: 5012
-Walding: 4266
-Zwettl an der Rodl: 1803
-Weichselbaum: 720
-Mondsee: 3955
-Nußdorf am Attersee: 1118
-Oberwang: 1763
-Pitzenberg: 582
-Schwanenstadt: 4906
-Tiefgraben: 4208
-Blindenmarkt: 2731
-Steinhaus: 2840
-Gaißau: 1894
-Kuchl: 7557
-Scheffau am Tennengebirge: 1514
-Anif: 4432
-Bürmoos: 5089
-Vorau: 4569
-Ebenau: 1462
-Elixhausen: 3183
-Faistenau: 3144
-Fuschl am See: 1733
-Großgmain: 2717
-Hallwang: 4330
-Henndorf am Wallersee: 5182
-Hof bei Salzburg: 3655
-Mattsee: 3561
-Oberndorf bei Salzburg: 6124
-Obertrum am See: 4984
-Plainfeld: 1302
-Schleedorf: 1168
-Seeham: 2048
-Bad Gastein: 3883
-Eben im Pongau: 2716
-Filzmoos: 1515
-Forstau: 558
-Großarl: 3846
-Hüttschlag: 879
-Kleinarl: 829
-Schwarzach im Pongau: 3541
-Lessach: 535
-Mauterndorf: 1569
-Tweng: 242
-Unternberg: 1028
-Weißpriach: 297
-Dienten am Hochkönig: 711
-Kaprun: 3144
-Maishofen: 3686
-Stuhlfelden: 1558
-Taxenbach: 2812
-Viehhofen: 616
-Zell am See: 10217
-Sankt Josef (Weststeiermark): 1672
-Groß Sankt Florian: 4099
-Hart bei Graz: 5570
-Kalsdorf bei Graz: 9265
-Laßnitzhöhe: 2890
-Lieboch: 5829
-Peggau: 2513
-Sankt Bartholomä: 1511
-Sankt Oswald bei Plankenwarth: 1289
-Stiwoll: 683
-Thal: 2579
-Vasoldsberg: 4858
-Werndorf: 2973
-Wundschuh: 1670
-Empersdorf: 1401
-Gralla: 2996
-Heimschuh: 1988
-Eisenerz: 3280
-Mautern in Steiermark: 1641
-Niklasdorf: 2312
-Sankt Peter-Freienstein: 2286
-Vordernberg: 923
-Wald am Schoberpaß: 515
-Ardning: 1273
-Gröbming: 3254
-Ramsau am Dachstein: 2872
-Selzthal: 1450
-Wildalpen: 431
-Admont: 4882
-Liezen: 8081
-Niederwölz: 616
-Ranten: 1086
-Rosental an der Kainach: 1661
-Voitsberg: 9517
-Bärnbach: 5811
-Köflach: 9557
-Floing: 1184
-St. Kathrein am Hauenstein: 602
-Hohentauern: 359
-Pusterwald: 425
-Zeltweg: 7055
-Judenburg: 9441
-Knittelfeld: 12792
-Spital am Semmering: 1419
-Kindberg: 8132
-Großsteinbach: 1301
-Lafnitz: 1478
-Kaindorf: 3059
-Edelsbach bei Feldbach: 1353
-Eichkögl: 1353
-Mettersdorf am Saßbach: 1352
-Unterlamm: 1250
-Deutsch Goritz: 1780
-Straden: 3393
-Imst: 11076
-Imsterberg: 841
-Jerzens: 923
-Karres: 625
-Karrösten: 711
-Längenfeld: 4941
-Mils bei Imst: 679
-Mötz: 1374
-Nassereith: 2342
-Obsteig: 1489
-Oetz: 2421
-Rietz: 2568
-Roppen: 1966
-Sautens: 1624
-Stams: 1600
-Wenns: 2174
-Absam: 7374
-Aldrans: 2808
-Ampass: 1859
-Baumkirchen: 1253
-Birgitz: 1486
-Ellbögen: 1185
-Flaurling: 1330
-Fritzens: 2171
-Gnadenwald: 866
-Götzens: 4150
-Gries am Brenner: 1313
-Gries im Sellrain: 633
-Grinzens: 1495
-Gschnitz: 466
-Kematen in Tirol: 3281
-Kolsass: 1682
-Kolsassberg: 865
-Lans: 1211
-Leutasch: 2562
-Matrei am Brenner: 3542
-Mieders: 2010
-Mils: 4731
-Mutters: 2322
-Natters: 2190
-Neustift im Stubaital: 5012
-Oberhofen im Inntal: 1976
-Obernberg am Brenner: 381
-Oberperfuss: 3221
-Patsch: 1153
-Pettnau: 1121
-Polling in Tirol: 1393
-Ranggen: 1142
-Reith bei Seefeld: 1574
-Rinn: 1908
-Rum: 9571
-St. Sigmund im Sellrain: 185
-Scharnitz: 1436
-Schönberg im Stubaital: 1108
-Seefeld in Tirol: 3648
-Sellrain: 1349
-Sistrans: 2300
-Thaur: 4374
-Trins: 1383
-Tulfes: 1717
-Unterperfuss: 248
-Vals: 526
-Völs: 7357
-Wattenberg: 797
-Wattens: 8198
-Wildermieming: 1024
-Zirl: 8291
-Aurach bei Kitzbühel: 1108
-Brixen im Thale: 2709
-Fieberbrunn: 4588
-Going am Wilden Kaiser: 2023
-Hochfilzen: 1304
-Itter: 1182
-Jochberg: 1543
-Kirchberg in Tirol: 5278
-Kirchdorf in Tirol: 4253
-Kitzbühel: 8284
-Kössen: 4630
-Oberndorf in Tirol: 2361
-Reith bei Kitzbühel: 1769
-St. Jakob in Haus: 838
-St. Johann in Tirol: 9908
-St. Ulrich am Pillersee: 1938
-Schwendt: 923
-Waidring: 2089
-Alpbach: 2510
-Angath: 1003
-Bad Häring: 3043
-Brandenberg: 1492
-Ellmau: 2956
-Erl: 1626
-Kirchbichl: 6131
-Mariastein: 471
-Niederndorf: 2902
-Radfeld: 2554
-Rettenschöss: 562
-Scheffau am Wilden Kaiser: 1536
-Schwoich: 2639
-Söll: 3784
-Angerberg: 1981
-Wörgl: 14398
-Faggen: 395
-Fendels: 297
-Fiss: 1022
-Fließ: 3127
-Flirsch: 1001
-Galtür: 799
-Grins: 1391
-Ischgl: 1624
-Kappl: 2527
-Kaunerberg: 468
-Kaunertal: 642
-Kauns: 548
-Ladis: 556
-Landeck: 7766
-Nauders: 1559
-Pfunds: 2610
-Pians: 794
-Prutz: 1882
-Ried im Oberinntal: 1365
-Schönwies: 1771
-See: 1242
-Serfaus: 1220
-Spiss: 97
-Stanz bei Landeck: 588
-Strengen: 1198
-Tobadill: 496
-Tösens: 760
-Abfaltersbach: 641
-Amlach: 529
-Außervillgraten: 705
-Innervillgraten: 903
-Lavant: 342
-Leisach: 741
-Lienz: 12105
-St. Johann im Walde: 294
-Schlaiten: 455
-Strassen: 806
-Tristach: 1494
-Untertilliach: 211
-Biberwier: 640
-Bichlbach: 794
-Breitenwang: 1402
-Ehenbichl: 846
-Ehrwald: 2625
-Elmen: 392
-Forchach: 260
-Grän: 644
-Gramais: 49
-Häselgehr: 702
-Heiterwang: 556
-Hinterhornbach: 88
-Höfen: 1284
-Holzgau: 388
-Jungholz: 301
-Kaisers: 68
-Lechaschau: 2073
-Musau: 380
-Namlos: 55
-Reutte: 7420
-Stanzach: 523
-Vils: 1517
-Vorderhornbach: 277
-Zöblen: 239
-Achenkirch: 2257
-Brandberg: 383
-Finkenberg: 1413
-Gallzein: 705
-Gerlos: 798
-Gerlosberg: 482
-Hainzenberg: 749
-Jenbach: 7669
-Kaltenbach: 1298
-Mayrhofen: 3961
-Pill: 1267
-Ramsau im Zillertal: 1735
-Ried im Zillertal: 1237
-Schlitters: 1599
-Schwaz: 14581
-Schwendau: 1772
-Steinberg am Rofan: 298
-Strass im Zillertal: 835
-Stumm: 1892
-Stummerberg: 876
-Terfens: 2326
-Tux: 1908
-Weer: 1826
-Weerberg: 2573
-Zell am Ziller: 1786
-Blons: 362
-Bludesch: 2618
-Bürs: 3414
-Bürserberg: 605
-Gaschurn: 1543
-Innerbraz: 1078
-Klösterle: 653
-Lech: 1553
-Lorüns: 313
-Nüziders: 5010
-St. Anton im Montafon: 727
-St. Gerold: 389
-Schruns: 3989
-Silbertal: 845
-Stallehr: 293
-Thüringen: 2319
-Thüringerberg: 735
-Tschagguns: 2232
-Vandans: 2847
-Alberschwende: 3361
-Andelsbuch: 2650
-Bezau: 2100
-Bildstein: 841
-Bizau: 1110
-Bregenz: 29270
-Damüls: 333
-Doren: 1035
-Fußach: 4057
-Hard: 13800
-Hittisau: 2092
-Höchst: 8592
-Hörbranz: 6703
-Hohenweiler: 1406
-Kennelbach: 1840
-Langen bei Bregenz: 1494
-Langenegg: 1194
-Lingenau: 1588
-Lochau: 6711
-Mellau: 1301
-Möggers: 565
-Reuthe: 669
-Riefensberg: 1067
-Schnepfau: 487
-Schoppernau: 943
-Schröcken: 216
-Sibratsgfäll: 478
-Warth: 198
-Wolfurt: 9025
-Dornbirn: 52252
-Hohenems: 17668
-Lustenau: 24704
-Altach: 7159
-Düns: 435
-Dünserberg: 164
-Feldkirch: 36643
-Frastanz: 6673
-Fraxern: 789
-Göfis: 3344
-Götzis: 12426
-Klaus: 3096
-Koblach: 5003
-Laterns: 690
-Mäder: 4282
-Rankweil: 12168
-Röns: 386
-Röthis: 2281
-Satteins: 2759
-Schlins: 2551
-Schnifis: 796
-Übersaxen: 638
-Viktorsberg: 441
+Traunkirchen: 17240
+Dorf: 2350
+Pöttenheim: 460
+Bad Schallerbach: 44180
+Thongraben: 690
+Kickendorf: 640
+Wassergraben: 210
+Güttling: 610
+Burghartsberg: 140
+Oberetnisch: 130
+Gaisedt: 180
+Fronberg: 530
+Oberbuchberg: 860
+Neumarkt im Hausruckkreis: 14430
+Sumeding: 660
+Kolbing: 1860
+Unterleiten: 290
+Frei: 1250
+Löwengrub: 310
+Stockwies: 40
+Großgerstdopl: 320
+Parz am Öhlstampf: 200
+Lahof: 1080
+Auweidenholz: 660
+Untermeggenbach: 740
+Mitterweng: 1240
+Wagenhub: 40
+Mitterstoder: 2560
+Kirchdorf an der Krems: 50270
+Klaus an der Pyhrnbahn: 5220
+Kremsmünster: 70390
+Weinzierl: 90
+Molln: 24480
+Hausmanning: 310
+Gundendorf: 1830
+Maidorf: 3400
+Rosenau am Hengstpaß: 6580
+Sankt Pankraz: 3000
+Oberweng: 2240
+Steinbach am Ziehberg: 8700
+Zehetner: 5250
+Strienzing: 5960
+Windischgarsten: 23520
+Laimgräben: 2250
+Audorf: 1770
+Ipfdorf: 5520
+Kroisbach: 4020
+Rappersdorf: 930
+Schauersfreiling: 730
+Pühring: 240
+Bruck bei Tödling: 850
+Neuhofen an der Krems: 69150
+Obereglsee: 950
+Trindorf: 1500
+Langholzfeld: 37210
+Sipbach: 740
+Pachersdorf: 780
+Appersberg: 2410
+Niederlebing: 1110
+Groißing: 2120
+Großerlau: 400
+Würzenberg: 1370
+Greinsberg: 310
+Oberhörnbach: 620
+Langenstein: 13090
+Gröbetsweg: 1550
+Hinterholz: 2740
+Inzing: 41690
+Mollnegg: 1220
+Naarn: 17240
+Markt-Süd: 1400
+Dörfl: 410
+Kürnstein: 400
+Schörgendorf: 1830
+Großmaseldorf: 640
+Froschau: 1080
+Lina: 1160
+Waldhausen im Strudengau: 28280
+Pragtal: 920
+Steingreß: 380
+Ungerding: 160
+Oberbreitsach: 1050
+Sausack: 210
+Rödt: 420
+Breiningsham: 430
+Ufer: 710
+Kramling: 670
+Riegerting: 300
+Jagleck: 330
+Mühlberg: 1120
+Niederach: 270
+Obernberg am Inn: 17290
+Kellern: 160
+Pattighamried: 310
+Untermauer: 290
+Hart: 1280
+Ried im Innkreis: 129650
+Röfl: 200
+Grausgrub: 610
+Jenseits: 3460
+Freidling: 280
+Kühdobl: 470
+Hannesgrub Nord: 40
+Etting: 40
+Kleinmurham: 290
+Wippenham: 1720
+Unterafiesl: 340
+Helfenberg: 4660
+Oberfeuchtenbach: 510
+Getzing: 1020
+Auberg: 660
+Neudorf: 4210
+Wulln: 260
+Gerastorf: 440
+Unterthiergrub: 80
+Mayrhof: 260
+Edholz: 1420
+Albenödt: 80
+Atzesberg: 400
+Oedt: 1860
+Vordernebelberg: 1090
+Oberbumberg: 460
+Baumgartsau: 200
+Dittmannsdorf: 180
+Liebetsberg: 360
+Kirchbach: 1330
+Hamet: 1110
+Kleinstifting: 160
+Allersdorf: 3170
+Günterreith: 610
+Habring: 470
+Innenschlag: 280
+Bairach: 320
+Grubdorf: 810
+Sprinzenstein: 830
+Berdetschlag: 1050
+Baureith: 2240
+Nößlbach: 830
+Fasthub: 450
+Winertshamerau: 580
+Wallensham: 1560
+Lohndorf: 80
+Maasbach: 1570
+Oberranna: 150
+Esternberg: 6610
+Freinberg: 3580
+Ludham: 170
+Brünning: 1270
+Korneredt: 420
+Pomedt: 2850
+Kößlau: 560
+Unterteufenbach: 2600
+Aschenberg: 720
+Geiselham: 380
+Allerheiligen: 140
+Ingling: 1720
+Kasten: 4030
+Pasching: 120
+Wernstein am Inn: 5920
+Wildhag: 220
+Mühlgrub: 3590
+Haagen: 1350
+Bad Hall: 58990
+Dietach: 3290
+Oberdambach: 1610
+Pechgraben: 2330
+Laussa: 12330
+Losenstein: 16950
+Maria Neustift: 16420
+Möderndorf: 1900
+Reichraming: 9900
+Oberrohr: 1800
+Kohlergraben: 1020
+Sierning: 42980
+Ternberg: 34370
+Großmengersdorf: 830
+Losensteinleiten: 5670
+Kleinreifling: 6840
+Altenberg bei Linz: 11010
+Oberstiftung: 1870
+Obergeng: 20
+Gallneukirchen: 67080
+Hagenau: 330
+Neulichtenberg: 8340
+Althellmonsödt: 2210
+Mühlholz: 380
+Schallenberg: 100
+Helmetzedt: 380
+Großamberg: 1860
+Haselwies: 800
+Albrechtschlag: 250
+Steyregg: 30810
+Walding: 340
+Zwettl an der Rodl: 9060
+Wörmansedt: 70
+Mühlbach: 5880
+Aichet: 70
+Köppach: 680
+Weichselbaum: 290
+Jedlham: 790
+Viecht: 380
+Schwandeck: 70
+Finkenröth: 120
+Innerschwand: 11420
+Reibersdorf: 840
+Mondsee: 39550
+Satteltal: 1250
+Nußdorf am Attersee: 5300
+Eichenweg: 910
+Oberwang: 6460
+Kropfling: 300
+Mittereinwald: 290
+Pitzenberg: 1240
+Puchkirchen: 10570
+Altensam: 1780
+Sonnfeld: 380
+Geidenberg: 520
+Keuschen: 9220
+Philippsberg: 1800
+Marktwald: 230
+Schwanenstadt: 49060
+Haidach: 1220
+Weißenbach am Attersee: 970
+Halt: 700
+Tiefgraben: 15620
+Unterach: 9580
+Freileiten: 4270
+Hölleiten: 800
+Reichholz: 1700
+Schlaugenham: 750
+Heissing: 140
+Hupfau: 1710
+Ittensam: 1660
+Kropfing: 9990
+Laherberg: 390
+Oberschacher: 510
+Grillparz: 240
+Kalteneck: 2210
+Fischerau: 160
+Löpperding: 150
+Kapsam: 80
+Krexham: 890
+Moosleiten: 110
+Blindenmarkt: 1130
+Schnarrndorf: 1840
+Stadl-Hausruck: 12440
+Steinhaus: 14870
+Schauersberg: 2500
+Hetzendorf: 10070
+Salfelden: 750
+Spumberg: 2390
+Steuer: 1510
+Obergäu: 13970
+Gamp: 3980
+Gaißau: 18940
+Kuchl: 20640
+Vorderwiestal: 2290
+Hinterwiestal: 1660
+Rußbachsaag: 4140
+Taugl: 12700
+Scheffau am Tennengebirge: 12460
+Riedl: 890
+Anif: 20290
+Muntigl: 5030
+Großenegg: 3800
+Bürmoos: 50890
+Vorau: 13450
+Ebenau: 2310
+Elixhausen: 31830
+Oberwinkl: 1320
+Faistenau: 5730
+Fuschl am See: 17330
+Bulharting: 540
+Eichet: 2660
+Großgmain: 27170
+Hallwang: 15720
+Henndorf am Wallersee: 51820
+Hof bei Salzburg: 36550
+Gramling: 210
+Knotzing: 70
+Mattsee: 35610
+Matzing: 700
+Schlößl: 1800
+Oberndorf bei Salzburg: 61020
+Obertrum am See: 41580
+Plainfeld: 13020
+Vollern: 2880
+Schleedorf: 11680
+Seeham: 20480
+Aigen: 4210
+Wals: 38930
+Gadaunern: 2250
+Bad Gastein: 38830
+Klammstein: 590
+Eben im Pongau: 24210
+Filzmoos: 2170
+Reitdorf: 6780
+Forstau: 5580
+Hofmark: 4680
+Großarl: 38460
+Sonnhalb: 1270
+Hüttschlag: 5980
+Kleinarl: 8290
+Schlöglberg: 1290
+Maier: 3090
+Schwemmberg: 9390
+Ginau: 280
+Lammertal: 5760
+Sankt Veit im Pongau: 40260
+Schwarzach im Pongau: 35410
+Obertauern: 1310
+Sulzau: 3740
+Eulersberg: 1710
+Lessach: 4220
+Mauterndorf: 1670
+Vordermuhr: 3460
+Mitterberg: 650
+Sankt Andrä im Lungau: 7580
+Sankt Margarethen im Lungau: 7640
+Sauerfeld: 4510
+Bundschuh: 320
+Tweng: 1110
+Unternberg: 10280
+Weißpriach: 2970
+Reit: 1990
+Dienten am Hochkönig: 7110
+Taxenbacher-Fusch: 2110
+Kaprun: 31440
+Unterkrimml: 2480
+Scheffsnoth: 4330
+Maishofen: 19340
+Enterwinkl: 1140
+Loferstein: 510
+Walchen: 10160
+Hinterglemm: 10470
+Ruhgassing: 650
+Sankt Martin bei Lofer: 9420
+Stuhlfelden: 11070
+Taxenbach: 8550
+Tobersbach: 2360
+Viehhofen: 6160
+Vorderkrimml: 2630
+Zell am See: 74460
+Graz,05.Bez.:Gries: 309900
+Laßnitz: 9910
+Heuholz: 4370
+Tobis: 3710
+Sankt Josef (Weststeiermark): 7100
+Kerschbaum: 1280
+Wohlsdorf: 2860
+Bergegg: 1360
+Sankt Lorenzen: 1580
+Groß Sankt Florian: 9880
+Graschach: 1210
+Sommereben: 2050
+Garanas: 1630
+Rassach: 3430
+Mitterlimberg: 6340
+Lebern: 10370
+Dörfla: 4790
+Sankt Veit: 1860
+Hart bei Graz: 55700
+Tobelbad: 3880
+Schaftal: 4680
+Kalsdorf bei Graz: 64710
+Hofstätten: 1010
+Laßnitzhöhe: 28900
+Lieboch: 39440
+Peggau: 22700
+Sankt Bartholomä: 5170
+Sankt Oswald bei Plankenwarth: 7540
+Rinnegg: 5270
+Thoneben: 3610
+Mühl: 2820
+Stiwoll: 6830
+Thal: 3900
+Markt-Übelbach: 11090
+Vasoldsberg: 48580
+Fölling: 3720
+Werndorf: 29730
+Wundschuh: 8040
+Königgraben: 1660
+Lamberg: 2490
+Edelsbach bei Graz: 4880
+Gnaning: 4120
+Peugen: 440
+Eisbach: 9460
+Södingberg: 7540
+Obergoggitsch: 1660
+Grambach: 19070
+Sankt Marein bei Graz-Umgebung: 8020
+Pirka: 25210
+Laa: 5950
+Pichla: 1310
+Maltschach: 1760
+Empersdorf: 5330
+Sajach: 1480
+Gralla: 29960
+Nestelbach: 1740
+Heimschuh: 10510
+Neurath: 1940
+Jöß: 3320
+Lebring: 10150
+Altenbach: 1790
+Sausal: 4500
+Praratheregg: 490
+Oberjahring: 1750
+Aflenz an der Sulm: 2400
+Ehrenhausen: 11370
+Sulztal: 1090
+Felgitsch: 5510
+Oberlupitscheni: 1250
+Leutschach: 5220
+Alla: 240
+Neutersdorf: 1050
+Obervogau: 9480
+Eisenerz: 32800
+Schattenberg: 1340
+Mötschendorf: 450
+Kraubathgraben: 440
+Mautern in Steiermark: 11080
+Niklasdorf: 23120
+Prentgraben: 340
+Radmer an der Stube: 3210
+Hinterlainsach: 490
+Sankt Peter-Freienstein: 9980
+Madstein: 1740
+Vordernberg: 9230
+Wald am Schoberpaß: 4950
+Treffning: 1090
+Lichtersberg: 4580
+Eßling: 490
+Ardning: 8890
+Gschlößl: 1530
+Gröbming: 32540
+Bräuhof: 3560
+Birnberg: 1400
+Döllach: 940
+Ramsau am Dachstein: 28720
+Selzthal: 8860
+Dietmannsdorf bei Trieben: 4760
+Wildalpen: 4310
+Maitschern: 4090
+Admont: 20850
+Treglwang: 3240
+Raumberg: 2550
+Hieflau: 4900
+Liezen: 64940
+Pruggern: 8690
+Unterlengdorf: 540
+Gritschenberg: 840
+Sankt Georgen: 2310
+Unterlaussa: 280
+Großsölk: 4570
+Untergrimming: 1030
+Jakobsberg: 1950
+Niederwölz: 6160
+Pöllau am Greim: 2650
+Schöderberg: 2030
+Krakaudorf: 6100
+Laßnitz-Murau: 1580
+Dürnstein in der Steiermark: 2230
+Winklern bei Oberwölz: 3070
+Ranten: 5980
+Sankt Blasen: 4950
+Lind bei Scheifling: 5350
+Einach: 2250
+Muggauberg: 2330
+Oberwald: 2450
+Rubmannsberg: 1130
+Rosental an der Kainach: 16610
+Großwöllmiß: 1870
+Raßberg: 2350
+Voitsberg: 95170
+Bärnbach: 1010
+Modriach: 1890
+Pack: 3970
+Hemmerberg: 4010
+Köflach: 41050
+Hochgößnitz: 1450
+Köppling: 5200
+Völlegg: 1300
+Floing: 4340
+Sonnleitberg: 3990
+Reith bei Hartmannsdorf: 3270
+Wetzawinkel: 4640
+Ludersdorf: 860
+Dorfviertel: 4370
+Haselbach bei Weiz: 1400
+Gschaid bei Weiz: 680
+Klettendorf: 2100
+Grubbauer: 3540
+Inneres Kaltenegg: 480
+St. Kathrein am Hauenstein: 4960
+Takern II: 5700
+Nagl: 890
+Außeregg: 2270
+Raas: 1760
+Baierdorf-Umgebung: 8450
+Piregg: 2710
+Fladnitz-Tober: 1160
+Oberrettenbach: 2760
+Arnwiesen: 2030
+Plenzengreith: 1690
+Krammersdorf: 2660
+Kleinpesendorf: 1660
+Büchl: 2940
+Puchschachen: 1530
+Hohentauern: 2960
+Oberfarrach: 1180
+Pusterwald: 4250
+Wöll: 930
+Frauenburg: 5680
+Zeltweg: 43460
+Großlobming: 12690
+Judenburg: 78740
+Knittelfeld: 117180
+Bärnthal: 170
+Sankt Johann am Tauern Schattseite: 1070
+Weyern: 1190
+Möbersdorf: 3520
+Sankt Erhard: 5000
+Alpl: 4940
+Lechen: 1350
+Mixnitz: 2890
+Mödersdorf: 2020
+Spital am Semmering: 8490
+Fladenbach: 590
+Au bei Turnau: 1390
+Tutschach: 1550
+Pischk: 2170
+Kindberg: 55110
+Walstern: 150
+Edlach: 1170
+Veitsch: 3460
+Palbersdorf: 5980
+Speilbrunn: 940
+Hopfau: 3820
+Nörning: 2250
+Ortgraben: 13050
+Wolfgrub: 840
+Großsteinbach: 6060
+Mitterdombach: 1200
+Lafnitz: 10070
+Unterneuberg: 5570
+Kaltenegg: 1020
+Guggendorf: 1440
+Ruppersdorf: 1300
+Buchberg bei Herberstein: 1850
+Pittermann: 6480
+Geier: 2380
+Hirnsdorf: 6490
+Übersbach: 7400
+Pongratzen: 1810
+Radersdorf: 2040
+Untertiefenbach: 2210
+Kaindorf: 12090
+Gillersdorf: 1170
+Unterlimbach: 2440
+Hinteregg: 100
+Wörth an der Lafnitz: 3610
+Karnerviertel: 5240
+Edelsbach bei Feldbach: 6760
+Eichkögl: 4740
+Oberpurkla: 2840
+Wetzelsdorf bei Jagerberg: 2440
+Klöchberg: 3440
+Mettersdorf am Saßbach: 5670
+Lichendorf: 5040
+Patzen: 1930
+Unterlamm: 6410
+Waldsberg: 2070
+Zelting: 1060
+Deutsch Goritz: 3540
+Schiefer: 2740
+Gossendorf: 6320
+Glatzental: 1320
+Gosdorf: 5270
+Edelstauden: 4070
+Glojach: 330
+Straden: 2740
+Wilten: 175480
+Leins: 3230
+Imst: 110760
+Imsterberg: 8410
+Jerzens: 9230
+Karres: 6250
+Karrösten: 7110
+Längenfeld: 49410
+Obermieming: 15920
+Mils bei Imst: 6790
+Mötz: 13740
+Nassereith: 23420
+Obsteig: 14890
+Oetz: 24210
+Rietz: 25680
+Roppen: 19660
+Zaunhof: 4240
+Sautens: 16240
+Kühtai: 390
+Zwieselstein: 1450
+Stams: 16000
+Köfels: 480
+Wenns: 21740
+Absam: 73740
+Aldrans: 28080
+Ampass: 18590
+Axamer Lizum: 200
+Baumkirchen: 12530
+Birgitz: 14860
+Ellbögen: 11850
+Flaurling: 13300
+Fritzens: 21710
+Medraz: 13860
+Gnadenwald: 8660
+Götzens: 41500
+Gries am Brenner: 13130
+Gries im Sellrain: 6330
+Grinzens: 14950
+Gschnitz: 4660
+Hattingerberg: 810
+Kematen in Tirol: 32070
+Kolsass: 16820
+Kolsassberg: 8650
+Lans: 12110
+Leutasch: 25620
+Matrei am Brenner: 9330
+Mieders: 20100
+Mils: 47310
+Obfeldes: 290
+Mutters: 17100
+Natters: 21900
+Oberweg: 6630
+Neustift im Stubaital: 50120
+Oberhofen im Inntal: 19760
+Obernberg am Brenner: 3810
+Oberperfuss: 32210
+Patsch: 11530
+Pettnau: 11210
+Pfons: 5710
+Polling in Tirol: 11780
+Ranggen: 11420
+Reith bei Seefeld: 15740
+Rinn: 19080
+Rum: 95710
+St. Sigmund im Sellrain: 1850
+Scharnitz: 14360
+Außerschmirn: 6990
+Schönberg im Stubaital: 11080
+Seefeld in Tirol: 36480
+Sellrain: 13490
+Sistrans: 23000
+Heiligkreuz: 6400
+Thaur: 43740
+Trins: 13830
+Tulfes: 17170
+Unterperfuss: 2480
+Vals: 5260
+Völs: 73570
+Kleinvolderberg: 2040
+Wattenberg: 7970
+Wattens: 81980
+Wildermieming: 10240
+Zirl: 82910
+Aurach bei Kitzbühel: 11080
+Brixen im Thale: 27090
+Fieberbrunn: 45880
+Going am Wilden Kaiser: 9640
+Hochfilzen: 13040
+Hopfgarten-Markt: 26870
+Itter: 11820
+Jochberg: 15430
+Kirchberg in Tirol: 52780
+Kirchdorf in Tirol: 29210
+Kitzbühel: 82840
+Kössen: 46300
+Oberndorf in Tirol: 23610
+Reith bei Kitzbühel: 17690
+St. Jakob in Haus: 8380
+St. Johann in Tirol: 99080
+St. Ulrich am Pillersee: 19380
+Schwendt: 9230
+Waidring: 20890
+Alpbach: 25100
+Angath: 10030
+Bad Häring: 30430
+Brandenberg: 11410
+Kleinsöll: 5230
+Mehrn: 7970
+Ellmau: 29560
+Erl: 5930
+Kirchbichl: 61310
+Mariatal: 15770
+Endach: 24230
+Saulueg: 530
+Oberlangkampfen: 10250
+Mariastein: 4710
+Niederndorf: 29020
+Noppenberg: 1400
+Radfeld: 25540
+Scheffach: 1850
+Rettenschöss: 5620
+Scheffau am Wilden Kaiser: 15360
+Schwoich: 26390
+Söll: 37840
+Angerberg: 12340
+Durchholzen: 5850
+Auffach: 9410
+Wörgl: 143980
+Faggen: 3950
+Fendels: 2970
+Fiss: 10220
+Fließ: 31270
+Flirsch: 10010
+Galtür: 7990
+Grins: 13910
+Ischgl: 12550
+Kappl: 770
+Kaunerberg: 4680
+Kaunertal: 6420
+Kauns: 5480
+Ladis: 5560
+Landeck: 77660
+Nauders: 15590
+Schnann: 3360
+Pfunds: 26100
+Pians: 5840
+Prutz: 18820
+Ried im Oberinntal: 13650
+St. Jakob am Arlberg: 6490
+Schönwies: 17710
+See: 12420
+Serfaus: 12200
+Spiss: 970
+Stanz bei Landeck: 5880
+Strengen: 11980
+Tobadill: 4960
+Tösens: 7600
+Zammerberg: 2480
+Abfaltersbach: 6410
+Alkus: 430
+Amlach: 5290
+Unterassling: 1880
+Außervillgraten: 7050
+Untergaimberg: 4240
+Innervillgraten: 9030
+Iselsberg: 4730
+Oberpeischlach: 960
+Hollbruck: 450
+Lavant: 3420
+Leisach: 5370
+Lienz: 118130
+Lindsberg: 150
+Debanttal: 180
+Oberdrum: 4930
+Leiten: 360
+Oberrotte: 2480
+St. Johann im Walde: 2940
+Gritzen: 830
+Schlaiten: 4550
+Arnbach: 2980
+Strassen: 8060
+Tristach: 14940
+Untertilliach: 2110
+Panzendorf: 7880
+Mitteregg: 200
+Biberwier: 6400
+Bichlbach: 5270
+Breitenwang: 14020
+Ehenbichl: 7100
+Ehrwald: 26250
+Untergiblen: 1890
+Elmen: 3370
+Forchach: 2600
+Grän: 3770
+Gramais: 490
+Häselgehr: 5650
+Heiterwang: 5560
+Hinterhornbach: 880
+Höfen: 12840
+Holzgau: 3880
+Jungholz: 3010
+Kaisers: 680
+Lechaschau: 20730
+Obergarten: 440
+Musau: 3800
+Namlos: 300
+Rauth: 330
+Bschlabs: 620
+Oberletzen: 5610
+Oberpinswang: 1290
+Reutte: 74200
+Stanzach: 5230
+Hägerau: 1780
+Vils: 15170
+Vorderhornbach: 2770
+Gaicht: 270
+Zöblen: 2390
+Achenkirch: 22570
+Aschau: 16360
+Brandberg: 3830
+Imming: 3840
+Finkenberg: 12040
+Gagering: 1750
+Pankrazberg: 7340
+Gallzein: 7050
+Gerlos: 7980
+Gerlosberg: 4820
+Hainzenberg: 7490
+Helfenstein: 5400
+Hippach-Schwendberg: 6700
+Jenbach: 76690
+Kaltenbach: 12980
+Mayrhofen: 38190
+Pill: 12670
+Ramsau im Zillertal: 17350
+Ried im Zillertal: 12370
+Schlitters: 15990
+Schwaz: 145810
+Schwendau: 17720
+Schlagturn: 1390
+Steinberg am Rofan: 2980
+Strass im Zillertal: 8350
+Stumm: 18920
+Stummerberg: 5860
+Terfens: 4060
+Tux: 19080
+Kleinboden: 1000
+Vomperberg: 1710
+Weer: 18260
+Weerberg: 25730
+Tiergarten: 60
+Zell am Ziller: 17860
+Zellbergeben: 2630
+Blons: 3620
+Bludesch: 26180
+Bürs: 34140
+Bürserberg: 6050
+Wald am Arlberg: 6220
+Türtsch: 280
+Gaschurn: 11580
+Innerbraz: 10780
+Klösterle: 5620
+Lech: 15530
+Lorüns: 3130
+Nüziders: 50100
+Plazera: 150
+St. Anton im Montafon: 7270
+Gortipohl: 6650
+St. Gerold: 3890
+Schruns: 39890
+Silbertal: 8450
+Nesler: 50
+Stallehr: 2930
+Thüringen: 23190
+Thüringerberg: 7350
+Tschagguns: 22320
+Vandans: 28470
+Alberschwende: 33610
+Andelsbuch: 26500
+Rehmen: 7820
+Bezau: 21000
+Bildstein: 8410
+Bizau: 11100
+Bregenz: 289070
+Damüls: 3330
+Doren: 10350
+Großdorf: 11430
+Fußach: 40570
+Hard: 138000
+Hittisau: 16280
+Höchst: 85920
+Hörbranz: 67030
+Hohenweiler: 14060
+Kennelbach: 18400
+Langen bei Bregenz: 14940
+Langenegg: 11940
+Lingenau: 15880
+Lochau: 67110
+Mellau: 13010
+Riezlern: 20520
+Möggers: 5650
+Reuthe: 6690
+Riefensberg: 10670
+Schnepfau: 2560
+Schoppernau: 9430
+Schröcken: 2160
+Sibratsgfäll: 4780
+Warth: 1750
+Wolfurt: 90250
+Dornbirn: 522520
+Hohenems: 176680
+Lustenau: 247040
+Altach: 71590
+Düns: 4350
+Dünserberg: 750
+Feldkirch: 366430
+Frastanz: 66730
+Fraxern: 7890
+Göfis: 33440
+Götzis: 124260
+Klaus: 30960
+Koblach: 50030
+Laterns: 6900
+Mäder: 42820
+Rankweil: 121680
+Röns: 3860
+Röthis: 22810
+Satteins: 27590
+Schlins: 25510
+Schnifis: 7960
+Übersaxen: 6380
+Viktorsberg: 4410
+Batschuns: 12070
 Aeugst am Albis: 1991
 Obfelden: 5787
 Doppleschwand: 806
@@ -16312,7 +16231,6 @@ Aedermannsdorf: 578
 Balsthal: 6375
 Herbetswil: 587
 Laupersdorf: 1865
-Matzendorf: 1349
 Dietikon: 28162
 Biezwil: 356
 Oberengstringen: 6810
@@ -16367,7 +16285,6 @@ Gunzgen: 1714
 Olten: 18339
 Schönenwerd: 5100
 Starrkirch-Wil: 1871
-Dorf: 712
 Solothurn: 16633
 Bärschwil: 786
 Büsserach: 2361
@@ -16496,7 +16413,6 @@ Mörschwil: 3619
 Rorschach: 9777
 Rorschacherberg: 7620
 Tübach: 1587
-Untereggen: 1026
 Auswil: 458
 Bannwil: 696
 Balgach: 5067
@@ -17436,8 +17352,4 @@ Südheide: 11182
 Aue;Bad Schlema: 12897
 Hildebrandshausen;Faulungen;Lengenfeld unterm Stein;Schierschwende;Heyerode;Wendehausen;Diedorf: 10699
 
-Number of all cities: 17591
-
-Number of cities whose population couldn't be found: 4823
-
-Number of cities whose population was 0 in reference_file: 35
+Total cities without population value: 3711 from 17472 total
