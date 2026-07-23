@@ -7,9 +7,11 @@ import pandas as pd
 
 proposal_file = "location_proposals.csv"
 german_file = "population_germany.xlsx"
+german_1_file = "population_germany_1.txt"
 austria_file = "population_austria.csv"
 austria_1_file = "population_austria_1.ods"
 switzerland_file = "population_switzerland.csv"
+switzerland_1_file = "population_switzerland_1.csv"
 
 # Load german population
 gp = load_workbook(german_file, read_only=True, data_only=True)
@@ -34,6 +36,20 @@ for row in gpa.iter_rows(values_only=True):
         reference_population["DE"][name] = int(row[22])
 gp.close()
 
+# germany 1
+with open(german_1_file, newline="", encoding="utf-8") as f:
+    reader = csv.reader(f, delimiter="\t")
+
+    for row in reader:
+        name = row[1].strip()          # name
+        population = row[14].strip()   # population
+
+        if not population or population == "0":
+            continue
+
+        if reference_population["DE"].get(name) in (None, 0):
+            reference_population["DE"][name] = int(population)
+
 # austria
 with open(austria_file, newline="", encoding="utf-8") as f:
     for line in f:
@@ -57,14 +73,15 @@ df.columns = df.columns.str.strip()
 
 for _, row in df.iterrows():
     # Skip rows with missing data
-    if pd.isna(row["Ortschaftsname"]) or pd.isna(row["Bevölkerungam 01.01.2026"] or row["Bevölkerungam 01.01.2026"] == 0):
+    if pd.isna(row["Ortschaftsname"]) or pd.isna(row["Bevölkerungam 01.01.2026"]) or row["Bevölkerungam 01.01.2026"] == 0:
         continue
 
     name = str(row["Ortschaftsname"]).strip()
     # Convert "10.492" -> 10492
     population = int(str(row["Bevölkerungam 01.01.2026"]).replace(".", ""))
 
-    reference_population["AT"][name] = population
+    if reference_population["AT"].get(name) is None or reference_population["AT"].get(name) == 0:
+        reference_population["AT"][name] = population
 
 # switzerland
 with open(switzerland_file, newline="", encoding="utf-8") as f:
@@ -77,6 +94,25 @@ with open(switzerland_file, newline="", encoding="utf-8") as f:
 
         reference_population["CH"][name] = population
 
+# switzerland 1
+with open(switzerland_1_file, newline="", encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+
+    # Read the data
+    for row in reader:
+        name = row["Schweizer Städte"].strip()
+        population = row["OBS_VALUE"].strip()
+
+        # Skip missing values
+        if not population:
+            continue
+
+        # Skip decimal values (e.g. "18.4")
+        if "." in population:
+            continue
+
+        if reference_population["CH"].get(name) in (None, 0):
+            reference_population["CH"][name] = int(population)
 
 # Read proposal file
 population_lookup = {}
