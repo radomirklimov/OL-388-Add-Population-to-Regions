@@ -1,0 +1,15 @@
+DE,Dietzhausen;Wichtshausen
+DE,Dillingen/ Saar
+CH,Dompierre VD
+CH,Dongio
+AT,Draßburg / Rasporak
+DE,Dreeker Fladder
+DE,Drei Annen Hohne
+DE,Dreifaltigkeitsberg
+DE,Drestedt-Valzik
+DE,Drüsen
+DE,Duten
+DE,Dutzenthal
+CH,Däniken SO
+CH,Dänikon ZH
+CH,Dättwil AG

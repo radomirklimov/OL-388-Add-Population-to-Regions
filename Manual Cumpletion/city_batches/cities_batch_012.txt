@@ -1,0 +1,15 @@
+CH,Bouveret
+DE,Bowiesen
+DE,Boxberg /O.L.
+DE,Brackenberg
+CH,Bramboden
+DE,Breddorfermoor
+DE,Breitbrunn a. Chiemsee
+DE,Breitenbrunn /Erzgeb.
+DE,Breitreute
+DE,Breitwies
+CH,Bremgarten AG
+CH,Bremgarten b. Bern
+DE,Bresegard
+CH,Brienz BE
+CH,Brig

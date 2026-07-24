@@ -1,0 +1,15 @@
+CH,Miège
+DE,Modenbacherhof
+DE,Mohrenmühle;Franzenmühle
+CH,Moiry VD
+DE,Moisall;Käterhagen;Jabelitz;Langen Trechow;Neu Käterhagen;Kurzen Trechow;Göllin;Glambeck
+CH,Mollens VD
+CH,Mollie-Margot
+CH,Mont-Crosin
+CH,Montagne-de-Courtelary
+CH,Montavon
+CH,Montbovon
+CH,Montet (Broye)
+DE,Montforterhof
+CH,Monthey 2
+CH,Montignez

@@ -1,0 +1,15 @@
+DE,Schleifmühle
+DE,Schleimünde
+DE,Schleuse Dausenau
+DE,Schleuse Ems;Lindenbach
+CH,Schlosswil
+DE,Schloßhof
+DE,Schlößlesmühle;Schlechtenmühle;Walzenmühle
+DE,Schmedeland
+CH,Schmidrüti
+CH,Schmitten (Albula)
+CH,Schmitten FR
+DE,Schnackenwöhr
+DE,Schneefernerhaus
+DE,Schneidmühle
+DE,Schochen

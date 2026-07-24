@@ -1,0 +1,15 @@
+CH,Montlingen
+CH,Montsevelier
+CH,Morcles
+DE,Morest
+CH,Morges 1
+CH,Morrens VD
+CH,Mosen
+DE,Muhr a. See
+DE,Mundhardterhof
+CH,Muri AG
+DE,Murnau a. Staffelsee
+CH,Murzelen
+DE,Muttenhaus
+CH,Muttenz 1
+CH,Mädris-Vermol

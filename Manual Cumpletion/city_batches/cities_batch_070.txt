@@ -1,0 +1,15 @@
+CH,Niouc
+CH,Nohl
+DE,Nonnenholz
+DE,Nordergeilwang
+DE,Nordheim a. Main
+DE,Nordseeinsel Memmert
+CH,Noréaz
+CH,Noës
+CH,Nuglar
+DE,Nußdorf a. Inn
+CH,Nyon 2
+DE,Näherhof
+CH,Oberbalmberg
+DE,Oberdill
+CH,Oberdorf BL

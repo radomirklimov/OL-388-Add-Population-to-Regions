@@ -1,0 +1,15 @@
+DE,Hurtingöd
+DE,Huy-Neinstedt;Pabstorf;Anderbeck;Vogelsdorf;Dedeleben;Badersleben
+CH,Huémoz
+DE,Höchstädt i. Fichtelgebirge
+CH,Höfen b. Thun
+DE,Höhenstein
+DE,Höhjunk
+DE,Höllhammer
+CH,Hörhausen
+DE,Hörlitz
+DE,Hüll
+CH,Hünenberg See
+DE,Hünenfeld
+CH,Hüswil
+DE,Hüttelngesäß

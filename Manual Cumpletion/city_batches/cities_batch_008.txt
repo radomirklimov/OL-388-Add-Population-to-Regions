@@ -1,0 +1,15 @@
+DE,Bellers
+DE,Bembermühle
+DE,Bembsmühle
+CH,Benglen
+DE,Benjental;Looganlage
+CH,Benken SG
+CH,Benken ZH
+CH,Berg (Dägerlen)
+CH,Berg SG
+DE,Berga /Elster
+DE,Bergmühle
+CH,Bergün/Bravuogn
+DE,Berka v d Hainich
+CH,Berlens
+CH,Bern 65 SBB

@@ -1,0 +1,15 @@
+AT,Rothenwand
+DE,Rotherhof
+DE,Rott a. Inn
+DE,Rotwandhaus
+CH,Roumaz (Savièse)
+CH,Roveredo TI
+DE,Roßlaich
+CH,Rudolfstetten
+AT,Rudolz
+CH,Rumlikon
+DE,Rundsmühlhof
+DE,Rupbach, Gem Gutenacker
+CH,Russy
+DE,Röbel /Müritz
+DE,Rödelbach;Theismühlen

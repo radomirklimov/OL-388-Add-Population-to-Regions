@@ -1,0 +1,1734 @@
+country,city,population
+CH,Aathal-Seegräben,Seegräben municipality (official population for the locality Aathal-Seegräben not published separately)
+CH,Aawangen,Village without separate official population
+DE,Abraham,0
+CH,Abtwil AG,Village without separate official population
+CH,Abtwil SG,Village without separate official population
+DE,Addebüll,Village without separate official population
+DE,Adlersteige,no official population published
+CH,Adlikon b. Andelfingen,Former municipality (merged into Andelfingen)
+CH,Adlikon b. Regensdorf,Village without separate official population
+CH,Adliswil 1,0
+DE,Adorf /Vogtl.,9547
+CH,Aesch (Neftenbach),Village without separate official population
+CH,Aesch BL,10785
+CH,Aesch LU,1285
+CH,Aesch ZH,1342
+CH,Aeschi SO,1343
+CH,Aeschi b. Spiez,2326
+CH,Agriswil,Former municipality (merged into Ried bei Kerzers)
+DE,Ahrenstedt,Village without separate official population
+AT,Aigenfließen,Village without separate official population
+DE,Aiteröd,Village without separate official population
+CH,Alchenflüh,Village without separate official population
+DE,Algesbüttel,Village without separate official population
+CH,Allerheiligenberg,Village without separate official population
+AT,Allersgraben / Širokani,Village without separate official population
+CH,Allmendingen b. Bern,Village without separate official population
+CH,Alosen,Village without separate official population
+CH,Alpnachstad,Village without separate official population
+DE,Alsau,Village without separate official population
+DE,Alt Karin;Neu Karin;Danneborth,Villages without separate official populations
+DE,Altbrand;Vorwerk Friedrich,Villages without separate official populations
+CH,Altdorf UR,9600
+DE,Altdorf b. Nürnberg,15006
+CH,Alten,Village without separate official population
+CH,Alterswil FR,Former municipality (merged into Tafers)
+DE,Altheimersberg,Village without separate official population
+AT,Althodis / Stari Hodas,Village without separate official population
+DE,Am Römerhof;Am Römerschacht,Localities; no official populations published separately
+DE,Am Rönndeich, no official population published
+DE,Am Rüdesheimer Hafen, no official population published
+DE,Am Sandkopf, no official population published
+DE,Am Sandweiher, no official population published
+CH,Ammerswil AG,3868
+DE,An der Rhumequelle, no official population published
+CH,Andwil SG,1877
+AT,Angerholz, no official population published
+DE,Annaberg,479
+AT,Antau / Otava,801
+CH,Apples,1500
+CH,Arbedo,0
+CH,Arcegno,Village without separate official population
+CH,Arconciel,946
+CH,Arni AG,1956
+CH,Arni BE,0
+DE,Artamhof, no official population published
+DE,Aschau a. Inn,3344
+DE,Aschau i. Chiemgau,6300
+CH,Asp,Village without separate official population
+DE,Aspelhorn, no official population published
+CH,Asuel,Former municipality (merged into La Baroche)
+CH,Athenaz (Avusy),Village without separate official population
+CH,Attelwil,Former municipality (merged into Reitnau)
+DE,Auerbach /Vogtl.,19341
+DE,Auerberg, no official population published
+CH,Augst BL,1087
+DE,Auhof;Heldenmühle;Schummhof,Localities; no official populations published separately
+DE,Aura i. Sinngrund,1015
+AT,Ausserbraz,Village without separate official population
+CH,Autafond,Former municipality (merged into Belfaux)
+DE,Auwies, no official population published
+CH,Avegno,0
+CH,Avry-Centre FR, no official population published
+DE,Babben,0
+DE,Bachzelten, no official population published
+DE,Bad Berneck i. Fichtelgebirge,3126
+DE,Bad Frankenhausen /Kyffhäuser,8920
+DE,Bad Homburg,0
+DE,Bad Homburg v. d. Höhe,55804
+DE,Bad Königshofen i. Grabfeld,5950
+DE,Bad Lauchstädt , Goethestadt,8550
+CH,Bad Zurzach,4410
+DE,Badisch Schöllenbach, no official population published
+DE,Bahnstock, no official population published
+DE,Baierhof, no official population published
+CH,Baldham,Village without separate official population
+CH,Banco,Village without separate official population
+CH,Bangerten b. Dieterswil,Former municipality (merged into Rapperswil BE)
+CH,Bargen BE,1026
+CH,Bargen SH,1012
+DE,Bargholz, no official population published
+DE,Barkhorn, no official population published
+CH,Barmelweid, no official population published
+DE,Baruth / Mark,4247
+DE,Basdorf;Braunsberg, no official populations published separately
+CH,Basel SPILOG, no official population published
+CH,Bassecourt,4317
+DE,Battinsthal;Schuckmannshöhe, no official populations published separately
+AT,Baumgarten / Pajngrt,882
+DE,Bayerbach b. Ergoldsbach,1620
+DE,Bayern,Administrative state; no city population applicable
+DE,Beblinstetten, no official population published
+DE,Beckedorfer Schacht, no official population published
+DE,Bei den Tongruben, no official population published
+CH,Beinwil SO,270
+CH,Bellelay, no official population published
+DE,Bellers, no official population published
+DE,Bembermühle, no official population published
+DE,Bembsmühle, no official population published
+CH,Benglen,Village without separate official population
+DE,Benjental;Looganlage, no official populations published separately
+CH,Benken SG,2950
+CH,Benken ZH,829
+CH,Berg (Dägerlen),Village without separate official population
+CH,Berg SG,10200
+DE,Berga /Elster,3320
+DE,Bergmühle, no official population published
+CH,Bergün/Bravuogn,2466
+DE,Berka v d Hainich,500
+CH,Berlens,Former municipality (merged into Mézières FR)
+CH,Bern 65 SBB,Railway station; no official population published
+DE,Bernau a. Chiemsee,7012
+DE,Berneck, no official population published
+DE,Bernhalden, no official population published
+CH,Bertschikon,Former municipality (merged into Gossau ZH)
+CH,Bertschikon (Gossau ZH),Former municipality (merged into Gossau ZH)
+CH,Betten,Former municipality (merged into Bettmeralp)
+DE,Betzenhausen,Neighbourhood; population reported only at city level
+DE,Beucha,2995
+DE,Beutenmühle, no official population published
+CH,Biasca Stazione,Railway station; no official population published
+DE,Biberau,Former municipality (merged into Schleusegrund)
+CH,Bibern SH,268
+CH,Bichelsee,Village without separate official population
+DE,Bicken, no official population published
+CH,Biel-Benken BL,3884
+CH,Biel/Bienne 4,56000
+DE,Biersackschlag, no official population published
+DE,Bierschbacher Mühle;Döttinger Höhe, no official populations published separately
+CH,Bignasco,Former municipality (merged into Cevio)
+CH,Bionnens,Former municipality (merged into Siviriez)
+DE,Birkachhof;Steinächle, no official populations published separately
+DE,Birkenteich, no official population published
+DE,Birkhof, no official population published
+DE,Birkhof;Schillinghof;Voggenmühlhöfle, no official populations published separately
+CH,Birmensdorf ZH,7100
+CH,Birmenstorf AG,3075
+DE,Bischofsheim a.d.Rhön,4630
+DE,Bismarckquelle, no official population published
+CH,Blatten (Lötschen),267
+CH,Blatten b. Naters,0
+DE,Blaueishütte;Wimbachgrieshütte;Wimbachschloß;Ramsau b. Berchtesgaden;Watzmannhaus, no official populations published
+CH,Blausee-Mitholz,Village without separate official population
+CH,Bodio TI,2052
+DE,Boizenburg/ Elbe,10880
+DE,Bokelhoop;Gieselauschleuse, no official populations published separately
+DE,Boklund,635
+CH,Boll,Village without separate official population
+CH,Bollodingen,Former municipality (merged into Bettenhausen)
+DE,Bollweg, no official population published
+CH,Bombinasco,Village without separate official population
+DE,Bonsbeuern, no official population published
+DE,Bordelumsiel;Dörpumfeld;Dörpum;Brommelund, no official populations published separately
+CH,Borgonovo,Village without separate official population
+CH,Bouloz,Former municipality (merged into Vuisternens-devant-Romont)
+CH,Bourg-St-Pierre,194
+CH,Bouveret,Village without separate official population
+DE,Bowiesen, no official population published
+DE,Boxberg /O.L.,4450
+DE,Brackenberg, no official population published
+CH,Bramboden,Village without separate official population
+DE,Breddorfermoor, no official population published
+DE,Breitbrunn a. Chiemsee,1560
+DE,Breitenbrunn /Erzgeb.,5200
+DE,Breitreute, no official population published
+DE,Breitwies, no official population published
+CH,Bremgarten AG,8727
+CH,Bremgarten b. Bern,4685
+DE,Bresegard, no official population published
+CH,Brienz BE,3030
+CH,Brig,13400
+DE,Brille, no official population published
+DE,Brokdorferlandscheide, no official population published
+DE,Brombach, no official population published
+DE,Bronnerlehe,Locality; no official population published
+DE,Bruchsiedlung, no official population published
+CH,Bruderholz, population reported only at municipality/city level
+DE,Brückenmühle, no official population published
+CH,Brügg BE,4280
+CH,Brülisau,Village without separate official population
+CH,Brünig, no official population published
+CH,Brüttisellen,Village without separate official population
+CH,Buch SH,Village without separate official population
+DE,Buch a. Buchrain,Locality; no official population published
+DE,Buch a. Erlbach,Locality; no official population published
+CH,Buchen BE,Village without separate official population
+DE,Buchhof, Gem Hardthausen,Locality; no official population published
+DE,Buchhof, Gem Öhringen,Locality; no official population published
+CH,Buchs AG,8400
+CH,Buchs SG 3,13500
+CH,Buchs ZH,6450
+CH,Burg AG,3020
+DE,Burg Hohenzollern,Locality/castle; no official population published
+DE,Burgberg i. Allgäu,3300
+DE,Burgbretzingen;Einkorn,Localities; no official populations published separately
+DE,Burlage;Mecklinge;Berglage;Evershorst;Kuhlhorst,Localities; no official populations published separately
+DE,Burxdorf,Locality; no official population published
+CH,Busswil b. Melchnau,Village without separate official population
+CH,Bäch SZ,Village without separate official population
+AT,Bächental,Mountain locality; no official population published
+DE,Bärenbrunnerhof;Bärenbrunnermühle,Localities; no official populations published separately
+CH,Bäriswil BE,1080
+CH,Bättwil-Flüh,Bättwil municipality (official population; locality Flüh not separately published)
+DE,Bödingerhof;Buchholzbergerhof;Hübelhof,Localities; no official populations published separately
+DE,Bökensberg,Locality; no official population published
+CH,Bönigen b. Interlaken,2610
+DE,Bösby;Bösbyfeld,Localities; no official populations published separately
+DE,Bösodenbacherhof,Locality; no official population published
+CH,Bühl b. Aarberg,Village without separate official population
+DE,Bühlerzimmern,Locality; no official population published
+CH,Büren NW,816
+CH,Büren SO,1030
+CH,Büren zum Hof,Former municipality (merged into Fraubrunnen)
+CH,Bürglen TG,3230
+CH,Bürglen UR,4100
+CH,Büriswilen,Village without separate official population
+CH,Büttikon AG,1060
+CH,Bützberg,Village without separate official population
+DE,Büßholz;Kniepenberg,Localities; no official populations published separately
+CH,Calonico,Former municipality (merged into Faido)
+CH,Campascio,Village without separate official population
+CH,Campo (Blenio),Former municipality (merged into Blenio)
+CH,Caneggio,Former municipality (merged into Breggia)
+CH,Capolago,Former municipality (merged into Mendrisio)
+CH,Carouge GE,23200
+CH,Casima,Former municipality (merged into Breggia)
+CH,Cassina dAgno,Village without separate official population
+CH,Cauco,Former municipality (merged into Calanca)
+CH,Cavigliano,Village without separate official population
+CH,Chabrey,Former municipality (merged into Vully-les-Lacs)
+CH,Chapella,Village without separate official population
+CH,Charmey (Gruyère),2470
+CH,Chavannes-les-Forts,Former municipality (merged into Siviriez)
+CH,Chevenez,Former municipality (merged into Haute-Ajoie)
+CH,Cheyres,Former municipality (merged into Cheyres-Châbles)
+CH,Chiasso 3,8000
+DE,Christophruhe,Locality; no official population published
+CH,Châtillon FR,650
+CH,Châtillon JU,Former municipality (merged into Haute-Sorne)
+CH,Chésopelloz,Former municipality (merged into Corminboeuf)
+CH,Clèbes (Nendaz),Village without separate official population
+CH,Collex,Village without separate official population
+CH,Collombey,Former municipality (merged into Collombey-Muraz)
+CH,Colombier NE,Former municipality (merged into Milvignes)
+CH,Combremont-le-Petit,Former municipality (merged into Valbroye)
+CH,Contra,Village without separate official population
+CH,Corcelles BE,0
+CH,Corcelles-sur-Chavornay,Former municipality (merged into Chavornay)
+CH,Cormérod,Former municipality (merged into Misery-Courtion)
+CH,Cornaux NE,1700
+CH,Corsier GE,0
+CH,Cossonay-Ville,0
+CH,Cottens FR,0
+CH,Courcelon,Former municipality (merged into Courrendlin)
+CH,Courtaman,Former municipality (merged into Courtepin)
+CH,Courtemautruy,Former municipality (merged into Haute-Ajoie)
+CH,Couvet,Former municipality (merged into Val-de-Travers)
+CH,Crans VD,0
+CH,Crans-Montana 2,0
+CH,Cressier FR,0
+CH,Cressier NE,2000
+CH,Cresta (Avers),Village without separate official population
+CH,Crissier 1,0
+CH,Cugy VD,0
+CH,Cully,Former municipality (merged into Bourg-en-Lavaux)
+CH,Cumpadials,Village without separate official population
+CH,Curaglia,Village without separate official population
+DE,Czorneboh,Mountain/locality; no official population published
+DE,Daasdorf a Berge,0
+DE,Dachsbergau,Locality; no official population published
+DE,Dachshof;Glasmühle,Localities; no official populations published separately
+DE,Dahme /Mark,0
+CH,Daillon,Village without separate official population
+DE,Dammereez,Locality; no official population published
+DE,Dammesmühle;Dammeshof,Localities; no official populations published separately
+DE,Dammühle,Locality; no official population published
+CH,Dardin,Village without separate official population
+DE,Dargow;Bresahn,Localities; no official populations published separately
+CH,Davos Wolfgang,Village without separate official population
+CH,Deisswil b. Münchenbuchsee,Former municipality (merged into Münchenbuchsee)
+CH,Delémont 2,12500
+DE,Demmin , Hansestadt,10600
+DE,Dentlein a. Forst,4400
+CH,Detligen,Village without separate official population
+DE,Deutenried,Locality; no official population published
+CH,Dickbuch,Village without separate official population
+DE,Diedenberg,Locality; no official population published
+DE,Diepoldsburg;Engelhof;Torfgrube,Localities; no official populations published separately
+DE,Dierberg,Locality; no official population published
+DE,Diesburgerhof;Neu-Diesburgerhof,Localities; no official populations published separately
+CH,Diessbach b. Büren,940
+DE,Dietzhausen;Wichtshausen,Localities; no official populations published separately
+DE,Dillingen/ Saar,21000
+CH,Dompierre VD,Former municipality (merged into Valbroye)
+CH,Dongio,Former municipality (merged into Acquarossa)
+AT,Draßburg / Rasporak,1150
+DE,Dreeker Fladder,Locality; no official population published
+DE,Drei Annen Hohne,Locality; no official population published
+DE,Dreifaltigkeitsberg,Locality; no official population published
+DE,Drestedt-Valzik,Locality; no official population published
+DE,Drüsen,Locality; no official population published
+DE,Duten,Locality; no official population published
+DE,Dutzenthal,Locality; no official population published
+CH,Däniken SO,3030
+CH,Dänikon ZH,1850
+CH,Dättwil AG,Village without separate official population
+DE,Dürnberg;Enklarn,Localities; no official populations published separately
+DE,Ebenheider Hof,Locality; no official population published
+DE,Ebenwies;Deckelstein,Localities; no official populations published separately
+DE,Ebersdorf b. Coburg,1200
+CH,Ebersecken,Former municipality (merged into Altishofen)
+DE,Ebersteinerhof,Locality; no official population published
+CH,Ebertswil,Village without separate official population
+DE,Ebing;Unterholzen;Schuhegg;Parschall,Localities; no official populations published separately
+DE,Ebnisee,Locality; no official population published
+DE,Eckhütt,Locality; no official population published
+CH,Eclagnens,Former municipality (merged into Goumoëns)
+CH,Ecublens FR,Village without separate official population
+CH,Ecublens VD,13000
+CH,Ecuvillens,Former municipality (merged into Hauterive FR)
+CH,Edlibach,Village without separate official population
+AT,Edling / Kajzaze,Village without separate official population
+CH,Egg (Flawil),Village without separate official population
+DE,Egonmühle,Locality; no official population published
+DE,Ehingen a. Ries,2000
+CH,Ehrikon,Village without separate official population
+DE,Eichenbachermühle,Locality; no official population published
+AT,Eidenedt,Locality; no official population published
+DE,Einemhof,Locality; no official population published
+DE,Eislingen /Fils,21800
+DE,Eitleshof,Locality; no official population published
+CH,Elfingen,960
+DE,Ellrichsbronn,Locality; no official population published
+DE,Elschbacherhof,Locality; no official population published
+CH,Emmenbrücke 2,33000
+CH,Emmenmatt,Village without separate official population
+DE,Endorf;Neuplatendorf,Localities; no official populations published separately
+CH,Enggistein,Village without separate official population
+CH,Ennenda,Former municipality (merged into Glarus)
+CH,Entlebuch Businesszentrum,Business area; no official population published
+DE,Entrischenbrunn;Streitberg,Localities; no official populations published separately
+CH,Ependes VD,Former municipality (merged into Sullens)
+DE,Erkelshäuserhof,Locality; no official population published
+DE,Erlachskirchen,Locality; no official population published
+CH,Erlenbach ZH,5620
+DE,Erlenbach a. Main,10200
+DE,Erlenbach b. Marktheidenfeld,2500
+DE,Erlenbacher Forsthaus,Locality; no official population published
+DE,Erlenmühle,Locality; no official population published
+DE,Erlenwasen,Locality; no official population published
+CH,Erlinsbach SO,3440
+CH,Eschenbach LU,3900
+CH,Eschlikon TG,4800
+CH,Escholzmatt,Former municipality (merged into Escholzmatt-Marbach)
+DE,Eslingholz,Locality; no official population published
+CH,Etzgen,Village without separate official population
+CH,Etzwilen,Village without separate official population
+CH,Euseigne,Village without separate official population
+DE,Euteneuen,Locality; no official population published
+CH,Euthal,Village without separate official population
+CH,Eyholz,Village without separate official population
+DE,Fahrendorf,Locality; no official population published
+CH,Fahrni b. Thun,700
+DE,Fahrnpoint,Locality; no official population published
+CH,Fahrweid,Village without separate official population
+CH,Fajauna,Village without separate official population
+DE,Falkenstein /Vogtl.,5440
+CH,Fanas,Former municipality (merged into Grüsch)
+DE,Farchauermühle;Farchau,Localities; no official populations published separately
+CH,Faulensee,Village without separate official population
+DE,Faustenbach,Locality; no official population published
+DE,Faustermühle,Locality; no official population published
+DE,Feddersdeich;An der Chaussee,Localities; no official populations published separately
+CH,Feldbach,Village without separate official population
+CH,Feldbrunnen,930
+DE,Fels,Locality; no official population published
+DE,Felsbergerhof;Spreiterhof,Localities; no official populations published separately
+CH,Fenil-sur-Corsier,Village without separate official population
+CH,Fenkrieden,Village without separate official population
+CH,Ferlens VD,Former municipality (merged into Jorat-Mézières)
+CH,Feutersoey,Village without separate official population
+CH,Fex,Village without separate official population
+CH,Filzbach,Village without separate official population
+DE,Finsterbrunnertal,Locality; no official population published
+AT,Fischamend-Dorf,Village without separate official population
+CH,Fischbach LU,696
+DE,Fischen i. Allgäu,3250
+DE,Fischweier,Locality; no official population published
+DE,Fißmühle,Locality; no official population published
+CH,Flamatt,Village without separate official population
+DE,Flarupholz,Locality; no official population published
+CH,Flendruz,Village without separate official population
+CH,Flims Dorf,Village without separate official population
+DE,Flintsbach a. Inn,3100
+DE,Flohkraut,Locality; no official population published
+CH,Flumserberg Bergheim,Locality; no official population published
+CH,Flüh,Village without separate official population
+CH,Fontainemelon,Former municipality (merged into Val-de-Ruz)
+CH,Fontanezier,Former municipality (merged into Bonvillars)
+CH,Forch,Village without separate official population
+CH,Fornet-Dessus,Village without separate official population
+CH,Forst b. Längenbühl,Village without separate official population
+DE,Forsthaus Ivendorf;Ivendorf,Localities; no official populations published separately
+CH,Fortunau (Ayent),Village without separate official population
+AT,Frankenau / Frakanava,949
+DE,Frankenberg /Sa.,12400
+CH,Frasco,Former municipality (merged into Verzasca)
+DE,Frauenholz,Locality; no official population published
+DE,Fraulund,Locality; no official population published
+DE,Fresenboje,Locality; no official population published
+DE,Freudenheim,Locality; no official population published
+DE,Frickenhausen a. Main,4000
+DE,Friedenthal,Locality; no official population published
+DE,Friedrichshof,Locality; no official population published
+CH,Frieswil,Village without separate official population
+CH,Frinvillier,Village without separate official population
+DE,Fröndenberg /Ruhr,21000
+CH,Ftan,Former municipality (merged into Scuol)
+DE,Fuchshof,Locality; no official population published
+DE,Fuchsmühle,Locality; no official population published
+CH,Fusio,Former municipality (merged into Lavizzara)
+DE,Fürnsbach,Locality; no official population published
+CH,Fürstenaubruck,Village without separate official population
+DE,Fürstenberg /Havel,8400
+DE,Fürstental,Locality; no official population published
+DE,Fürstenwalde /Spree,31000
+CH,Gadmen,Former municipality (merged into Innertkirchen)
+DE,Gantenbeck;Großenhof,Localities; no official populations published separately
+CH,Ganterschwil,Former municipality (merged into Bütschwil-Ganterschwil)
+AT,Gantschier,Village without separate official population
+DE,Garching b. München,18000
+DE,Gars a. Inn,4000
+DE,Garz /Rügen,2200
+DE,Gastemühle,Locality; no official population published
+DE,Gasthafen,Locality; no official population published
+DE,Gehlmühle,Locality; no official population published
+DE,Gehrhof,Locality; no official population published
+DE,Geisbüschhof;Wüsteratherhof,Localities; no official populations published separately
+DE,Geislinger Weg;Großmannshof,Localities; no official populations published separately
+CH,Geiss,Village without separate official population
+DE,Gemünden a. Main,11000
+CH,Gentilino,Village without separate official population
+CH,Genève 15 Aéroport,Railway/airport postal locality; population reported only at municipality level
+CH,Genève 26,Postal locality; population reported only at municipality level
+CH,Genève 27,Postal locality; population reported only at municipality level
+CH,Genève 4,Postal locality; population reported only at municipality level
+DE,Georgenthal /Thür. Wald,2500
+DE,Gerichtsmannsmühle,Locality; no official population published
+DE,Gerold;Elmau;Kranzbach;Klais,Localities; no official populations published separately
+CH,Gerra (Verzasca),Former municipality (merged into Verzasca)
+DE,Gerschweiler,Locality; no official population published
+DE,Gesotz, Gem Hargarten,Locality; no official population published
+DE,Gestecke,Locality; no official population published
+CH,Gibswil,Village without separate official population
+DE,Gieshübel,Locality; no official population published
+DE,Gifizenmoos,Locality; no official population published
+DE,Giggenhausen;Moosmühle;Massenhausen;Schaidenhausen;Hetzenhausen,Localities; no official populations published separately
+DE,Glaitenhof,Locality; no official population published
+DE,Glienicke /Nordbahn,12000
+DE,Gmund a. Tegernsee,6200
+CH,Gnosca,Former municipality (merged into Bellinzona)
+CH,Golaten,Former municipality (merged into Kallnach)
+DE,Goldenerhahn,Locality; no official population published
+CH,Gondo,Village without separate official population
+CH,Goppenstein,Railway locality; no official population published
+CH,Goppisberg,Former municipality (merged into Bettmeralp)
+CH,Gossau SG,18000
+DE,Grabenstoffl,Locality; no official population published
+DE,Grafenanger;Seebruck,Localities; no official populations published separately
+CH,Grafenort,Village without separate official population
+DE,Grafing b. München,14500
+CH,Grandsivaz,Former municipality (merged into Misery-Courtion)
+CH,Grangettes-près-Romont,Former municipality (merged into Vuisternens-devant-Romont)
+AT,Graslhof,Locality; no official population published
+DE,Greifswald , Hansestadt,60000
+AT,Greis,Locality; no official population published
+CH,Gressy,Former municipality (merged into Yverdon-les-Bains)
+CH,Gretschins,Village without separate official population
+DE,Grießen,Locality; no official population published
+DE,Grimmelsberg,Locality; no official population published
+DE,Grollenhof,Locality; no official population published
+DE,Grotenknöll,Locality; no official population published
+DE,Groß Hauskreuz,Locality; no official population published
+DE,Großfriesen,Locality; no official population published
+DE,Großpostwitz /O.L.,2600
+DE,Großwiesenhof,Locality; no official population published
+DE,Großwig;Süptitz;Weidenhain,Localities; no official populations published separately
+CH,Grub AR,993
+CH,Grub SG,7500
+DE,Grub a. Forst,2700
+DE,Gruberhagen,Locality; no official population published
+CH,Grugnay (Chamoson),Village without separate official population
+DE,Grübelsberg,Locality; no official population published
+DE,Grünental,Locality; no official population published
+DE,Grünhof,Locality; no official population published
+DE,Gstadt a. Chiemsee,1300
+CH,Gumefens,Former municipality (merged into Marsens)
+DE,Gumpener Kreuz,Locality; no official population published
+DE,Gumpenweiler,Locality; no official population published
+CH,Guntershausen b. Berg,Village without separate official population
+CH,Guntmadingen,Former municipality (merged into Beringen)
+CH,Gunzwil,Former municipality (merged into Beromünster)
+DE,Gute Mühle;Ströbels Mühle;Saueressigs Mühle,Localities; no official populations published separately
+CH,Gysenstein,Village without separate official population
+CH,Gächliwil,Former municipality (merged into Lüterswil-Gächliwil)
+CH,Gänsbrunnen,280
+CH,Götighofen,Village without separate official population
+CH,Gümligen,Village without separate official population
+AT,Güttenbach / Pinkovac,900
+CH,Haag (Rheintal),Village without separate official population
+DE,Hackermoos,Locality; no official population published
+CH,Hagenbuch ZH,1300
+CH,Hagendorn,Village without separate official population
+DE,Hahnenkrug,Locality; no official population published
+DE,Hainhof,Locality; no official population published
+DE,Halbendorf,Locality; no official population published
+DE,Halbertshof,Locality; no official population published
+DE,Hals,Locality; no official population published
+DE,Hamburg-Insel Neuwerk,Locality; no official population published separately
+DE,Hamfelde, Kr Hzgt Lauenburg,530
+DE,Hamfelde, Kr Stormarn,1700
+DE,Hammer,Locality; no official population published
+DE,Hammer a.d. Uecker,Locality; no official population published
+DE,Hammermühle,Locality; no official population published
+DE,Hanchesmühle;Birkenstöcke,Localities; no official populations published separately
+CH,Happerswil,Village without separate official population
+DE,Hardthof,Locality; no official population published
+DE,Hardtmühle,Locality; no official population published
+DE,Harthof,Locality; no official population published
+AT,Hartlmühl,Locality; no official population published
+DE,Haselbach-Söldhaus,Locality; no official population published
+DE,Hasenmühle,Locality; no official population published
+AT,Haslaurotte,Locality; no official population published
+CH,Hasle LU,3190
+CH,Hasle-Rüegsau,3100
+CH,Haslen AI,Village without separate official population
+CH,Hasliberg Reuti,Village without separate official population
+CH,Hattenhausen,Village without separate official population
+CH,Hausen AG,3900
+DE,Hausen b. Würzburg,2500
+CH,Hauterive NE,2650
+DE,Heckenhof,Locality; no official population published
+CH,Heerbrugg,Village without separate official population
+DE,Heerhof;Osterholz,Localities; no official populations published separately
+DE,Hegebuchenbusch,Locality; no official population published
+DE,Hegerhof,Locality; no official population published
+DE,Hehm;Nordfeld,Localities; no official populations published separately
+DE,Heidehof,Locality; no official population published
+DE,Heidersbacher Mühle,Locality; no official population published
+DE,Heiligenbruck;Schilpenbühl,Localities; no official populations published separately
+DE,Heimbuch,Locality; no official population published
+CH,Heimenschwand,Village without separate official population
+DE,Heinrichsegen,Locality; no official population published
+DE,Hellbornerhof,Locality; no official population published
+DE,Hengstbacherhof,Locality; no official population published
+CH,Hennens,Village without separate official population
+DE,Hennickendorf;Herzfelde,Localities; no official populations published separately
+DE,Herbelsmühle,Locality; no official population published
+DE,Herfingerhof;Mühlbusch,Localities; no official populations published separately
+CH,Hergiswil NW,6100
+CH,Hergiswil b. Willisau,1600
+DE,Hergolding;Parsdorf,Localities; no official populations published separately
+DE,Hermsdorf /Erzgeb.;Hermsdorf-Seyde,Localities; no official populations published separately
+DE,Herrenbranden,Locality; no official population published
+DE,Herrenchiemsee,Island/locality; no official population published separately
+DE,Herrsching a. Ammersee,11000
+DE,Hessenhütte,Mountain hut/locality; no official population published
+DE,Hetlinger Neuerkoog,Locality; no official population published
+CH,Hettiswil b. Hindelbank,Former municipality (merged into Hindelbank)
+DE,Heubergerhof;Pulvermühle,Localities; no official populations published separately
+DE,Heuchelheim a. d. Lahn,7600
+CH,Hilfikon,Former municipality (merged into Villmergen)
+DE,Himmelweiler,Locality; no official population published
+DE,Hinterbirkenhof,Locality; no official population published
+DE,Hinterbug,Locality; no official population published
+DE,Hinterer Hessenhof,Locality; no official population published
+CH,Hinterfultigen,Village without separate official population
+AT,Hinterlibitsch / Suha,Village without separate official population
+CH,Hintermoos,Village without separate official population
+DE,Hinterste Wache,Locality; no official population published
+DE,Hinterziegelhalden,Locality; no official population published
+DE,Hippelsbach,Locality; no official population published
+DE,Hirschhof,Locality; no official population published
+DE,Hirschhorn/ Pfalz,4100
+DE,Hirtscheid;Talmühle,Localities; no official populations published separately
+DE,Hirzlei,Locality; no official population published
+DE,Hochbuch,Locality; no official population published
+DE,Hochgernhaus,Mountain hut/locality; no official population published
+DE,Hochstadt a. Main,1700
+DE,Hochstatter Hof,Locality; no official population published
+DE,Hof Mondschirm,Locality; no official population published
+DE,Hoffnungstal,Locality; no official population published
+DE,Hofheim,City cannot be matched with certainty to an official administrative unit
+CH,Hofstetten b. Brienz,Village without separate official population
+DE,Hohenentringen,Locality; no official population published
+DE,Hohenlohe,Region/name of historical territory; no city population applicable
+DE,Hohenseeden;Bergzow,Localities; no official populations published separately
+CH,Hohtenn,Former municipality (merged into Steg-Hohtenn)
+CH,Holderbank AG,1300
+CH,Holderbank SO,1300
+DE,Hollerdeich,Locality; no official population published
+DE,Hollermühle,Locality; no official population published
+DE,Hollertal,Locality; no official population published
+DE,Hollmühle,Locality; no official population published
+DE,Holzhauser Eck,Locality; no official population published
+DE,Holzheim a. Forst,Locality; no official population published
+DE,Holzmühle,Locality; no official population published
+CH,Homberg b. Thun,Village without separate official population
+DE,Hoppenwalde,Locality; no official population published
+CH,Horgen 1,23000
+DE,Hornberger Reute,Locality; no official population published
+AT,Hornstein / Vorištan,3100
+DE,Horschhof,Locality; no official population published
+DE,Horsmar;Eigenrode,Localities; no official populations published separately
+DE,Hosena,1100
+CH,Hosenruck,Village without separate official population
+DE,Hummelshalden,Locality; no official population published
+DE,Hundebusch,Locality; no official population published
+DE,Hundertmorgen,Locality; no official population published
+DE,Hundsrück,Locality; no official population published
+DE,Hundsweihersägemühle,Locality; no official population published
+DE,Hurtingöd,Locality; no official population published
+DE,Huy-Neinstedt;Pabstorf;Anderbeck;Vogelsdorf;Dedeleben;Badersleben,Localities; no official populations published separately
+CH,Huémoz,Village without separate official population
+DE,Höchstädt i. Fichtelgebirge,1100
+CH,Höfen b. Thun,Village without separate official population
+DE,Höhenstein,Locality; no official population published
+DE,Höhjunk,Locality; no official population published
+DE,Höllhammer,Locality; no official population published
+CH,Hörhausen,Village without separate official population
+DE,Hörlitz,900
+DE,Hüll,Locality; no official population published
+CH,Hünenberg See,Village without separate official population
+DE,Hünenfeld,Locality; no official population published
+CH,Hüswil,Village without separate official population
+DE,Hüttelngesäß,Locality; no official population published
+DE,Hüttgeswasen,Locality; no official population published
+CH,Ichertswil,Former municipality (merged into Lüterkofen-Ichertswil)
+DE,Igelsbach,Locality; no official population published
+CH,Ilanz,Former municipality (merged into Ilanz/Glion)
+CH,Illhart,Village without separate official population
+CH,Illighausen,Village without separate official population
+CH,Illnau,Former municipality (merged into Illnau-Effretikon)
+DE,Iltishof,Locality; no official population published
+CH,Im Fang,Village without separate official population
+DE,Im Hengstrain,Locality; no official population published
+DE,Immenhof;Bornsmühle,Localities; no official populations published separately
+DE,Immenstadt i. Allgäu,15000
+CH,Indemini,Former municipality (merged into Gambarogno)
+DE,Ingelbach-Bahnhof,Locality; no official population published
+CH,Innereriz,Village without separate official population
+CH,Innerferrera,Former municipality (merged into Ferrera)
+DE,Inning a. Ammersee,4700
+DE,Inning a. Holz,Locality; no official population published
+DE,Inselhof,Locality; no official population published
+CH,Intragna,Former municipality (merged into Centovalli)
+DE,Irmannsweiler;Bibersohl,Localities; no official populations published separately
+CH,Iseo,Village without separate official population
+CH,Isole di Brissago,Island; no official population published
+CH,Ittenthal,Former municipality (merged into Kaisten)
+DE,Jagdschloß Thiergarten,Locality; no official population published
+DE,Jahnsdorf /Erzgeb.,5300
+CH,Jakobsbad,Village without separate official population
+AT,Jaunstein / Podjuna,Village without separate official population
+DE,Jeremiasmühle,Locality; no official population published
+DE,Jerrisbekfeld,Locality; no official population published
+DE,Jeshop,Locality; no official population published
+DE,Jettenhausen,Locality; no official population published
+DE,Jevenberg;Moltkestein,Localities; no official populations published separately
+DE,Jägerhaus,Locality; no official population published
+DE,Jägerlust, Forsthaus,Locality; no official population published
+DE,Jößnitz,3000
+DE,Kagar;Wallitz;Dorf Zechlin;Flecken Zechlin;Neu Lutterow;Luhme;Alt Lutterow,Localities; no official populations published separately
+DE,Kahl a. Main,7900
+DE,Kahler Berg,Locality; no official population published
+DE,Kahlkamp,Locality; no official population published
+AT,Kaisersdorf / Kalištrof,1700
+DE,Kaisershagen;Ammern;Dachrieden;Reiser,Localities; no official populations published separately
+DE,Kalbergerhof,Locality; no official population published
+AT,Kalham,Locality; no official population published
+DE,Kalkofen, Gem Dörnberg;Schleuse,Localities; no official populations published separately
+CH,Kalpetran,Village without separate official population
+CH,Kaltacker,Village without separate official population
+CH,Kaltbach,Village without separate official population
+DE,Kaltbuch,Locality; no official population published
+DE,Kaltenbrunn,Locality; no official population published
+DE,Kaltenwanghof,Locality; no official population published
+DE,Kamerlanderdeich,Locality; no official population published
+CH,Kappel SO,3200
+DE,Karlshof,Locality; no official population published
+DE,Karlshöhe;Kreuzhof,Localities; no official populations published separately
+DE,Karlshöhe;Schleifthor,Localities; no official populations published separately
+DE,Karlstein a. Main,8000
+DE,Karlsthal Bahnhof,Railway locality; no official population published
+DE,Karthause Grünau,Neighbourhood; population reported only at municipality level
+DE,Katelbogen;Qualitz;Laase,Localities; no official populations published separately
+DE,Katharinenhof,Locality; no official population published
+DE,Katharinenthalerhof,Locality; no official population published
+DE,Katschow,Locality; no official population published
+DE,Katzhörn;Kleinkoogsdeich;Gotteskoogdeich,Localities; no official populations published separately
+DE,Keller,Locality; no official population published
+DE,Kellershof,Locality; no official population published
+CH,Kemptthal,Village without separate official population
+DE,Ketzin /Havel,6600
+CH,Kilchberg BL,0
+CH,Kilchberg ZH,8300
+DE,Kindsbach, Forsthaus,Locality; no official population published
+CH,Kirchberg BE,5900
+CH,Kirchdorf AG,Village without separate official population
+CH,Kirchdorf BE,Village without separate official population
+DE,Kirchdorf a. Inn,5400
+DE,Kirchheim b. München,13000
+CH,Kirchleerau-Moosleerau,Former municipality (merged into Kirchleerau and Moosleerau)
+DE,Kirschfurt,Locality; no official population published
+DE,Klaftertalerhof,Locality; no official population published
+DE,Klaubmühle,Locality; no official population published
+DE,Klein Grönau,Locality; no official population published
+DE,Klein Heikeland,Locality; no official population published
+DE,Klein Kampen,Locality; no official population published
+CH,Kleindietwil,Former municipality (merged into Madiswil)
+CH,Kleindöttingen,Village without separate official population
+DE,Kleinromstedt;Großromstedt;Pfuhlsborn;Kösnitz;Eckolstädt;Wormstedt;Münchengosserstädt;Hermstedt;Stobra,Localities; no official populations published separately
+DE,Kleinzerbst,Locality; no official population published
+DE,Klettwitz,1700
+AT,Klingenbach / Klimpuh,1300
+DE,Klingenberg a. Main,6200
+DE,Klingenmühlhöfle,Locality; no official population published
+DE,Klippmühle,Locality; no official population published
+DE,Klockow,Locality; no official population published
+DE,Kloster St Ludwig,Monastery/locality; no official population published
+DE,Klüß,Locality; no official population published
+DE,Kneispermühle,Locality; no official population published
+DE,Knochenmühle;Kaisermühle,Localities; no official populations published separately
+DE,Knyphauserwald,Forest/locality; no official population published
+DE,Kochel a. See,4300
+DE,Kohlmühle,Locality; no official population published
+DE,Kollow, Kurheim,Locality; no official population published
+DE,Kolochau;Malitschkendorf,Localities; no official populations published separately
+DE,Konradsmühle;Würschhauserhof;Würschhausermühle,Localities; no official populations published separately
+DE,Kosilenzien;Neuburxdorf;Langenrieth;Möglenz,Localities; no official populations published separately
+DE,Kottenbornermühle,Locality; no official population published
+AT,Kottingburgstall,Locality; no official population published
+DE,Kottmar (Gemeinde),7800
+DE,Kraiburg a. Inn,4000
+DE,Krambergsmühle,Locality; no official population published
+DE,Krauschwitz i.d. O.L.,3400
+DE,Krautenberg,Locality; no official population published
+DE,Krelinger Bruch,Locality; no official population published
+DE,Krettenhof,Locality; no official population published
+DE,Kretzhaus,Locality; no official population published
+DE,Kreut,Locality; no official population published
+DE,Kreuzquelle,Locality; no official population published
+CH,Krinau,Former municipality (merged into Wattwil)
+AT,Kroatisch Minihof / Mjenovo,900
+DE,Krumhermersdorf,Locality; no official population published
+DE,Krummland,Locality; no official population published
+CH,Kulmerau,Former municipality (merged into Schenkon)
+DE,Kurort Rathen,350
+DE,Kurort Seiffen,2300
+CH,Kyburg-Buchegg,Former municipality (merged into Buchegg)
+DE,Köhnerbrücke,Locality; no official population published
+DE,Kölleshof,Locality; no official population published
+AT,Kömmel / Komelj,Village without separate official population
+DE,Königreich,Locality; no official population published
+DE,Königstein /Sächs. Schw.,2100
+DE,Königswill,Locality; no official population published
+DE,Köppelmühle,Locality; no official population published
+DE,Köschinger Waldhaus,Locality; no official population published
+DE,Köshof;Schautenhof;Eibenhof,Localities; no official populations published separately
+DE,Köthel, Kr Hzgt Lauenburg,300
+DE,Köthel, Kr Stormarn,400
+CH,Küssnacht am Rigi,14000
+CH,LAbergement,Former municipality (merged into L'Abergement)
+CH,LAuberson,Village without separate official population
+CH,La Conversion,Village without separate official population
+CH,La Corbaz,Former municipality (merged into Misery-Courtion)
+CH,La Coudre,Former municipality (merged into Neuchâtel)
+CH,La Croix-de-Rozon,Village without separate official population
+CH,La Cure,Village without separate official population
+CH,La Garde (Sembrancher),Village without separate official population
+CH,La Plaine,Village without separate official population
+CH,La Roche FR,1980
+CH,La Russille,Village without separate official population
+CH,La Sagne NE,1000
+CH,La Tour-de-Trême,Former municipality (merged into Bulle)
+CH,La Tzoumaz,Village without separate official population
+CH,Laax GR 2,4300
+CH,Lachen SZ,9500
+DE,Lachnitzmühle,Locality; no official population published
+DE,Lambertskreuz,Locality; no official population published
+DE,Landturm,Locality; no official population published
+DE,Langenhalde,Locality; no official population published
+DE,Langenhorst,Locality; no official population published
+AT,Langental / Longitolj,Village without separate official population
+DE,Langhardt,Locality; no official population published
+DE,Langheckerhof,Locality; no official population published
+DE,Langweid a. Lech,8500
+CH,Lanna,Village without separate official population
+CH,Lanzenneunforn,Village without separate official population
+CH,Latterbach,Village without separate official population
+DE,Lauberhof,Locality; no official population published
+DE,Lauenburg/ Elbe,11800
+CH,Lauenen b. Gstaad,870
+DE,Laufenbacherhof,Locality; no official population published
+CH,Laupen BE,3300
+CH,Laura,Village without separate official population
+CH,Lausanne 18,Postal locality; population reported only at municipality level
+DE,Lautenbachhof,Locality; no official population published
+CH,Lavin,Former municipality (merged into Zernez)
+CH,Le Brouillet,Village without separate official population
+CH,Le Bémont JU,Former municipality (merged into Les Breuleux)
+CH,Le Cerneux-Veusil,Village without separate official population
+CH,Le Châtelard VS,Village without separate official population
+CH,Le Châtelard-près-Romont,Former municipality (merged into Châtelard)
+CH,Le Prédame,Village without separate official population
+CH,Le Pâquier-Montbarry,Former municipality (merged into Val-de-Charmey)
+CH,Le Solliat,Village without separate official population
+CH,Le Sépey,Village without separate official population
+CH,Leggia,Former municipality (merged into Grono)
+DE,Leherfeld;Dammsfeld,Localities; no official populations published separately
+DE,Lehmsiek,Locality; no official population published
+CH,Leimbach AG,Village without separate official population
+CH,Lenggenwil,Village without separate official population
+CH,Lengnau AG,2900
+CH,Lengnau BE,5500
+CH,Lenk im Simmental,2400
+CH,Lentigny,Former municipality (merged into La Brillaz)
+CH,Lenzburg 1,11000
+CH,Les Avanchets,Neighbourhood; population reported only at municipality level
+CH,Les Bioux,Village without separate official population
+CH,Les Brenets,Former municipality (merged into Le Locle)
+CH,Les Crosets,Village without separate official population
+CH,Les Ecorcheresses,Village without separate official population
+CH,Les Emibois,Village without separate official population
+CH,Les Friques,Village without separate official population
+CH,Les Moulins,Village without separate official population
+CH,Les Paccots,Village without separate official population
+CH,Les Plans-sur-Bex,Village without separate official population
+CH,Les Pommerats,Former municipality (merged into Saignelégier)
+CH,Les Prés-dOrvin,Village without separate official population
+CH,Les Rasses,Village without separate official population
+CH,Les Thioleyres,Former municipality (merged into Oron)
+DE,Levensau,Locality; no official population published
+CH,Libingen,Village without separate official population
+DE,Lichtenberg /Erzgeb.,2500
+DE,Lichtenow,Locality; no official population published
+DE,Lichtenstein /Sa.,11300
+CH,Liebistorf,Former municipality (merged into Gurmels)
+CH,Liez (St-Martin),Village without separate official population
+DE,Limburg,0
+DE,Limburg a.d. Lahn,36000
+DE,Lindemannsruhe,Locality; no official population published
+DE,Lindenberg i. Allgäu,12000
+DE,Lindenhof,Locality; no official population published
+DE,Linkersbaindt,Locality; no official population published
+CH,Lippoldswilen,Village without separate official population
+DE,Lochmühle,Locality; no official population published
+DE,Locktow;Dahnsdorf;Ziezow;Kranepuhl;Mörz,Localities; no official populations published separately
+CH,Loco,Former municipality (merged into Isorno)
+DE,Lohen;Krücklham;Heuwinkl;Reiser;Mittergars,Localities; no official populations published separately
+DE,Lohheide, gemfr. Bezirk,Administrative area; no official population published
+CH,Lohn SH,610
+CH,Lohnstorf,Former municipality (merged into Thurnen)
+DE,Lohr a. Main,15000
+DE,Lotenberg;Haagwiesen,Localities; no official populations published separately
+DE,Lotsenstation,Locality; no official population published
+DE,Louisenberg,Locality; no official population published
+DE,Louisenhof,Locality; no official population published
+DE,Luchle,Locality; no official population published
+CH,Luchsingen,Former municipality (merged into Glarus Süd)
+AT,Ludescherberg,Village without separate official population
+CH,Ludiano,Former municipality (merged into Serravalle)
+CH,Lugano 2 Paradiso Caselle,Postal locality; population reported only at municipality level
+CH,Lugnorre,Former municipality (merged into Mont-Vully)
+DE,Luhnvie,Locality; no official population published
+DE,Luhrbach,Locality; no official population published
+CH,Lully FR,1200
+CH,Lully VD,800
+CH,Lumbrein,Former municipality (merged into Lumnezia)
+DE,Luppertsseifen, Gem Burscheid,Locality; no official population published
+CH,Lustdorf,Village without separate official population
+CH,Lustmühle,Village without separate official population
+CH,Luthern Bad,Village without separate official population
+DE,Lutherstadt Eisleben,24000
+DE,Lutherstadt Wittenberg,46000
+DE,Ländlerhof,Locality; no official population published
+DE,Lübbenau /Spreewald,16000
+CH,Lüchingen,Village without separate official population
+CH,Lüsslingen,Former municipality (merged into Lüsslingen-Nennigkofen)
+CH,Lütisburg Station,Village without separate official population
+DE,Machtemesmühle;Preischeiderley,Localities; no official populations published separately
+CH,Madrano,Village without separate official population
+DE,Maiermund;Briedeler Heck;Hohestein,Localities; no official populations published separately
+DE,Mainz-Kastel,District; population reported only at city level
+DE,Mainz-Kostheim,District; population reported only at city level
+DE,Mairing,Locality; no official population published
+DE,Makenhof,Locality; no official population published
+CH,Malans GR,2500
+DE,Malse,Locality; no official population published
+DE,Manker,Locality; no official population published
+DE,Marbach,City cannot be matched with certainty to an official administrative unit
+CH,Marbach SG,2300
+DE,Marienhof,Locality; no official population published
+CH,Marin-Epagnier,Former municipality (merged into La Tène)
+AT,Markenschlagrotte,Locality; no official population published
+DE,Markertsgrün,Locality; no official population published
+CH,Maroggia,Former municipality (merged into Val Mara)
+CH,Martigny-Croix,Village without separate official population
+DE,Martinskirchen;Brottewitz;Koßdorf,Localities; no official populations published separately
+DE,Marzauermühle,Locality; no official population published
+CH,Maseltrangen,Village without separate official population
+CH,Mastrils,Former municipality (merged into Landquart)
+CH,Matten b. Interlaken,4200
+DE,Mauthaus,Locality; no official population published
+DE,Mecklenburg-Vorpommern,Federal state; no city population applicable
+CH,Medeglia,Former municipality (merged into Bellinzona)
+DE,Meetzen,Locality; no official population published
+CH,Meien,Village without separate official population
+DE,Meisdorf;Ermsleben;Reinstedt,Localities; no official populations published separately
+CH,Melano,Former municipality (merged into Val Mara)
+DE,Melusinental,Locality; no official population published
+DE,Menglers,Locality; no official population published
+DE,Merkeshausen,Locality; no official population published
+CH,Mex VD,1200
+CH,Mex VS,Village without separate official population
+CH,Mezzovico,Former municipality (merged into Monteceneri)
+DE,Michelau i. Steigerwald,1200
+DE,Michelbacher Mühle,Locality; no official population published
+DE,Michelhölzle,Locality; no official population published
+CH,Middes,Former municipality (merged into Torny)
+DE,Mielberg,Locality; no official population published
+DE,Miele;Rehwinkel,Localities; no official populations published separately
+DE,Minderleinsmühle;Gabermühle,Localities; no official populations published separately
+CH,Misériez (Salins),Village without separate official population
+DE,Mittelmühle,Locality; no official population published
+DE,Mittelschieda,Locality; no official population published
+CH,Miège,1300
+DE,Modenbacherhof,Locality; no official population published
+DE,Mohrenmühle;Franzenmühle,Localities; no official populations published separately
+CH,Moiry VD,Former municipality (merged into Grens)
+DE,Moisall;Käterhagen;Jabelitz;Langen Trechow;Neu Käterhagen;Kurzen Trechow;Göllin;Glambeck,Localities; no official populations published separately
+CH,Mollens VD,Former municipality (merged into Veysonnaz)
+CH,Mollie-Margot,Village without separate official population
+CH,Mont-Crosin,Village without separate official population
+CH,Montagne-de-Courtelary,Village without separate official population
+CH,Montavon,Village without separate official population
+CH,Montbovon,Village without separate official population
+CH,Montet (Broye),Former municipality (merged into Les Montets)
+DE,Montforterhof,Locality; no official population published
+CH,Monthey 2,18000
+CH,Montignez,Former municipality (merged into Basse-Allaine)
+CH,Montlingen,Village without separate official population
+CH,Montsevelier,Former municipality (merged into Val Terbi)
+CH,Morcles,Village without separate official population
+DE,Morest,Locality; no official population published
+CH,Morges 1,17000
+CH,Morrens VD,1200
+CH,Mosen,Former municipality (merged into Hitzkirch)
+DE,Muhr a. See,2200
+DE,Mundhardterhof,Locality; no official population published
+CH,Muri AG,8000
+DE,Murnau a. Staffelsee,13000
+CH,Murzelen,Village without separate official population
+DE,Muttenhaus,Locality; no official population published
+CH,Muttenz 1,18000
+CH,Mädris-Vermol,Village without separate official population
+CH,Mézery-près-Donneloye,Village without separate official population
+AT,Möderboden,Locality; no official population published
+DE,Mönchshof,Locality; no official population published
+CH,Mötschwil,Former municipality (merged into Krauchthal)
+DE,Mückenhof,Locality; no official population published
+DE,Mühlenbeck,16000
+DE,Mühlenthal,Locality; no official population published
+DE,Mühlhausen /Thüringen,36000
+DE,Mühlwand,Locality; no official population published
+CH,Mülenen,Village without separate official population
+CH,Müllheim Dorf,Village without separate official population
+CH,Münchenstein 1,12000
+CH,Münchringen,Former municipality (merged into Jegenstorf)
+CH,Münchwilen AG,3500
+CH,Müstair,Former municipality (merged into Val Müstair)
+CH,Nax,Former municipality (merged into Mont-Noble)
+CH,Necker,Village without separate official population
+AT,Nenzinger Himmel,Alpine settlement; no official population published
+CH,Nesselnbach,Village without separate official population
+DE,Nettemühle,Locality; no official population published
+DE,Netzeband;Katerbow;Rägelin;Darsikow;Pfalzheim,Localities; no official populations published separately
+DE,Neu Bleckede;Neu Wendischthun,Localities; no official populations published separately
+DE,Neu Duvenstedt-Nord,Locality; no official population published
+DE,Neualbenreuth,1300
+AT,Neuberg im Burgenland / Nova Gora,900
+AT,Neubruck,Village without separate official population
+AT,Neudorf / Novo Selo,Village without separate official population
+DE,Neue Mühle,Locality; no official population published
+DE,Neufahrn b. Freising,21000
+DE,Neufarn;Purfing,Localities; no official populations published separately
+CH,Neuhaus SG,Village without separate official population
+DE,Neuhausen /Erzgeb.,2600
+DE,Neuhausen /Spree,5000
+CH,Neuhausen am Rheinfall 1,11000
+DE,Neukirch /Lausitz,5000
+DE,Neukirchen /Erzgeb.,4000
+DE,Neukirchen /Pleiße,3700
+DE,Neumühlen,Locality; no official population published
+DE,Neunhäuser,Locality; no official population published
+DE,Neunkirchen a. Brand,8000
+DE,Neunkirchen a. Sand,5000
+DE,Neuseegalendorf,Locality; no official population published
+DE,Neustadt /Vogtl.,0
+DE,Neustadt a. Main,1300
+DE,Neustadt b. Coburg,16000
+DE,Neuwerben
+DE,Neuwoog
+DE,Neuwühren
+CH,Neuägeri
+CH,Neyruz FR
+DE,Nichel;Schlalach;Niederwerbig
+CH,Niedergampel
+CH,Niederglatt SG
+CH,Niederglatt ZH
+CH,Niederneunforn
+CH,Niederried b. Interlaken
+DE,Niedersachsen
+CH,Niederwil SO
+DE,Niederähren
+DE,Niendorf/ Stecknitz
+CH,Niouc,Village without separate official population
+CH,Nohl,Village without separate official population
+DE,Nonnenholz,Locality; no official population published
+DE,Nordergeilwang,Locality; no official population published
+DE,Nordheim a. Main,1000
+DE,Nordseeinsel Memmert,Island; no permanent population
+CH,Noréaz,Former municipality (merged into Montagny)
+CH,Noës,Village without separate official population
+CH,Nuglar,Former municipality (merged into Nuglar-St. Pantaleon)
+DE,Nußdorf a. Inn,2700
+CH,Nyon 2,21000
+DE,Näherhof,Locality; no official population published
+CH,Oberbalmberg,Village without separate official population
+DE,Oberdill,Locality; no official population published
+CH,Oberdorf BL,2400
+DE,Obere Kleinmichelesmühle;Untere Kleinmichelesmühle,Localities; no official populations published separately
+DE,Obere Roggenmühle,Locality; no official population published
+DE,Obere Ölmühle;Untere Ölmühle,Localities; no official populations published separately
+DE,Oberer Eutinger Talhof,Locality; no official population published
+DE,Oberer Lindenhof,Locality; no official population published
+CH,Oberflachs,Former municipality (merged into Schinznach)
+CH,Obergesteln,Former municipality (merged into Obergoms)
+CH,Oberglatt ZH,7400
+CH,Oberhasli,Village without separate official population
+DE,Oberholzhäuseln,Locality; no official population published
+CH,Oberkirch LU,4900
+DE,Oberkutterau,Locality; no official population published
+DE,Oberlauterbach;Trieb,Localities; no official populations published separately
+DE,Oberlindberg,Locality; no official population published
+CH,Obermutten,Village without separate official population
+DE,Obernach,Locality; no official population published
+DE,Obernburg a. Main,8900
+DE,Oberndorf a. Lech,2500
+AT,Oberpullendorf / Felsöpulya,3200
+CH,Oberramsern,Village without separate official population
+CH,Oberrickenbach,Village without separate official population
+CH,Obersaxen,Former municipality (merged into Obersaxen Mundaun)
+CH,Oberschrot,Former municipality (merged into Plaffeien)
+DE,Obersteinenberg,Locality; no official population published
+DE,Oberstenwehr,Locality; no official population published
+CH,Oberstetten,Village without separate official population
+CH,Oberterzen,Village without separate official population
+CH,Oberwangen TG,Village without separate official population
+AT,Oberwart / Felsöör,8000
+CH,Oberwil BL,12000
+CH,Oberwil b. Büren,Village without separate official population
+CH,Oberwil b. Zug,Village without separate official population
+CH,Oberönz,Former municipality (merged into Herzogenbuchsee)
+CH,Oberösch,Village without separate official population
+AT,Obtarrenz,Village without separate official population
+DE,Ochsenbusch,Locality; no official population published
+DE,Oelsnitz /Erzgeb.,11000
+CH,Oeschseite,Village without separate official population
+DE,Oetjendorf,Locality; no official population published
+CH,Oey,Village without separate official population
+CH,Oftringen 1,15000
+CH,Ohmstal,Former municipality (merged into Schötz)
+DE,Oldenburg (Oldenburg),175000
+DE,Olenkorb,Locality; no official population published
+CH,Oleyres,Former municipality (merged into Avenches)
+CH,Onnens VD,600
+DE,Orbachshof;Haberhof,Localities; no official populations published separately
+CH,Ortschwaben,Village without separate official population
+AT,Oslip / Uzlop,1300
+CH,Osogna,Former municipality (merged into Riviera)
+DE,Ostenholz,Locality; no official population published
+CH,Osterfingen,Village without separate official population
+CH,Ostermundigen KATA,18000
+DE,Ostseebad Heringsdorf,9000
+DE,Ostseebad Nienhagen,2500
+DE,Ostseebad Rerik,2200
+DE,Ostseebad Wustrow,1200
+CH,Ottoberg,Village without separate official population
+DE,Ottstedt a Berge,Locality; no official population published
+DE,Ovendorferredder,Locality; no official population published
+DE,Pagensand,Island/locality; no official population published
+AT,Pama / Bijelo Selo,1100
+AT,Parndorf / Pandrof,5000
+CH,Parpan,Former municipality (merged into Vaz/Obervaz)
+DE,Peickwitz,600
+CH,Peist,Former municipality (merged into Arosa)
+DE,Pelzerhaus;Beurenermühle,Localities; no official populations published separately
+DE,Pentenried;Frohnloh,Localities; no official populations published separately
+CH,Perlen,Village without separate official population
+CH,Perly,Village without separate official population
+CH,Peseux,Former municipality (merged into Neuchâtel)
+DE,Pfaffenhäusle;Mühlhölzle,Localities; no official populations published separately
+DE,Pfahlbronner Mühle;Schenkhöfle;Haldenhof;Haselhof,Localities; no official populations published separately
+DE,Pfahlhof,Locality; no official population published
+DE,Pfalzkyll,Locality; no official population published
+CH,Pfeffikon LU,Former municipality (merged into Rickenbach)
+DE,Pfenninghof,Locality; no official population published
+DE,Pflaumdorf;Algertshausen,Localities; no official populations published separately
+AT,Pfoisau,Locality; no official population published
+CH,Pfäffikon ZH,12000
+CH,Pignia,Former municipality (merged into Andeer)
+DE,Pilligerheck,Locality; no official population published
+DE,Pirmannsteinerhof,Locality; no official population published
+DE,Pistre,Locality; no official population published
+DE,Planschwitz;Oelsnitz /Vogtl.,Localities; no official populations published separately
+AT,Plaschlhof,Locality; no official population published
+DE,Plattele,Locality; no official population published
+DE,Plirup,Locality; no official population published
+DE,Plotzsägemühle,Locality; no official population published
+AT,Plöven,Village without separate official population
+DE,Polcherholz,Locality; no official population published
+DE,Polzen,Locality; no official population published
+CH,Pontenet,Former municipality (merged into Clos du Doubs)
+CH,Porrentruy 2,6700
+CH,Portalban,Village without separate official population
+CH,Pratteln 1,17000
+CH,Pratval,Former municipality (merged into Domleschg)
+DE,Prien a. Chiemsee,11000
+CH,Pringy,Former municipality (merged into Gruyères)
+DE,Profit,Locality; no official population published
+CH,Progens,Former municipality (merged into La Verrerie)
+CH,Prêles,Former municipality (merged into Plateau de Diesse)
+DE,Pukholt,Locality; no official population published
+DE,Pullach i. Isartal,9000
+CH,Putz,Village without separate official population
+CH,Péry,Former municipality (merged into Péry-La Heutte)
+DE,Püchau,1200
+DE,Quernheimerbruch,Locality; no official population published
+DE,Quirnbach/ Pfalz,700
+DE,Rabenholzlück,Locality; no official population published
+DE,Rader Insel,Island/locality; no official population published
+AT,Radhaming,Locality; no official population published
+CH,Ramiswil,Village without separate official population
+CH,Ramosch,Former municipality (merged into Valsot)
+CH,Ramsei,Village without separate official population
+CH,Randogne,Former municipality (merged into Crans-Montana)
+DE,Realsmühle,Locality; no official population published
+CH,Rebeuvelier,Former municipality (merged into Haute-Sorne)
+DE,Reesmoor,Locality; no official population published
+DE,Rehbruck,Locality; no official population published
+DE,Reichelshof,Locality; no official population published
+DE,Reichen;Wiesach,Localities; no official populations published separately
+DE,Reidenbruch;Girgenrath,Localities; no official populations published separately
+CH,Reidermoos,Village without separate official population
+DE,Reigersberg,Locality; no official population published
+CH,Reinach AG,9000
+CH,Reinach BL,19000
+DE,Reinhardswinden,Locality; no official population published
+DE,Reitmehring;Wasserburg a. Inn,Localities; no official populations published separately
+CH,Renan BE,1100
+CH,Renens VD,21000
+DE,Reppel;Fünfmühlen,Localities; no official populations published separately
+CH,Reute AR,700
+DE,Reuth b. Erbendorf,1200
+CH,Riazzino,Village without separate official population
+CH,Ricken SG,Village without separate official population
+CH,Rickenbach BL,Village without separate official population
+CH,Rickenbach SO,Former municipality (merged into Rickenbach)
+CH,Rickenbach Sulz,Former municipality (merged into Rickenbach)
+CH,Rickenbach b. Wil,2800
+DE,Riedelberg-Tal;Kirschbachermühle;Kirschbacherhof,Localities; no official populations published separately
+DE,Riedlhütte,1700
+CH,Riedt b. Erlen,Village without separate official population
+CH,Riedtwil,Village without separate official population
+DE,Riegersheim;Eulenmühle,Localities; no official populations published separately
+DE,Riemerling,0
+DE,Riepshof,Locality; no official population published
+DE,Riesewohld,Locality; no official population published
+CH,Rigi Staffel,Mountain settlement; no official population published
+CH,Rikon im Tösstal,Village without separate official population
+DE,Ringelah,Locality; no official population published
+CH,Ringgenberg BE,2500
+CH,Ringoldswil,Village without separate official population
+DE,Ringsee,Locality; no official population published
+CH,Riom,Former municipality (merged into Surses)
+DE,Rittbruch,Locality; no official population published
+CH,Riveo,Former municipality (merged into Lavizzara)
+CH,Roche VD,1800
+CH,Roches BE,500
+CH,Rodi-Fiesso,Village without separate official population
+DE,Roggenstein,Locality; no official population published
+CH,Roggwil BE,4300
+CH,Roggwil TG,3000
+CH,Rohr b. Olten,Village without separate official population
+DE,Rohr i. NB,Locality; no official population published
+CH,Rohrmatt,Village without separate official population
+DE,Rohrsheim;Dardesheim,Localities; no official populations published separately
+DE,Rollhäusl,Locality; no official population published
+CH,Romainmôtier,Former municipality (merged into Romainmôtier-Envy)
+CH,Rombach,Village without separate official population
+CH,Romont BE,Former municipality (merged into Vauffelin)
+CH,Romont FR,5300
+CH,Root D4,5200
+DE,Ropahl,Locality; no official population published
+DE,Rosbach,Locality; no official population published
+DE,Rotenberg, Jagdhaus,Locality; no official population published
+DE,Rotenburg a. d. Fulda,14000
+DE,Rothe-Kreuz,Locality; no official population published
+DE,Rothenburg /O.L.,9500
+CH,Rothenhausen,Village without separate official population
+AT,Rothenwand,Mountain/locality; no official population published
+DE,Rotherhof,Locality; no official population published
+DE,Rott a. Inn,4000
+DE,Rotwandhaus,Mountain hut; no permanent population
+CH,Roumaz (Savièse),Village without separate official population
+CH,Roveredo TI,Former municipality (merged into Riviera)
+DE,Roßlaich,Locality; no official population published
+CH,Rudolfstetten,4500
+AT,Rudolz,Locality; no official population published
+CH,Rumlikon,Village without separate official population
+DE,Rundsmühlhof,Locality; no official population published
+DE,Rupbach, Gem Gutenacker,Locality; no official population published
+CH,Russy,Former municipality (merged into Prez)
+DE,Röbel /Müritz,5000
+DE,Rödelbach;Theismühlen,Localities; no official populations published separately
+DE,Röderhof,Locality; no official population published
+DE,Rögen,Locality; no official population published
+DE,Rögen, Gut,Locality; no official population published
+CH,Römerswil LU,1800
+CH,Röthenbach Herzogenbuchsee,Village without separate official population
+DE,Rößnitz;Schneckengrün,Localities; no official populations published separately
+CH,Rüegsauschachen,Village without separate official population
+CH,Rüfenach AG,900
+CH,Rümligen,Former municipality (merged into Riggisberg)
+CH,Rüschegg Gambach,Village without separate official population
+CH,Rüthi (Rheintal),2500
+CH,Rüti ZH,12000
+CH,Rüti b. Büren,Village without separate official population
+CH,Rüti b. Lyssach,Village without separate official population
+CH,Rütli,Mountain meadow/landmark; no permanent population
+CH,S. Antonino,2500
+CH,S. Carlo (Poschiavo),Village without separate official population
+CH,S. Pietro,Village without separate official population
+CH,S. Vittore,800
+DE,Saalfeld /Saale,28000
+DE,Sachsen,Federal state; no city population applicable
+DE,Sachsen b. Ansbach,Locality; no official population published
+DE,Sachsen-Anhalt,Federal state; no city population applicable
+DE,Sachsgrün;Triebel /Vogtl.;Posseck,Localities; no official populations published separately
+AT,Sagl,Locality; no official population published
+CH,Saland,Village without separate official population
+DE,Salmbacher Passage,Locality; no official population published
+CH,Salvenach,Former municipality (merged into Murten)
+DE,Salzwedel , Hansestadt,24000
+CH,Samnaun Dorf,Village without separate official population
+CH,Samstagern,2500
+DE,Sand a. Main,3100
+DE,Sandbühlerhof,Locality; no official population published
+DE,Sandersmühle,Locality; no official population published
+CH,Sangernboden,Village without separate official population
+AT,Sankt Kathrein am Offenegg II.Viertel,1500
+AT,Sankt Marienkirchen bei Schärding,1800
+DE,Sansenhof,Locality; no official population published
+DE,Sarkwitz,Locality; no official population published
+DE,Sattelmühle,Locality; no official population published
+DE,Sauerseifen,Locality; no official population published
+DE,Sauersmühle,Locality; no official population published
+CH,Saules BE,Village without separate official population
+DE,Saurenhof;Bärenhof,Localities; no official populations published separately
+DE,Saxdorf;Neudeck;Bahnsdorf,Localities; no official populations published separately
+CH,Schachen LU,2900
+AT,Schachendorf / Cajta,700
+AT,Schandorf / Cemba,300
+DE,Scharrmühle;Scharrhof,Localities; no official populations published separately
+DE,Schelertal,Locality; no official population published
+CH,Scherz,Former municipality (merged into Schinznach)
+DE,Scheuerlehof,Locality; no official population published
+DE,Schießhof,Locality; no official population published
+DE,Schildow,6700
+CH,Schinznach Bad,Village without separate official population
+CH,Schlans,Former municipality (merged into Trun)
+CH,Schlatt TG,1500
+CH,Schlatt ZH,Locality; no official population published
+CH,Schlattingen,Village without separate official population
+DE,Schleifhäusle,Locality; no official population published
+DE,Schleifmühle,Locality; no official population published
+DE,Schleimünde,Locality; no official population published
+DE,Schleuse Dausenau,Locality; no official population published
+DE,Schleuse Ems;Lindenbach,Localities; no official populations published separately
+CH,Schlosswil,Former municipality (merged into Grosshöchstetten)
+DE,Schloßhof,Locality; no official population published
+DE,Schlößlesmühle;Schlechtenmühle;Walzenmühle,Localities; no official populations published separately
+DE,Schmedeland,Locality; no official population published
+CH,Schmidrüti,Village without separate official population
+CH,Schmitten (Albula),1100
+CH,Schmitten FR,1000
+DE,Schnackenwöhr,Locality; no official population published
+DE,Schneefernerhaus,Mountain station; no permanent population
+DE,Schneidmühle,Locality; no official population published
+DE,Schochen,Locality; no official population published
+DE,Scholmunderhof,Locality; no official population published
+DE,Scholterhaus,Locality; no official population published
+DE,Schonterhöhe,Locality; no official population published
+DE,Schoren,Locality; no official population published
+DE,Schottersmühle,Locality; no official population published
+DE,Schurrenhof;Kratzerhöfle,Localities; no official populations published separately
+DE,Schwabert;Falkenauel,Localities; no official populations published separately
+DE,Schwaig b. Nürnberg,21000
+CH,Schwanden b. Brienz,Former municipality (merged into Schwanden bei Brienz)
+DE,Schwarzach a. Main,3600
+DE,Schwarzach b. Nabburg,1500
+AT,Schwarzenbach (Zerstreut),Locality; no official population published
+DE,Schwarzenberg /Erzgeb.,3500
+CH,Schwarzenberg LU,1700
+CH,Schwarzenegg,Village without separate official population
+DE,Schwarzengraben,Locality; no official population published
+DE,Schwedt /Oder,31000
+DE,Schweinfurter Haus,Mountain hut/locality; no permanent population
+CH,Schwende,Former municipality (merged into Schwende-Rüte)
+DE,Schweringen, Ziegelei,Locality; no official population published
+DE,Schöchleinsmühle,Locality; no official population published
+DE,Schöllbronner Mühle,Locality; no official population published
+DE,Schönau a. Königssee;Kärlingerhaus,Localities; no official populations published separately
+DE,Schönbornerhof,Locality; no official population published
+DE,Schönbrunn i. Steigerwald,1700
+CH,Schönbühl Einkaufszentrum,Commercial area; no separate population
+DE,Schöne Aussicht,Locality; no official population published
+DE,Schöne Aussicht, Gem Masburg;Präfekturhof,Localities; no official populations published separately
+DE,Schöneck /Vogtl.,2800
+CH,Schönenbaumgarten,Village without separate official population
+CH,Schönenberg ZH,Former municipality (merged into Wädenswil)
+CH,Schönenberg an der Thur,Village without separate official population
+DE,Schönfließ;Mühlenbeck,Localities; no official populations published separately
+DE,Schörghof,Locality; no official population published
+DE,Schützenhof,Locality; no official population published
+CH,Sedrun,Village without separate official population
+DE,Seebad Ahlbeck,3300
+DE,Seebad Bansin,2500
+CH,Seedorf UR,2000
+DE,Seehausen a. Staffelsee,2500
+DE,Seeon,Locality; no official population published
+CH,Seewen SO,5000
+DE,Seewiesen,Locality; no official population published
+CH,Seewis Dorf,Village without separate official population
+CH,Segnas,Village without separate official population
+DE,Sehmatal-Cranzahl;Sehmatal-Sehma;Sehmatal-Neudorf,Localities; no official populations published separately
+DE,Seligweiler,Locality; no official population published
+CH,Selkingen,Village without separate official population
+CH,Sennhof (Winterthur),Village without separate official population
+DE,Sennhütte,Locality; no official population published
+DE,Sereetz;Sielbek;Sereetzerfeld,Localities; no official populations published separately
+CH,Serneus,Village without separate official population
+CH,Sessa,Village without separate official population
+CH,Siebnen,10000
+AT,Siegendorf / Cindrof,3000
+CH,Sigigen,Village without separate official population
+CH,Sigirino,Former municipality (merged into Monteceneri)
+CH,Signy-Centre,Commercial area; no separate population
+CH,Signôra,Village without separate official population
+CH,Sihlwald,Forest area; no permanent population
+DE,Simbach a. Inn,10000
+DE,Simmern/ Hunsrück,7700
+CH,Simplon Dorf,Village without separate official population
+AT,Sinnhub,Locality; no official population published
+CH,Siselen BE,1100
+CH,Sisseln AG,1600
+DE,Sixenhof,Locality; no official population published
+DE,Sohl;Bremscheid;Stopperich,Localities; no official populations published separately
+CH,Somazzo,Former municipality (merged into Mendrisio)
+DE,Sonderhof,Locality; no official population published
+DE,Sonnenhof,Locality; no official population published
+DE,Spaltenhof,Locality; no official population published
+CH,Spiegel b. Bern,Village without separate official population
+DE,Spitalhaus,Locality; no official population published
+DE,Spitzau,Locality; no official population published
+AT,Spitzenberg,Locality; no official population published
+CH,Splügen,Former municipality (merged into Rheinwald)
+DE,Spritzenmühle,Locality; no official population published
+DE,St Georgen,Locality; no official population published
+CH,St-Barthélemy VD,800
+CH,St-Blaise,3500
+CH,St-George,900
+CH,St-Gingolph,900
+CH,St-Livres,700
+CH,St-Légier-La Chiésaz,5200
+CH,St-Léonard,2200
+CH,St-Martin FR,Village without separate official population
+CH,St-Oyens,300
+CH,St-Prex,6500
+CH,St-Saphorin (Lavaux),400
+CH,St-Sulpice VD,3700
+CH,St-Ursanne,Former municipality (merged into Clos du Doubs)
+DE,St. Alban,Locality; no official population published
+DE,St. Andreasberg,Locality; no official population published
+DE,St. Annen,Locality; no official population published
+CH,St. Gallen K AG,City district; population included in St. Gallen total
+DE,St. Goar,2800
+DE,St. Goarshausen,1300
+DE,St. Katharinen,Locality; no official population published
+CH,St. Margarethen TG,Village without separate official population
+CH,St. Margrethen SG,6000
+CH,St. Margrethenberg,Village without separate official population
+DE,St. Martin,Locality; no official population published
+DE,St. Michaelisdonn,3700
+CH,St. Moritz 3,5000
+CH,St. Niklaus VS,2300
+CH,St. Niklausen LU,Village without separate official population
+CH,St. Niklausen OW,Village without separate official population
+DE,St. Ottilien,Locality; no official population published
+CH,St. Pelagiberg,Village without separate official population
+CH,St. Peterzell,Former municipality (merged into Neckertal)
+CH,Sta. Maria in Calanca,100
+DE,Stadtbek, Gem Seedorf,Locality; no official population published
+DE,Stadtbekermühle;Stadtbek, Gem Bosau,Localities; no official populations published separately
+CH,Stalden (Sarnen),Village without separate official population
+CH,Stalden VS,1200
+DE,Standorf,Locality; no official population published
+DE,Stausteinerhof,Locality; no official population published
+DE,Stavenhagen , Reuterstadt,5700
+DE,Steckenbergermühle;Gasteyers Mühle;Rupbach, Gem Bremberg,Localities; no official populations published separately
+DE,Steffenshof,Locality; no official population published
+CH,Stein AG,3000
+CH,Stein AR,Village without separate official population
+CH,Stein SG,9000
+DE,Stein a.d.Traun,Locality; no official population published
+CH,Stein am Rhein 1,3500
+DE,Steinbach a. Wald,3500
+AT,Steinbrunn / Štikapron,3000
+DE,Steinebach/ Sieg,Locality; no official population published
+CH,Steinebrunn,Village without separate official population
+DE,Steingraben,Locality; no official population published
+DE,Steinrab;Truchtlaching;Apperting;Höllthal,Localities; no official populations published separately
+DE,Stenten,Locality; no official population published
+CH,Stetten AG,3000
+CH,Stetten SH,1300
+AT,Stinatz / Stinjaki,1400
+DE,Stockbornerhof,Locality; no official population published
+DE,Stocksberg, Gem Beilstein,Locality; no official population published
+DE,Stockstadt a. Main,8000
+DE,Stollbeck,Locality; no official population published
+DE,Stollberg /Erzgeb.,11000
+DE,Stolzenbergerhof;Bremricherhof;Schmalfelderhof,Localities; no official populations published separately
+CH,Stoos SZ,Village without separate official population
+CH,Studen BE,7000
+CH,Studen SZ,Village without separate official population
+DE,Stutzenklinge;Mooswiese,Localities; no official populations published separately
+DE,Stöffin,Locality; no official population published
+DE,Stöhrhaus,Mountain hut; no permanent population
+DE,Stötten a. Auerberg,1700
+DE,Stüterhof,Locality; no official population published
+CH,Suberg,Village without separate official population
+CH,Sugnens,Former municipality (merged into Montanaire)
+DE,Suhhaus;Wahlenhalden;Rötenbach;Brandhof;Algishofen;Schlauchhof;Fach,Localities; no official populations published separately
+DE,Suhrbrook,Locality; no official population published
+DE,Sulzbach a. Main,7200
+DE,Sulzbach/ Saar,17000
+DE,Sulzfeld a. Main,1900
+DE,Sulzhof,Locality; no official population published
+CH,Susten,Village without separate official population
+CH,Sutz,Former municipality (merged into Sutz-Lattrigen)
+CH,Sédeilles,Former municipality (merged into Villarzel)
+CH,Sörenberg,Village without separate official population
+CH,Süderen,Village without separate official population
+DE,Süderhackstedtfeld,Locality; no official population published
+DE,Südfall,Island/halligen settlement; no permanent population
+DE,Sünna,1300
+DE,Taching a. See,2100
+DE,Tackesdorf-Nord,Locality; no official population published
+DE,Tannengrundhof,Locality; no official population published
+DE,Tanzenhaid,Locality; no official population published
+DE,Tarnewitzerhagen,Locality; no official population published
+CH,Tatroz,Former municipality (merged into Pont-en-Ogoz)
+CH,Taverne,Former municipality (merged into Torricella-Taverne)
+CH,Tenna,Former municipality (merged into Safiental)
+CH,Territet,Village without separate official population
+CH,Teufen ZH,Village without separate official population
+CH,Teufenthal AG,1700
+CH,Teuffenthal b. Thun,Village without separate official population
+CH,Thalheim AG,1000
+DE,Thalhofen,Locality; no official population published
+CH,Thierrens,Former municipality (merged into Montanaire)
+DE,Thiesholz;Borrishaag;Stoltoft;Böelnorderfeld,Localities; no official populations published separately
+CH,Thyon,Village without separate official population
+DE,Thüringer Hütte,Mountain hut; no permanent population
+CH,Tiefencastel,Former municipality (merged into Albula/Alvra)
+AT,Tillmitsch Links der Laßnitz,Locality; no official population published
+DE,Tirschendorf,Locality; no official population published
+DE,Tivoli,Locality; no official population published
+DE,Todsburg;Eselhöfe,Localities; no official populations published separately
+DE,Torfhaus,Locality; no official population published
+DE,Torfkaten,Locality; no official population published
+CH,Torgon,Village without separate official population
+DE,Traubenmühle;Scherbenmühle,Localities; no official populations published separately
+DE,Traunwalchen,Locality; no official population published
+AT,Trausdorf an der Wulka / Trajštof,1900
+DE,Trautenhof,Locality; no official population published
+DE,Trebsen /Mulde,3800
+CH,Treyfayes,Village without separate official population
+CH,Tschiertschen,Former municipality (merged into Arosa)
+CH,Turbach,Village without separate official population
+CH,Turtmann,Former municipality (merged into Turtmann-Unterems)
+CH,Tuttwil,Village without separate official population
+CH,Tägerschen,Village without separate official population
+DE,Töging a. Inn,9600
+CH,Tüscherz-Alfermée,Former municipality (merged into Biel/Bienne)
+CH,Uerzlikon,Village without separate official population
+CH,Uesslingen,Former municipality (merged into Uesslingen-Buch)
+DE,Uffing a. Staffelsee,3000
+CH,Uitikon Waldegg,4500
+DE,Umleitungsdeich,Locality; no official population published
+DE,Unbesandten;Besandten;Wootz;Gaarz;Baarz,Localities; no official populations published separately
+DE,Unter-Hainbrunn,Locality; no official population published
+CH,Unterbäch VS,400
+DE,Unterdielbach,Locality; no official population published
+CH,Unterendingen,Former municipality (merged into Endingen)
+DE,Unterführbuch;Dürach;Oberführbuch,Localities; no official populations published separately
+DE,Unterrotenstein,Locality; no official population published
+DE,Untersiegenbühl,Locality; no official population published
+CH,Untersteckholz,Former municipality (merged into Langenthal)
+DE,Unterthierwasen;Oberthierwasen,Localities; no official populations published separately
+CH,Unterwasser,Village without separate official population
+DE,Urfeld;Walchensee;Herzogstand;Zwergern,Localities; no official populations published separately
+CH,Urnerboden,Village without separate official population
+CH,Uznach Vögele AG,Commercial area; no separate population
+DE,Vaalerfeld,Locality; no official population published
+CH,Valbella,Village without separate official population
+CH,Vaumarcus,Former municipality (merged into La Grande Béroche)
+CH,Veltheim AG,1600
+CH,Vers-lEglise,Village without separate official population
+CH,Versegères,Village without separate official population
+CH,Vesin,Former municipality (merged into Cugy FR)
+DE,Vetschau /Spreewald,9000
+CH,Vevey 1,20000
+CH,Vezio,Village without separate official population
+CH,Vichères (Liddes),Village without separate official population
+DE,Viktoriastollen,Locality; no official population published
+CH,Villariaz,Former municipality (merged into Siviriez)
+CH,Villars-Mendraz,Former municipality (merged into Jorat-Menthue)
+CH,Villars-Ste-Croix,900
+CH,Villars-sous-Champvent,Village without separate official population
+CH,Villars-sous-Mont,Village without separate official population
+CH,Villars-sur-Fontenais,Village without separate official population
+CH,Villars-sur-Glâne 1,12000
+CH,Villarsel-le-Gibloux,Former municipality (merged into Gibloux)
+CH,Villarsiviriaux,Former municipality (merged into Siviriez)
+CH,Villarvolard,Former municipality (merged into Val-de-Charmey)
+CH,Villaz-St-Pierre,1300
+CH,Villeneuve VD,6000
+CH,Vilters,Former municipality (merged into Vilters-Wangs)
+DE,Vogelkoje;Jugendseeheim Kassel,Localities; no official populations published separately
+CH,Vogelsang AG,Village without separate official population
+DE,Vogthof,Locality; no official population published
+AT,Vordertambergau,Locality; no official population published
+DE,Vorsuchhütte,Mountain hut/locality; no permanent population
+CH,Vuippens,Former municipality (merged into Marsens)
+CH,Vuissens,Former municipality (merged into Estavayer)
+DE,Völmlesmühle;Pfaffenstube,Localities; no official populations published separately
+CH,Wagen,Village without separate official population
+DE,Waging a. See,6700
+CH,Wahlen b. Laufen,1400
+CH,Wald AR,900
+CH,Wald ZH,10000
+CH,Walde AG,Village without separate official population
+DE,Waldfriede,Locality; no official population published
+CH,Waldhäusern AG,Village without separate official population
+DE,Waldschmidtmühle,Locality; no official population published
+DE,Waldshagen,Locality; no official population published
+CH,Walenstadtberg,Village without separate official population
+DE,Wallenried,Locality; no official population published
+CH,Walliswil b. Niederbipp,900
+CH,Walliswil b. Wangen,Village without separate official population
+CH,Waltalingen,Former municipality (merged into Stammheim)
+CH,Walterswil BE,Village without separate official population
+CH,Walterswil SO,1000
+CH,Wangen SZ,Village without separate official population
+CH,Wangen b. Olten,5200
+DE,Wangerooge , Nordseebad,900
+DE,Warthof,Locality; no official population published
+CH,Wasen im Emmental,Village without separate official population
+DE,Wassermühle,Locality; no official population published
+DE,Watzlsteg,Locality; no official population published
+DE,Watzumer Häuschen;Groß Rode;Tetzelstein,Localities; no official populations published separately
+DE,Weg,Locality; no official population published
+DE,Weggen-Ziegelhütte;Leinhäusle,Localities; no official populations published separately
+DE,Weiberhof,Locality; no official population published
+DE,Weidenhell,Locality; no official population published
+DE,Weidhausen b. Coburg,3100
+CH,Weier im Emmental,Village without separate official population
+DE,Weiherhof,Locality; no official population published
+DE,Weihermühle,Locality; no official population published
+DE,Weilheim i. OB,23000
+AT,Weingraben / Bajngrob,1000
+CH,Weiningen TG,Village without separate official population
+CH,Weiningen ZH,4900
+CH,Weissenstein b. Solothurn,Mountain settlement; no permanent population
+DE,Weiße Krug,Locality; no official population published
+DE,Weißenborn /Erzgeb.,2500
+AT,Weißeneggerberg,Locality; no official population published
+DE,Weißenfeld,Locality; no official population published
+DE,Weißenseifen, Gem Mürlenbach,Locality; no official population published
+DE,Weißer Hirsch;Söhren,Localities; no official populations published separately
+DE,Weißwasser /O.L.,16000
+DE,Wellingshof,Locality; no official population published
+DE,Welzmühle,Locality; no official population published
+CH,Wengen,Village without separate official population
+CH,Wengi b. Büren,Village without separate official population
+CH,Werdenberg,Village without separate official population
+CH,Wergenstein,Village without separate official population
+CH,Wermatswil,Village without separate official population
+CH,Wernetshausen,Village without separate official population
+DE,Westerburer Polder,Locality; no official population published
+DE,Westkinberg,Locality; no official population published
+CH,Wettswil,4900
+CH,Wetzikon ZH 1,26000
+DE,Wiblishauserhof;Heubelsburg;Brandfeld,Localities; no official populations published separately
+DE,Wieck a Darß,2400
+DE,Wiedenzhausen,Locality; no official population published
+DE,Wiedischhausen,Locality; no official population published
+AT,Wien, Alsergrund,41000
+AT,Wien, Brigittenau,93000
+AT,Wien, Donaustadt,220000
+AT,Wien, Döbling,75000
+AT,Wien, Favoriten,220000
+AT,Wien, Floridsdorf,180000
+AT,Wien, Hernals,57000
+AT,Wien, Hietzing,54000
+AT,Wien, Innere Stadt,16000
+AT,Wien, Josefstadt,25000
+AT,Wien, Landstraße,90000
+AT,Wien, Leopoldstadt,110000
+AT,Wien, Liesing,100000
+AT,Wien, Margareten,55000
+AT,Wien, Mariahilf,32000
+AT,Wien, Meidling,100000
+AT,Wien, Neubau,33000
+AT,Wien, Ottakring,105000
+AT,Wien, Penzing,92000
+AT,Wien, Rudolfsheim-Fünfhaus,82000
+AT,Wien, Simmering,115000
+AT,Wien, Wieden,35000
+AT,Wien, Währing,52000
+CH,Wienacht-Tobel,Village without separate official population
+DE,Wierenkamp,Locality; no official population published
+DE,Wiesenburg /Mark,4300
+DE,Wieserode;Pansfelde,Localities; no official populations published separately
+DE,Wieslauterhof,Locality; no official population published
+CH,Wiezikon b. Sirnach,Village without separate official population
+CH,Wil SG,24000
+CH,Wil SG 1,24000
+CH,Wil ZH,Village without separate official population
+DE,Wildburg,Locality; no official population published
+CH,Wildegg,4100
+DE,Wildenbungert,Locality; no official population published
+CH,Wildensbuch,Village without separate official population
+CH,Wilen b. Wil,2800
+CH,Wiler b. Utzenstorf,Village without separate official population
+CH,Windlach,Village without separate official population
+CH,Winistorf,Village without separate official population
+DE,Winnerhöfe,Locality; no official population published
+CH,Wisen SO,1000
+DE,Wittbeck,Locality; no official population published
+DE,Wittstock /Dosse,14000
+CH,Wittwil,Village without separate official population
+DE,Witzschdorf,Locality; no official population published
+DE,Wodenhof,Locality; no official population published
+DE,Wohlbach;Hermsgrün;Unterwürschnitz;Marieney,Localities; no official populations published separately
+CH,Wohlen AG,17000
+CH,Wolfhausen,Village without separate official population
+DE,Wolfseck, Forsthaus,Locality; no official population published
+DE,Wolfsmühle,Locality; no official population published
+DE,Wormshöft,Locality; no official population published
+DE,Wulfenhusen,Locality; no official population published
+DE,Wulfshof,Locality; no official population published
+AT,Wulkaprodersdorf / Vulkaprodrštof,2000
+DE,Wulkow,Locality; no official population published
+DE,Wunder
+DE,Wälschbuch
+DE,Wörth a. Main
+CH,Wöschnau
+DE,Wünsch
+DE,Wünschbach
+DE,Wünschendorf /Elster
+AT,Zagersdorf / Cogrštof
+DE,Zanken;Fuchshäusle;Obersiegenbühl
+DE,Zeil a. Main
+DE,Zell a. Main
+AT,Zell-Oberwinkel / Sele-Zvrhnji Kot
+DE,Zeltingen, Forsthaus
+DE,Zerbst /Anhalt
+DE,Zermützel;Krangen;Alt Ruppin;Zippelsförde;Molchow
+DE,Ziegelhof;Mildterhof,Localities; no official populations published separately
+DE,Ziegelhütte,Locality; no official population published
+CH,Zihlschlacht,Former municipality (merged into Zihlschlacht-Sitterdorf)
+AT,Zillingtal / Celindof,1000
+CH,Zillis,800
+CH,Zimmerwald,Former municipality (merged into Wald)
+CH,Zofingen PF UBS,Commercial area; no separate population
+CH,Zollbrück,Village without separate official population
+CH,Zollikerberg,Village without separate official population
+DE,Zuckerfabrik Vitzenburg,Locality; no official population published
+DE,Zuflucht,Locality; no official population published
+CH,Zuzwil BE,600
+CH,Zweidlen,Village without separate official population
+DE,Zwickmühle,Locality; no official population published
+CH,Zwillikon,Village without separate official population
+DE,Zwillingshof,Locality; no official population published
+CH,Züberwangen,Village without separate official population
+DE,Zühlsdorf,2000
+CH,Zürich 80,City district/postal area; population included in Zürich total
+DE,Ödenbach,Locality; no official population published
+AT,Ödenhof,Locality; no official population published
+DE,Ölmühle,Locality; no official population published
+DE,Ölmühle;Sperrhof,Localities; no official populations published separately

@@ -1,0 +1,15 @@
+CH,Bäriswil BE
+CH,Bättwil-Flüh
+DE,Bödingerhof;Buchholzbergerhof;Hübelhof
+DE,Bökensberg
+CH,Bönigen b. Interlaken
+DE,Bösby;Bösbyfeld
+DE,Bösodenbacherhof
+CH,Bühl b. Aarberg
+DE,Bühlerzimmern
+CH,Büren NW
+CH,Büren SO
+CH,Büren zum Hof
+CH,Bürglen TG
+CH,Bürglen UR
+CH,Büriswilen

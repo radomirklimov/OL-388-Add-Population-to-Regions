@@ -1,0 +1,15 @@
+DE,Reichelshof
+DE,Reichen;Wiesach
+DE,Reidenbruch;Girgenrath
+CH,Reidermoos
+DE,Reigersberg
+CH,Reinach AG
+CH,Reinach BL
+DE,Reinhardswinden
+DE,Reitmehring;Wasserburg a. Inn
+CH,Renan BE
+CH,Renens VD
+DE,Reppel;Fünfmühlen
+CH,Reute AR
+DE,Reuth b. Erbendorf
+CH,Riazzino

@@ -1,0 +1,15 @@
+CH,Hinterfultigen
+AT,Hinterlibitsch / Suha
+CH,Hintermoos
+DE,Hinterste Wache
+DE,Hinterziegelhalden
+DE,Hippelsbach
+DE,Hirschhof
+DE,Hirschhorn/ Pfalz
+DE,Hirtscheid;Talmühle
+DE,Hirzlei
+DE,Hochbuch
+DE,Hochgernhaus
+DE,Hochstadt a. Main
+DE,Hochstatter Hof
+DE,Hof Mondschirm

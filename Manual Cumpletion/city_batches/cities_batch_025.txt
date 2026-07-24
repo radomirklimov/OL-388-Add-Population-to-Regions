@@ -1,0 +1,15 @@
+CH,Eschenbach LU
+CH,Eschlikon TG
+CH,Escholzmatt
+DE,Eslingholz
+CH,Etzgen
+CH,Etzwilen
+CH,Euseigne
+DE,Euteneuen
+CH,Euthal
+CH,Eyholz
+DE,Fahrendorf
+CH,Fahrni b. Thun
+DE,Fahrnpoint
+CH,Fahrweid
+CH,Fajauna

@@ -1,0 +1,15 @@
+CH,Aeschi SO
+CH,Aeschi b. Spiez
+CH,Agriswil
+DE,Ahrenstedt
+AT,Aigenfließen
+DE,Aiteröd
+CH,Alchenflüh
+DE,Algesbüttel
+CH,Allerheiligenberg
+AT,Allersgraben / Širokani
+CH,Allmendingen b. Bern
+CH,Alosen
+CH,Alpnachstad
+DE,Alsau
+DE,Alt Karin;Neu Karin;Danneborth

@@ -1,0 +1,15 @@
+CH,Samstagern
+DE,Sand a. Main
+DE,Sandbühlerhof
+DE,Sandersmühle
+CH,Sangernboden
+AT,Sankt Kathrein am Offenegg II.Viertel
+AT,Sankt Marienkirchen bei Schärding
+DE,Sansenhof
+DE,Sarkwitz
+DE,Sattelmühle
+DE,Sauerseifen
+DE,Sauersmühle
+CH,Saules BE
+DE,Saurenhof;Bärenhof
+DE,Saxdorf;Neudeck;Bahnsdorf

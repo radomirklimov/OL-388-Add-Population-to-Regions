@@ -1,0 +1,15 @@
+CH,Schönenberg ZH
+CH,Schönenberg an der Thur
+DE,Schönfließ;Mühlenbeck
+DE,Schörghof
+DE,Schützenhof
+CH,Sedrun
+DE,Seebad Ahlbeck
+DE,Seebad Bansin
+CH,Seedorf UR
+DE,Seehausen a. Staffelsee
+DE,Seeon
+CH,Seewen SO
+DE,Seewiesen
+CH,Seewis Dorf
+CH,Segnas

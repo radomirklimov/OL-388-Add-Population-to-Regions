@@ -1,0 +1,15 @@
+CH,Gunzwil
+DE,Gute Mühle;Ströbels Mühle;Saueressigs Mühle
+CH,Gysenstein
+CH,Gächliwil
+CH,Gänsbrunnen
+CH,Götighofen
+CH,Gümligen
+AT,Güttenbach / Pinkovac
+CH,Haag (Rheintal)
+DE,Hackermoos
+CH,Hagenbuch ZH
+CH,Hagendorn
+DE,Hahnenkrug
+DE,Hainhof
+DE,Halbendorf

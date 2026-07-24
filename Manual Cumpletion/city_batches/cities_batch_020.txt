@@ -1,0 +1,15 @@
+CH,Dardin
+DE,Dargow;Bresahn
+CH,Davos Wolfgang
+CH,Deisswil b. Münchenbuchsee
+CH,Delémont 2
+DE,Demmin , Hansestadt
+DE,Dentlein a. Forst
+CH,Detligen
+DE,Deutenried
+CH,Dickbuch
+DE,Diedenberg
+DE,Diepoldsburg;Engelhof;Torfgrube
+DE,Dierberg
+DE,Diesburgerhof;Neu-Diesburgerhof
+CH,Diessbach b. Büren

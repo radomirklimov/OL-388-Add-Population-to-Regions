@@ -1,0 +1,15 @@
+DE,Wieck a Darß
+DE,Wiedenzhausen
+DE,Wiedischhausen
+AT,Wien, Alsergrund
+AT,Wien, Brigittenau
+AT,Wien, Donaustadt
+AT,Wien, Döbling
+AT,Wien, Favoriten
+AT,Wien, Floridsdorf
+AT,Wien, Hernals
+AT,Wien, Hietzing
+AT,Wien, Innere Stadt
+AT,Wien, Josefstadt
+AT,Wien, Landstraße
+AT,Wien, Leopoldstadt

@@ -1,0 +1,15 @@
+CH,Maroggia
+CH,Martigny-Croix
+DE,Martinskirchen;Brottewitz;Koßdorf
+DE,Marzauermühle
+CH,Maseltrangen
+CH,Mastrils
+CH,Matten b. Interlaken
+DE,Mauthaus
+DE,Mecklenburg-Vorpommern
+CH,Medeglia
+DE,Meetzen
+CH,Meien
+DE,Meisdorf;Ermsleben;Reinstedt
+CH,Melano
+DE,Melusinental

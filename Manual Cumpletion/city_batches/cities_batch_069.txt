@@ -1,0 +1,15 @@
+DE,Neuwerben
+DE,Neuwoog
+DE,Neuwühren
+CH,Neuägeri
+CH,Neyruz FR
+DE,Nichel;Schlalach;Niederwerbig
+CH,Niedergampel
+CH,Niederglatt SG
+CH,Niederglatt ZH
+CH,Niederneunforn
+CH,Niederried b. Interlaken
+DE,Niedersachsen
+CH,Niederwil SO
+DE,Niederähren
+DE,Niendorf/ Stecknitz

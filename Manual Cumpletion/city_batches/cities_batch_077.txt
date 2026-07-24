@@ -1,0 +1,15 @@
+DE,Polcherholz
+DE,Polzen
+CH,Pontenet
+CH,Porrentruy 2
+CH,Portalban
+CH,Pratteln 1
+CH,Pratval
+DE,Prien a. Chiemsee
+CH,Pringy
+DE,Profit
+CH,Progens
+CH,Prêles
+DE,Pukholt
+DE,Pullach i. Isartal
+CH,Putz

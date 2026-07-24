@@ -1,0 +1,15 @@
+CH,Les Crosets
+CH,Les Ecorcheresses
+CH,Les Emibois
+CH,Les Friques
+CH,Les Moulins
+CH,Les Paccots
+CH,Les Plans-sur-Bex
+CH,Les Pommerats
+CH,Les Prés-dOrvin
+CH,Les Rasses
+CH,Les Thioleyres
+DE,Levensau
+CH,Libingen
+DE,Lichtenberg /Erzgeb.
+DE,Lichtenow

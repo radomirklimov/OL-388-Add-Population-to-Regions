@@ -1,0 +1,15 @@
+AT,Edling / Kajzaze
+CH,Egg (Flawil)
+DE,Egonmühle
+DE,Ehingen a. Ries
+CH,Ehrikon
+DE,Eichenbachermühle
+AT,Eidenedt
+DE,Einemhof
+DE,Eislingen /Fils
+DE,Eitleshof
+CH,Elfingen
+DE,Ellrichsbronn
+DE,Elschbacherhof
+CH,Emmenbrücke 2
+CH,Emmenmatt

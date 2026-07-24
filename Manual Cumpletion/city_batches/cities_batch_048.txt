@@ -1,0 +1,15 @@
+DE,Katharinenhof
+DE,Katharinenthalerhof
+DE,Katschow
+DE,Katzhörn;Kleinkoogsdeich;Gotteskoogdeich
+DE,Keller
+DE,Kellershof
+CH,Kemptthal
+DE,Ketzin /Havel
+CH,Kilchberg BL
+CH,Kilchberg ZH
+DE,Kindsbach, Forsthaus
+CH,Kirchberg BE
+CH,Kirchdorf AG
+CH,Kirchdorf BE
+DE,Kirchdorf a. Inn

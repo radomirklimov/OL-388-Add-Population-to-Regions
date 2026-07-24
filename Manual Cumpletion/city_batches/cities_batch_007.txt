@@ -1,0 +1,15 @@
+DE,Barkhorn
+CH,Barmelweid
+DE,Baruth / Mark
+DE,Basdorf;Braunsberg
+CH,Basel SPILOG
+CH,Bassecourt
+DE,Battinsthal;Schuckmannshöhe
+AT,Baumgarten / Pajngrt
+DE,Bayerbach b. Ergoldsbach
+DE,Bayern
+DE,Beblinstetten
+DE,Beckedorfer Schacht
+DE,Bei den Tongruben
+CH,Beinwil SO
+CH,Bellelay

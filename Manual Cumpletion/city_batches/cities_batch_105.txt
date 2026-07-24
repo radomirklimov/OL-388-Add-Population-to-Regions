@@ -1,0 +1,15 @@
+CH,Villars-sous-Mont
+CH,Villars-sur-Fontenais
+CH,Villars-sur-Glâne 1
+CH,Villarsel-le-Gibloux
+CH,Villarsiviriaux
+CH,Villarvolard
+CH,Villaz-St-Pierre
+CH,Villeneuve VD
+CH,Vilters
+DE,Vogelkoje;Jugendseeheim Kassel
+CH,Vogelsang AG
+DE,Vogthof
+AT,Vordertambergau
+DE,Vorsuchhütte
+CH,Vuippens

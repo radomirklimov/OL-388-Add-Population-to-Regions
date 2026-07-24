@@ -1,0 +1,15 @@
+DE,Weißer Hirsch;Söhren
+DE,Weißwasser /O.L.
+DE,Wellingshof
+DE,Welzmühle
+CH,Wengen
+CH,Wengi b. Büren
+CH,Werdenberg
+CH,Wergenstein
+CH,Wermatswil
+CH,Wernetshausen
+DE,Westerburer Polder
+DE,Westkinberg
+CH,Wettswil
+CH,Wetzikon ZH 1
+DE,Wiblishauserhof;Heubelsburg;Brandfeld

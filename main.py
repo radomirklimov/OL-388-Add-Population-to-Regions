@@ -12,6 +12,7 @@ austria_file = "population_austria.csv"
 austria_1_file = "population_austria_1.ods"
 switzerland_file = "population_switzerland.csv"
 switzerland_1_file = "population_switzerland_1.csv"
+manual_file = "manually_found_population.txt"
 
 # Load german population
 gp = load_workbook(german_file, read_only=True, data_only=True)
@@ -114,6 +115,22 @@ with open(switzerland_1_file, newline="", encoding="utf-8") as f:
         if reference_population["CH"].get(name) in (None, 0):
             reference_population["CH"][name] = int(population)
 
+# manual population
+with open(manual_file, newline="", encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+
+    for row in reader:
+        country = row["country"].strip()       # country
+        name = row["city"].strip()          # name
+        population = row["population"].strip()   # population
+
+        if population.isdigit():
+            population = int(population)
+
+        if reference_population[country].get(name) in (None, 0):
+            reference_population[country][name] = population
+
+
 # Read proposal file
 population_lookup = {}
 non_population_cities = []
@@ -133,21 +150,33 @@ with open(proposal_file, newline="", encoding="utf-8") as f:
         allCities += len(places)
 
         total_population = 0
+        no_population_reason = ""
 
         for p in places:
             population = reference_population[row["country"]].get(p)
 
-            if population is None or population == 0:
+            if isinstance(population, int):
+                total_population += population
+            else:
+                no_population_reason = population
+
+            if (
+                population is None
+                or str(population).strip() == ""
+                or (str(population).isdigit() and int(population) == 0)
+            ):
                 non_population_cities.append(f"{row['country']}: {p}")
                 print(f"WARN: no population of {p} found")
                 continue
 
-            seen.add(placeString)
-            total_population += population
+        seen.add(placeString)
 
-        if total_population != 0:
+        if total_population > 0:
             population_lookup[placeString] = total_population
-
+        elif no_population_reason != "":
+            population_lookup[placeString] = no_population_reason
+        else:
+            population_lookup[placeString] = 0
 
 for city, population in population_lookup.items():
     print(f"{city}: {population}")
@@ -163,7 +192,7 @@ lp_copy = lp.copy()
 lp_copy["population"] = lp_copy["places"].map(population_lookup)
 
 # Optional: replace missing values with 0
-lp_copy["population"] = lp_copy["population"].fillna(0).astype(int)
+lp_copy["population"] = lp_copy["population"].fillna(0)
 
 # Save the updated copy
 lp_copy.to_csv("location_proposals_with_population.csv", index=False)

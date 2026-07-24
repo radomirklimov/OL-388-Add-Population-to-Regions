@@ -1,0 +1,15 @@
+AT,Spitzenberg
+CH,Splügen
+DE,Spritzenmühle
+DE,St Georgen
+CH,St-Barthélemy VD
+CH,St-Blaise
+CH,St-George
+CH,St-Gingolph
+CH,St-Livres
+CH,St-Légier-La Chiésaz
+CH,St-Léonard
+CH,St-Martin FR
+CH,St-Oyens
+CH,St-Prex
+CH,St-Saphorin (Lavaux)

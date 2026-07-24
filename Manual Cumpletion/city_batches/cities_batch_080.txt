@@ -1,0 +1,15 @@
+CH,Ricken SG
+CH,Rickenbach BL
+CH,Rickenbach SO
+CH,Rickenbach Sulz
+CH,Rickenbach b. Wil
+DE,Riedelberg-Tal;Kirschbachermühle;Kirschbacherhof
+DE,Riedlhütte
+CH,Riedt b. Erlen
+CH,Riedtwil
+DE,Riegersheim;Eulenmühle
+DE,Riemerling
+DE,Riepshof
+DE,Riesewohld
+CH,Rigi Staffel
+CH,Rikon im Tösstal

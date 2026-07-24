@@ -1,0 +1,15 @@
+CH,Grandsivaz
+CH,Grangettes-près-Romont
+AT,Graslhof
+DE,Greifswald , Hansestadt
+AT,Greis
+CH,Gressy
+CH,Gretschins
+DE,Grießen
+DE,Grimmelsberg
+DE,Grollenhof
+DE,Grotenknöll
+DE,Groß Hauskreuz
+DE,Großfriesen
+DE,Großpostwitz /O.L.
+DE,Großwiesenhof

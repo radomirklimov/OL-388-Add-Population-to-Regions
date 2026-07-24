@@ -1,0 +1,15 @@
+DE,Ringelah
+CH,Ringgenberg BE
+CH,Ringoldswil
+DE,Ringsee
+CH,Riom
+DE,Rittbruch
+CH,Riveo
+CH,Roche VD
+CH,Roches BE
+CH,Rodi-Fiesso
+DE,Roggenstein
+CH,Roggwil BE
+CH,Roggwil TG
+CH,Rohr b. Olten
+DE,Rohr i. NB

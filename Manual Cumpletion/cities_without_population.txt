@@ -1,0 +1,1733 @@
+Aathal-Seegräben; CH
+Aawangen; CH
+Abraham; DE
+Abtwil AG; CH
+Abtwil SG; CH
+Addebüll; DE
+Adlersteige; DE
+Adlikon b. Andelfingen; CH
+Adlikon b. Regensdorf; CH
+Adliswil 1; CH
+Adorf /Vogtl.; DE
+Aesch (Neftenbach); CH
+Aesch BL; CH
+Aesch LU; CH
+Aesch ZH; CH
+Aeschi SO; CH
+Aeschi b. Spiez; CH
+Agriswil; CH
+Ahrenstedt; DE
+Aigenfließen; AT
+Aiteröd; DE
+Alchenflüh; CH
+Algesbüttel; DE
+Allerheiligenberg; CH
+Allersgraben / Širokani; AT
+Allmendingen b. Bern; CH
+Alosen; CH
+Alpnachstad; CH
+Alsau; DE
+Alt Karin;Neu Karin;Danneborth; DE
+Altbrand;Vorwerk Friedrich; DE
+Altdorf UR; CH
+Altdorf b. Nürnberg; DE
+Alten; CH
+Alterswil FR; CH
+Altheimersberg; DE
+Althodis / Stari Hodas; AT
+Am Römerhof;Am Römerschacht; DE
+Am Rönndeich; DE
+Am Rüdesheimer Hafen; DE
+Am Sandkopf; DE
+Am Sandweiher; DE
+Ammerswil AG; CH
+An der Rhumequelle; DE
+Andwil SG; CH
+Angerholz; AT
+Annaberg; DE
+Antau / Otava; AT
+Apples; CH
+Arbedo; CH
+Arcegno; CH
+Arconciel; CH
+Arni AG; CH
+Arni BE; CH
+Artamhof; DE
+Aschau a. Inn; DE
+Aschau i. Chiemgau; DE
+Asp; CH
+Aspelhorn; DE
+Asuel; CH
+Athenaz (Avusy); CH
+Attelwil; CH
+Auerbach /Vogtl.; DE
+Auerberg; DE
+Augst BL; CH
+Auhof;Heldenmühle;Schummhof; DE
+Aura i. Sinngrund; DE
+Ausserbraz; AT
+Autafond; CH
+Auwies; DE
+Avegno; CH
+Avry-Centre FR; CH
+Babben; DE
+Bachzelten; DE
+Bad Berneck i. Fichtelgebirge; DE
+Bad Frankenhausen /Kyffhäuser; DE
+Bad Homburg; DE
+Bad Homburg v. d. Höhe; DE
+Bad Königshofen i. Grabfeld; DE
+Bad Lauchstädt , Goethestadt; DE
+Bad Zurzach; CH
+Badisch Schöllenbach; DE
+Bahnstock; DE
+Baierhof; DE
+Baldham; DE
+Banco; CH
+Bangerten b. Dieterswil; CH
+Bargen BE; CH
+Bargen SH; CH
+Bargholz; DE
+Barkhorn; DE
+Barmelweid; CH
+Baruth / Mark; DE
+Basdorf;Braunsberg; DE
+Basel SPILOG; CH
+Bassecourt; CH
+Battinsthal;Schuckmannshöhe; DE
+Baumgarten / Pajngrt; AT
+Bayerbach b. Ergoldsbach; DE
+Bayern; DE
+Beblinstetten; DE
+Beckedorfer Schacht; DE
+Bei den Tongruben; DE
+Beinwil SO; CH
+Bellelay; CH
+Bellers; DE
+Bembermühle; DE
+Bembsmühle; DE
+Benglen; CH
+Benjental;Looganlage; DE
+Benken SG; CH
+Benken ZH; CH
+Berg (Dägerlen); CH
+Berg SG; CH
+Berga /Elster; DE
+Bergmühle; DE
+Bergün/Bravuogn; CH
+Berka v d Hainich; DE
+Berlens; CH
+Bern 65 SBB; CH
+Bernau a. Chiemsee; DE
+Berneck; DE
+Bernhalden; DE
+Bertschikon; CH
+Bertschikon (Gossau ZH); CH
+Betten; CH
+Betzenhausen; DE
+Beucha; DE
+Beutenmühle; DE
+Biasca Stazione; CH
+Biberau; DE
+Bibern SH; CH
+Bichelsee; CH
+Bicken; DE
+Biel-Benken BL; CH
+Biel/Bienne 4; CH
+Biersackschlag; DE
+Bierschbacher Mühle;Döttinger Höhe; DE
+Bignasco; CH
+Bionnens; CH
+Birkachhof;Steinächle; DE
+Birkenteich; DE
+Birkhof; DE
+Birkhof;Schillinghof;Voggenmühlhöfle; DE
+Birmensdorf ZH; CH
+Birmenstorf AG; CH
+Bischofsheim a.d.Rhön; DE
+Bismarckquelle; DE
+Blatten (Lötschen); CH
+Blatten b. Naters; CH
+Blaueishütte;Wimbachgrieshütte;Wimbachschloß;Ramsau b. Berchtesgaden;Watzmannhaus; DE
+Blausee-Mitholz; CH
+Bodio TI; CH
+Boizenburg/ Elbe; DE
+Bokelhoop;Gieselauschleuse; DE
+Boklund; DE
+Boll; CH
+Bollodingen; CH
+Bollweg; DE
+Bombinasco; CH
+Bonsbeuern; DE
+Bordelumsiel;Dörpumfeld;Dörpum;Brommelund; DE
+Borgonovo; CH
+Bouloz; CH
+Bourg-St-Pierre; CH
+Bouveret; CH
+Bowiesen; DE
+Boxberg /O.L.; DE
+Brackenberg; DE
+Bramboden; CH
+Breddorfermoor; DE
+Breitbrunn a. Chiemsee; DE
+Breitenbrunn /Erzgeb.; DE
+Breitreute; DE
+Breitwies; DE
+Bremgarten AG; CH
+Bremgarten b. Bern; CH
+Bresegard; DE
+Brienz BE; CH
+Brig; CH
+Brille; DE
+Brokdorferlandscheide; DE
+Brombach; DE
+Bronnerlehe; DE
+Bruchsiedlung; DE
+Bruderholz; CH
+Brückenmühle; DE
+Brügg BE; CH
+Brülisau; CH
+Brünig; CH
+Brüttisellen; CH
+Buch SH; CH
+Buch a. Buchrain; DE
+Buch a. Erlbach; DE
+Buchen BE; CH
+Buchhof, Gem Hardthausen; DE
+Buchhof, Gem Öhringen; DE
+Buchs AG; CH
+Buchs SG 3; CH
+Buchs ZH; CH
+Burg AG; CH
+Burg Hohenzollern; DE
+Burgberg i. Allgäu; DE
+Burgbretzingen;Einkorn; DE
+Burlage;Mecklinge;Berglage;Evershorst;Kuhlhorst; DE
+Burxdorf; DE
+Busswil b. Melchnau; CH
+Bäch SZ; CH
+Bächental; AT
+Bärenbrunnerhof;Bärenbrunnermühle; DE
+Bäriswil BE; CH
+Bättwil-Flüh; CH
+Bödingerhof;Buchholzbergerhof;Hübelhof; DE
+Bökensberg; DE
+Bönigen b. Interlaken; CH
+Bösby;Bösbyfeld; DE
+Bösodenbacherhof; DE
+Bühl b. Aarberg; CH
+Bühlerzimmern; DE
+Büren NW; CH
+Büren SO; CH
+Büren zum Hof; CH
+Bürglen TG; CH
+Bürglen UR; CH
+Büriswilen; CH
+Büttikon AG; CH
+Bützberg; CH
+Büßholz;Kniepenberg; DE
+Calonico; CH
+Campascio; CH
+Campo (Blenio); CH
+Caneggio; CH
+Capolago; CH
+Carouge GE; CH
+Casima; CH
+Cassina dAgno; CH
+Cauco; CH
+Cavigliano; CH
+Chabrey; CH
+Chapella; CH
+Charmey (Gruyère); CH
+Chavannes-les-Forts; CH
+Chevenez; CH
+Cheyres; CH
+Chiasso 3; CH
+Christophruhe; DE
+Châtillon FR; CH
+Châtillon JU; CH
+Chésopelloz; CH
+Clèbes (Nendaz); CH
+Collex; CH
+Collombey; CH
+Colombier NE; CH
+Combremont-le-Petit; CH
+Contra; CH
+Corcelles BE; CH
+Corcelles-sur-Chavornay; CH
+Cormérod; CH
+Cornaux NE; CH
+Corsier GE; CH
+Cossonay-Ville; CH
+Cottens FR; CH
+Courcelon; CH
+Courtaman; CH
+Courtemautruy; CH
+Couvet; CH
+Crans VD; CH
+Crans-Montana 2; CH
+Cressier FR; CH
+Cressier NE; CH
+Cresta (Avers); CH
+Crissier 1; CH
+Cugy VD; CH
+Cully; CH
+Cumpadials; CH
+Curaglia; CH
+Czorneboh; DE
+Daasdorf a Berge; DE
+Dachsbergau; DE
+Dachshof;Glasmühle; DE
+Dahme /Mark; DE
+Daillon; CH
+Dammereez; DE
+Dammesmühle;Dammeshof; DE
+Dammühle; DE
+Dardin; CH
+Dargow;Bresahn; DE
+Davos Wolfgang; CH
+Deisswil b. Münchenbuchsee; CH
+Delémont 2; CH
+Demmin , Hansestadt; DE
+Dentlein a. Forst; DE
+Detligen; CH
+Deutenried; DE
+Dickbuch; CH
+Diedenberg; DE
+Diepoldsburg;Engelhof;Torfgrube; DE
+Dierberg; DE
+Diesburgerhof;Neu-Diesburgerhof; DE
+Diessbach b. Büren; CH
+Dietzhausen;Wichtshausen; DE
+Dillingen/ Saar; DE
+Dompierre VD; CH
+Dongio; CH
+Draßburg / Rasporak; AT
+Dreeker Fladder; DE
+Drei Annen Hohne; DE
+Dreifaltigkeitsberg; DE
+Drestedt-Valzik; DE
+Drüsen; DE
+Duten; DE
+Dutzenthal; DE
+Däniken SO; CH
+Dänikon ZH; CH
+Dättwil AG; CH
+Dürnberg;Enklarn; DE
+Ebenheider Hof; DE
+Ebenwies;Deckelstein; DE
+Ebersdorf b. Coburg; DE
+Ebersecken; CH
+Ebersteinerhof; DE
+Ebertswil; CH
+Ebing;Unterholzen;Schuhegg;Parschall; DE
+Ebnisee; DE
+Eckhütt; DE
+Eclagnens; CH
+Ecublens FR; CH
+Ecublens VD; CH
+Ecuvillens; CH
+Edlibach; CH
+Edling / Kajzaze; AT
+Egg (Flawil); CH
+Egonmühle; DE
+Ehingen a. Ries; DE
+Ehrikon; CH
+Eichenbachermühle; DE
+Eidenedt; AT
+Einemhof; DE
+Eislingen /Fils; DE
+Eitleshof; DE
+Elfingen; CH
+Ellrichsbronn; DE
+Elschbacherhof; DE
+Emmenbrücke 2; CH
+Emmenmatt; CH
+Endorf;Neuplatendorf; DE
+Enggistein; CH
+Ennenda; CH
+Entlebuch Businesszentrum; CH
+Entrischenbrunn;Streitberg; DE
+Ependes VD; CH
+Erkelshäuserhof; DE
+Erlachskirchen; DE
+Erlenbach ZH; CH
+Erlenbach a. Main; DE
+Erlenbach b. Marktheidenfeld; DE
+Erlenbacher Forsthaus; DE
+Erlenmühle; DE
+Erlenwasen; DE
+Erlinsbach SO; CH
+Eschenbach LU; CH
+Eschlikon TG; CH
+Escholzmatt; CH
+Eslingholz; DE
+Etzgen; CH
+Etzwilen; CH
+Euseigne; CH
+Euteneuen; DE
+Euthal; CH
+Eyholz; CH
+Fahrendorf; DE
+Fahrni b. Thun; CH
+Fahrnpoint; DE
+Fahrweid; CH
+Fajauna; CH
+Falkenstein /Vogtl.; DE
+Fanas; CH
+Farchauermühle;Farchau; DE
+Faulensee; CH
+Faustenbach; DE
+Faustermühle; DE
+Feddersdeich;An der Chaussee; DE
+Feldbach; CH
+Feldbrunnen; CH
+Fels; DE
+Felsbergerhof;Spreiterhof; DE
+Fenil-sur-Corsier; CH
+Fenkrieden; CH
+Ferlens VD; CH
+Feutersoey; CH
+Fex; CH
+Filzbach; CH
+Finsterbrunnertal; DE
+Fischamend-Dorf; AT
+Fischbach LU; CH
+Fischen i. Allgäu; DE
+Fischweier; DE
+Fißmühle; DE
+Flamatt; CH
+Flarupholz; DE
+Flendruz; CH
+Flims Dorf; CH
+Flintsbach a. Inn; DE
+Flohkraut; DE
+Flumserberg Bergheim; CH
+Flüh; CH
+Fontainemelon; CH
+Fontanezier; CH
+Forch; CH
+Fornet-Dessus; CH
+Forst b. Längenbühl; CH
+Forsthaus Ivendorf;Ivendorf; DE
+Fortunau (Ayent); CH
+Frankenau / Frakanava; AT
+Frankenberg /Sa.; DE
+Frasco; CH
+Frauenholz; DE
+Fraulund; DE
+Fresenboje; DE
+Freudenheim; DE
+Frickenhausen a. Main; DE
+Friedenthal; DE
+Friedrichshof; DE
+Frieswil; CH
+Frinvillier; CH
+Fröndenberg /Ruhr; DE
+Ftan; CH
+Fuchshof; DE
+Fuchsmühle; DE
+Fusio; CH
+Fürnsbach; DE
+Fürstenaubruck; CH
+Fürstenberg /Havel; DE
+Fürstental; DE
+Fürstenwalde /Spree; DE
+Gadmen; CH
+Gantenbeck;Großenhof; DE
+Ganterschwil; CH
+Gantschier; AT
+Garching b. München; DE
+Gars a. Inn; DE
+Garz /Rügen; DE
+Gastemühle; DE
+Gasthafen; DE
+Gehlmühle; DE
+Gehrhof; DE
+Geisbüschhof;Wüsteratherhof; DE
+Geislinger Weg;Großmannshof; DE
+Geiss; CH
+Gemünden a. Main; DE
+Gentilino; CH
+Genève 15 Aéroport; CH
+Genève 26; CH
+Genève 27; CH
+Genève 4; CH
+Georgenthal /Thür. Wald; DE
+Gerichtsmannsmühle; DE
+Gerold;Elmau;Kranzbach;Klais; DE
+Gerra (Verzasca); CH
+Gerschweiler; DE
+Gesotz, Gem Hargarten; DE
+Gestecke; DE
+Gibswil; CH
+Gieshübel; DE
+Gifizenmoos; DE
+Giggenhausen;Moosmühle;Massenhausen;Schaidenhausen;Hetzenhausen; DE
+Glaitenhof; DE
+Glienicke /Nordbahn; DE
+Gmund a. Tegernsee; DE
+Gnosca; CH
+Golaten; CH
+Goldenerhahn; DE
+Gondo; CH
+Goppenstein; CH
+Goppisberg; CH
+Gossau SG; CH
+Grabenstoffl; DE
+Grafenanger;Seebruck; DE
+Grafenort; CH
+Grafing b. München; DE
+Grandsivaz; CH
+Grangettes-près-Romont; CH
+Graslhof; AT
+Greifswald , Hansestadt; DE
+Greis; AT
+Gressy; CH
+Gretschins; CH
+Grießen; DE
+Grimmelsberg; DE
+Grollenhof; DE
+Grotenknöll; DE
+Groß Hauskreuz; DE
+Großfriesen; DE
+Großpostwitz /O.L.; DE
+Großwiesenhof; DE
+Großwig;Süptitz;Weidenhain; DE
+Grub AR; CH
+Grub SG; CH
+Grub a. Forst; DE
+Gruberhagen; DE
+Grugnay (Chamoson); CH
+Grübelsberg; DE
+Grünental; DE
+Grünhof; DE
+Gstadt a. Chiemsee; DE
+Gumefens; CH
+Gumpener Kreuz; DE
+Gumpenweiler; DE
+Guntershausen b. Berg; CH
+Guntmadingen; CH
+Gunzwil; CH
+Gute Mühle;Ströbels Mühle;Saueressigs Mühle; DE
+Gysenstein; CH
+Gächliwil; CH
+Gänsbrunnen; CH
+Götighofen; CH
+Gümligen; CH
+Güttenbach / Pinkovac; AT
+Haag (Rheintal); CH
+Hackermoos; DE
+Hagenbuch ZH; CH
+Hagendorn; CH
+Hahnenkrug; DE
+Hainhof; DE
+Halbendorf; DE
+Halbertshof; DE
+Hals; DE
+Hamburg-Insel Neuwerk; DE
+Hamfelde, Kr Hzgt Lauenburg; DE
+Hamfelde, Kr Stormarn; DE
+Hammer; DE
+Hammer a.d. Uecker; DE
+Hammermühle; DE
+Hanchesmühle;Birkenstöcke; DE
+Happerswil; CH
+Hardthof; DE
+Hardtmühle; DE
+Harthof; DE
+Hartlmühl; AT
+Haselbach-Söldhaus; DE
+Hasenmühle; DE
+Haslaurotte; AT
+Hasle LU; CH
+Hasle-Rüegsau; CH
+Haslen AI; CH
+Hasliberg Reuti; CH
+Hattenhausen; CH
+Hausen AG; CH
+Hausen b. Würzburg; DE
+Hauterive NE; CH
+Heckenhof; DE
+Heerbrugg; CH
+Heerhof;Osterholz; DE
+Hegebuchenbusch; DE
+Hegerhof; DE
+Hehm;Nordfeld; DE
+Heidehof; DE
+Heidersbacher Mühle; DE
+Heiligenbruck;Schilpenbühl; DE
+Heimbuch; DE
+Heimenschwand; CH
+Heinrichsegen; DE
+Hellbornerhof; DE
+Hengstbacherhof; DE
+Hennens; CH
+Hennickendorf;Herzfelde; DE
+Herbelsmühle; DE
+Herfingerhof;Mühlbusch; DE
+Hergiswil NW; CH
+Hergiswil b. Willisau; CH
+Hergolding;Parsdorf; DE
+Hermsdorf /Erzgeb.;Hermsdorf-Seyde; DE
+Herrenbranden; DE
+Herrenchiemsee; DE
+Herrsching a. Ammersee; DE
+Hessenhütte; DE
+Hetlinger Neuerkoog; DE
+Hettiswil b. Hindelbank; CH
+Heubergerhof;Pulvermühle; DE
+Heuchelheim a. d. Lahn; DE
+Hilfikon; CH
+Himmelweiler; DE
+Hinterbirkenhof; DE
+Hinterbug; DE
+Hinterer Hessenhof; DE
+Hinterfultigen; CH
+Hinterlibitsch / Suha; AT
+Hintermoos; CH
+Hinterste Wache; DE
+Hinterziegelhalden; DE
+Hippelsbach; DE
+Hirschhof; DE
+Hirschhorn/ Pfalz; DE
+Hirtscheid;Talmühle; DE
+Hirzlei; DE
+Hochbuch; DE
+Hochgernhaus; DE
+Hochstadt a. Main; DE
+Hochstatter Hof; DE
+Hof Mondschirm; DE
+Hoffnungstal; DE
+Hofheim; DE
+Hofstetten b. Brienz; CH
+Hohenentringen; DE
+Hohenlohe; DE
+Hohenseeden;Bergzow; DE
+Hohtenn; CH
+Holderbank AG; CH
+Holderbank SO; CH
+Hollerdeich; DE
+Hollermühle; DE
+Hollertal; DE
+Hollmühle; DE
+Holzhauser Eck; DE
+Holzheim a. Forst; DE
+Holzmühle; DE
+Homberg b. Thun; CH
+Hoppenwalde; DE
+Horgen 1; CH
+Hornberger Reute; DE
+Hornstein / Vorištan; AT
+Horschhof; DE
+Horsmar;Eigenrode; DE
+Hosena; DE
+Hosenruck; CH
+Hummelshalden; DE
+Hundebusch; DE
+Hundertmorgen; DE
+Hundsrück; DE
+Hundsweihersägemühle; DE
+Hurtingöd; DE
+Huy-Neinstedt;Pabstorf;Anderbeck;Vogelsdorf;Dedeleben;Badersleben; DE
+Huémoz; CH
+Höchstädt i. Fichtelgebirge; DE
+Höfen b. Thun; CH
+Höhenstein; DE
+Höhjunk; DE
+Höllhammer; DE
+Hörhausen; CH
+Hörlitz; DE
+Hüll; DE
+Hünenberg See; CH
+Hünenfeld; DE
+Hüswil; CH
+Hüttelngesäß; DE
+Hüttgeswasen; DE
+Ichertswil; CH
+Igelsbach; DE
+Ilanz; CH
+Illhart; CH
+Illighausen; CH
+Illnau; CH
+Iltishof; DE
+Im Fang; CH
+Im Hengstrain; DE
+Immenhof;Bornsmühle; DE
+Immenstadt i. Allgäu; DE
+Indemini; CH
+Ingelbach-Bahnhof; DE
+Innereriz; CH
+Innerferrera; CH
+Inning a. Ammersee; DE
+Inning a. Holz; DE
+Inselhof; DE
+Intragna; CH
+Irmannsweiler;Bibersohl; DE
+Iseo; CH
+Isole di Brissago; CH
+Ittenthal; CH
+Jagdschloß Thiergarten; DE
+Jahnsdorf /Erzgeb.; DE
+Jakobsbad; CH
+Jaunstein / Podjuna; AT
+Jeremiasmühle; DE
+Jerrisbekfeld; DE
+Jeshop; DE
+Jettenhausen; DE
+Jevenberg;Moltkestein; DE
+Jägerhaus; DE
+Jägerlust, Forsthaus; DE
+Jößnitz; DE
+Kagar;Wallitz;Dorf Zechlin;Flecken Zechlin;Neu Lutterow;Luhme;Alt Lutterow; DE
+Kahl a. Main; DE
+Kahler Berg; DE
+Kahlkamp; DE
+Kaisersdorf / Kalištrof; AT
+Kaisershagen;Ammern;Dachrieden;Reiser; DE
+Kalbergerhof; DE
+Kalham; AT
+Kalkofen, Gem Dörnberg;Schleuse; DE
+Kalpetran; CH
+Kaltacker; CH
+Kaltbach; CH
+Kaltbuch; DE
+Kaltenbrunn; DE
+Kaltenwanghof; DE
+Kamerlanderdeich; DE
+Kappel SO; CH
+Karlshof; DE
+Karlshöhe;Kreuzhof; DE
+Karlshöhe;Schleifthor; DE
+Karlstein a. Main; DE
+Karlsthal Bahnhof; DE
+Karthause Grünau; DE
+Katelbogen;Qualitz;Laase; DE
+Katharinenhof; DE
+Katharinenthalerhof; DE
+Katschow; DE
+Katzhörn;Kleinkoogsdeich;Gotteskoogdeich; DE
+Keller; DE
+Kellershof; DE
+Kemptthal; CH
+Ketzin /Havel; DE
+Kilchberg BL; CH
+Kilchberg ZH; CH
+Kindsbach, Forsthaus; DE
+Kirchberg BE; CH
+Kirchdorf AG; CH
+Kirchdorf BE; CH
+Kirchdorf a. Inn; DE
+Kirchheim b. München; DE
+Kirchleerau-Moosleerau; CH
+Kirschfurt; DE
+Klaftertalerhof; DE
+Klaubmühle; DE
+Klein Grönau; DE
+Klein Heikeland; DE
+Klein Kampen; DE
+Kleindietwil; CH
+Kleindöttingen; CH
+Kleinromstedt;Großromstedt;Pfuhlsborn;Kösnitz;Eckolstädt;Wormstedt;Münchengosserstädt;Hermstedt;Stobra; DE
+Kleinzerbst; DE
+Klettwitz; DE
+Klingenbach / Klimpuh; AT
+Klingenberg a. Main; DE
+Klingenmühlhöfle; DE
+Klippmühle; DE
+Klockow; DE
+Kloster St Ludwig; DE
+Klüß; DE
+Kneispermühle; DE
+Knochenmühle;Kaisermühle; DE
+Knyphauserwald; DE
+Kochel a. See; DE
+Kohlmühle; DE
+Kollow, Kurheim; DE
+Kolochau;Malitschkendorf; DE
+Konradsmühle;Würschhauserhof;Würschhausermühle; DE
+Kosilenzien;Neuburxdorf;Langenrieth;Möglenz; DE
+Kottenbornermühle; DE
+Kottingburgstall; AT
+Kottmar (Gemeinde); DE
+Kraiburg a. Inn; DE
+Krambergsmühle; DE
+Krauschwitz i.d. O.L.; DE
+Krautenberg; DE
+Krelinger Bruch; DE
+Krettenhof; DE
+Kretzhaus; DE
+Kreut; DE
+Kreuzquelle; DE
+Krinau; CH
+Kroatisch Minihof / Mjenovo; AT
+Krumhermersdorf; DE
+Krummland; DE
+Kulmerau; CH
+Kurort Rathen; DE
+Kurort Seiffen; DE
+Kyburg-Buchegg; CH
+Köhnerbrücke; DE
+Kölleshof; DE
+Kömmel / Komelj; AT
+Königreich; DE
+Königstein /Sächs. Schw.; DE
+Königswill; DE
+Köppelmühle; DE
+Köschinger Waldhaus; DE
+Köshof;Schautenhof;Eibenhof; DE
+Köthel, Kr Hzgt Lauenburg; DE
+Köthel, Kr Stormarn; DE
+Küssnacht am Rigi; CH
+LAbergement; CH
+LAuberson; CH
+La Conversion; CH
+La Corbaz; CH
+La Coudre; CH
+La Croix-de-Rozon; CH
+La Cure; CH
+La Garde (Sembrancher); CH
+La Plaine; CH
+La Roche FR; CH
+La Russille; CH
+La Sagne NE; CH
+La Tour-de-Trême; CH
+La Tzoumaz; CH
+Laax GR 2; CH
+Lachen SZ; CH
+Lachnitzmühle; DE
+Lambertskreuz; DE
+Landturm; DE
+Langenhalde; DE
+Langenhorst; DE
+Langental / Longitolj; AT
+Langhardt; DE
+Langheckerhof; DE
+Langweid a. Lech; DE
+Lanna; CH
+Lanzenneunforn; CH
+Latterbach; CH
+Lauberhof; DE
+Lauenburg/ Elbe; DE
+Lauenen b. Gstaad; CH
+Laufenbacherhof; DE
+Laupen BE; CH
+Laura; CH
+Lausanne 18; CH
+Lautenbachhof; DE
+Lavin; CH
+Le Brouillet; CH
+Le Bémont JU; CH
+Le Cerneux-Veusil; CH
+Le Châtelard VS; CH
+Le Châtelard-près-Romont; CH
+Le Prédame; CH
+Le Pâquier-Montbarry; CH
+Le Solliat; CH
+Le Sépey; CH
+Leggia; CH
+Leherfeld;Dammsfeld; DE
+Lehmsiek; DE
+Leimbach AG; CH
+Lenggenwil; CH
+Lengnau AG; CH
+Lengnau BE; CH
+Lenk im Simmental; CH
+Lentigny; CH
+Lenzburg 1; CH
+Les Avanchets; CH
+Les Bioux; CH
+Les Brenets; CH
+Les Crosets; CH
+Les Ecorcheresses; CH
+Les Emibois; CH
+Les Friques; CH
+Les Moulins; CH
+Les Paccots; CH
+Les Plans-sur-Bex; CH
+Les Pommerats; CH
+Les Prés-dOrvin; CH
+Les Rasses; CH
+Les Thioleyres; CH
+Levensau; DE
+Libingen; CH
+Lichtenberg /Erzgeb.; DE
+Lichtenow; DE
+Lichtenstein /Sa.; DE
+Liebistorf; CH
+Liez (St-Martin); CH
+Limburg; DE
+Limburg a.d. Lahn; DE
+Lindemannsruhe; DE
+Lindenberg i. Allgäu; DE
+Lindenhof; DE
+Linkersbaindt; DE
+Lippoldswilen; CH
+Lochmühle; DE
+Locktow;Dahnsdorf;Ziezow;Kranepuhl;Mörz; DE
+Loco; CH
+Lohen;Krücklham;Heuwinkl;Reiser;Mittergars; DE
+Lohheide, gemfr. Bezirk; DE
+Lohn SH; CH
+Lohnstorf; CH
+Lohr a. Main; DE
+Lotenberg;Haagwiesen; DE
+Lotsenstation; DE
+Louisenberg; DE
+Louisenhof; DE
+Luchle; DE
+Luchsingen; CH
+Ludescherberg; AT
+Ludiano; CH
+Lugano 2 Paradiso Caselle; CH
+Lugnorre; CH
+Luhnvie; DE
+Luhrbach; DE
+Lully FR; CH
+Lully VD; CH
+Lumbrein; CH
+Luppertsseifen, Gem Burscheid; DE
+Lustdorf; CH
+Lustmühle; CH
+Luthern Bad; CH
+Lutherstadt Eisleben; DE
+Lutherstadt Wittenberg; DE
+Ländlerhof; DE
+Lübbenau /Spreewald; DE
+Lüchingen; CH
+Lüsslingen; CH
+Lütisburg Station; CH
+Machtemesmühle;Preischeiderley; DE
+Madrano; CH
+Maiermund;Briedeler Heck;Hohestein; DE
+Mainz-Kastel; DE
+Mainz-Kostheim; DE
+Mairing; DE
+Makenhof; DE
+Malans GR; CH
+Malse; DE
+Manker; DE
+Marbach; DE
+Marbach SG; CH
+Marienhof; DE
+Marin-Epagnier; CH
+Markenschlagrotte; AT
+Markertsgrün; DE
+Maroggia; CH
+Martigny-Croix; CH
+Martinskirchen;Brottewitz;Koßdorf; DE
+Marzauermühle; DE
+Maseltrangen; CH
+Mastrils; CH
+Matten b. Interlaken; CH
+Mauthaus; DE
+Mecklenburg-Vorpommern; DE
+Medeglia; CH
+Meetzen; DE
+Meien; CH
+Meisdorf;Ermsleben;Reinstedt; DE
+Melano; CH
+Melusinental; DE
+Menglers; DE
+Merkeshausen; DE
+Mex VD; CH
+Mex VS; CH
+Mezzovico; CH
+Michelau i. Steigerwald; DE
+Michelbacher Mühle; DE
+Michelhölzle; DE
+Middes; CH
+Mielberg; DE
+Miele;Rehwinkel; DE
+Minderleinsmühle;Gabermühle; DE
+Misériez (Salins); CH
+Mittelmühle; DE
+Mittelschieda; DE
+Miège; CH
+Modenbacherhof; DE
+Mohrenmühle;Franzenmühle; DE
+Moiry VD; CH
+Moisall;Käterhagen;Jabelitz;Langen Trechow;Neu Käterhagen;Kurzen Trechow;Göllin;Glambeck; DE
+Mollens VD; CH
+Mollie-Margot; CH
+Mont-Crosin; CH
+Montagne-de-Courtelary; CH
+Montavon; CH
+Montbovon; CH
+Montet (Broye); CH
+Montforterhof; DE
+Monthey 2; CH
+Montignez; CH
+Montlingen; CH
+Montsevelier; CH
+Morcles; CH
+Morest; DE
+Morges 1; CH
+Morrens VD; CH
+Mosen; CH
+Muhr a. See; DE
+Mundhardterhof; DE
+Muri AG; CH
+Murnau a. Staffelsee; DE
+Murzelen; CH
+Muttenhaus; DE
+Muttenz 1; CH
+Mädris-Vermol; CH
+Mézery-près-Donneloye; CH
+Möderboden; AT
+Mönchshof; DE
+Mötschwil; CH
+Mückenhof; DE
+Mühlenbeck; DE
+Mühlenthal; DE
+Mühlhausen /Thüringen; DE
+Mühlwand; DE
+Mülenen; CH
+Müllheim Dorf; CH
+Münchenstein 1; CH
+Münchringen; CH
+Münchwilen AG; CH
+Müstair; CH
+Nax; CH
+Necker; CH
+Nenzinger Himmel; AT
+Nesselnbach; CH
+Nettemühle; DE
+Netzeband;Katerbow;Rägelin;Darsikow;Pfalzheim; DE
+Neu Bleckede;Neu Wendischthun; DE
+Neu Duvenstedt-Nord; DE
+Neualbenreuth; DE
+Neuberg im Burgenland / Nova Gora; AT
+Neubruck; AT
+Neudorf / Novo Selo; AT
+Neue Mühle; DE
+Neufahrn b. Freising; DE
+Neufarn;Purfing; DE
+Neuhaus SG; CH
+Neuhausen /Erzgeb.; DE
+Neuhausen /Spree; DE
+Neuhausen am Rheinfall 1; CH
+Neukirch /Lausitz; DE
+Neukirchen /Erzgeb.; DE
+Neukirchen /Pleiße; DE
+Neumühlen; DE
+Neunhäuser; DE
+Neunkirchen a. Brand; DE
+Neunkirchen a. Sand; DE
+Neuseegalendorf; DE
+Neustadt /Vogtl.; DE
+Neustadt a. Main; DE
+Neustadt b. Coburg; DE
+Neuwerben; DE
+Neuwoog; DE
+Neuwühren; DE
+Neuägeri; CH
+Neyruz FR; CH
+Nichel;Schlalach;Niederwerbig; DE
+Niedergampel; CH
+Niederglatt SG; CH
+Niederglatt ZH; CH
+Niederneunforn; CH
+Niederried b. Interlaken; CH
+Niedersachsen; DE
+Niederwil SO; CH
+Niederähren; DE
+Niendorf/ Stecknitz; DE
+Niouc; CH
+Nohl; CH
+Nonnenholz; DE
+Nordergeilwang; DE
+Nordheim a. Main; DE
+Nordseeinsel Memmert; DE
+Noréaz; CH
+Noës; CH
+Nuglar; CH
+Nußdorf a. Inn; DE
+Nyon 2; CH
+Näherhof; DE
+Oberbalmberg; CH
+Oberdill; DE
+Oberdorf BL; CH
+Obere Kleinmichelesmühle;Untere Kleinmichelesmühle; DE
+Obere Roggenmühle; DE
+Obere Ölmühle;Untere Ölmühle; DE
+Oberer Eutinger Talhof; DE
+Oberer Lindenhof; DE
+Oberflachs; CH
+Obergesteln; CH
+Oberglatt ZH; CH
+Oberhasli; CH
+Oberholzhäuseln; DE
+Oberkirch LU; CH
+Oberkutterau; DE
+Oberlauterbach;Trieb; DE
+Oberlindberg; DE
+Obermutten; CH
+Obernach; DE
+Obernburg a. Main; DE
+Oberndorf a. Lech; DE
+Oberpullendorf / Felsöpulya; AT
+Oberramsern; CH
+Oberrickenbach; CH
+Obersaxen; CH
+Oberschrot; CH
+Obersteinenberg; DE
+Oberstenwehr; DE
+Oberstetten; CH
+Oberterzen; CH
+Oberwangen TG; CH
+Oberwart / Felsöör; AT
+Oberwil BL; CH
+Oberwil b. Büren; CH
+Oberwil b. Zug; CH
+Oberönz; CH
+Oberösch; CH
+Obtarrenz; AT
+Ochsenbusch; DE
+Oelsnitz /Erzgeb.; DE
+Oeschseite; CH
+Oetjendorf; DE
+Oey; CH
+Oftringen 1; CH
+Ohmstal; CH
+Oldenburg (Oldenburg); DE
+Olenkorb; DE
+Oleyres; CH
+Onnens VD; CH
+Orbachshof;Haberhof; DE
+Ortschwaben; CH
+Oslip / Uzlop; AT
+Osogna; CH
+Ostenholz; DE
+Osterfingen; CH
+Ostermundigen KATA; CH
+Ostseebad Heringsdorf; DE
+Ostseebad Nienhagen; DE
+Ostseebad Rerik; DE
+Ostseebad Wustrow; DE
+Ottoberg; CH
+Ottstedt a Berge; DE
+Ovendorferredder; DE
+Pagensand; DE
+Pama / Bijelo Selo; AT
+Parndorf / Pandrof; AT
+Parpan; CH
+Peickwitz; DE
+Peist; CH
+Pelzerhaus;Beurenermühle; DE
+Pentenried;Frohnloh; DE
+Perlen; CH
+Perly; CH
+Peseux; CH
+Pfaffenhäusle;Mühlhölzle; DE
+Pfahlbronner Mühle;Schenkhöfle;Haldenhof;Haselhof; DE
+Pfahlhof; DE
+Pfalzkyll; DE
+Pfeffikon LU; CH
+Pfenninghof; DE
+Pflaumdorf;Algertshausen; DE
+Pfoisau; AT
+Pfäffikon ZH; CH
+Pignia; CH
+Pilligerheck; DE
+Pirmannsteinerhof; DE
+Pistre; DE
+Planschwitz;Oelsnitz /Vogtl.; DE
+Plaschlhof; AT
+Plattele; DE
+Plirup; DE
+Plotzsägemühle; DE
+Plöven; AT
+Polcherholz; DE
+Polzen; DE
+Pontenet; CH
+Porrentruy 2; CH
+Portalban; CH
+Pratteln 1; CH
+Pratval; CH
+Prien a. Chiemsee; DE
+Pringy; CH
+Profit; DE
+Progens; CH
+Prêles; CH
+Pukholt; DE
+Pullach i. Isartal; DE
+Putz; CH
+Péry; CH
+Püchau; DE
+Quernheimerbruch; DE
+Quirnbach/ Pfalz; DE
+Rabenholzlück; DE
+Rader Insel; DE
+Radhaming; AT
+Ramiswil; CH
+Ramosch; CH
+Ramsei; CH
+Randogne; CH
+Realsmühle; DE
+Rebeuvelier; CH
+Reesmoor; DE
+Rehbruck; DE
+Reichelshof; DE
+Reichen;Wiesach; DE
+Reidenbruch;Girgenrath; DE
+Reidermoos; CH
+Reigersberg; DE
+Reinach AG; CH
+Reinach BL; CH
+Reinhardswinden; DE
+Reitmehring;Wasserburg a. Inn; DE
+Renan BE; CH
+Renens VD; CH
+Reppel;Fünfmühlen; DE
+Reute AR; CH
+Reuth b. Erbendorf; DE
+Riazzino; CH
+Ricken SG; CH
+Rickenbach BL; CH
+Rickenbach SO; CH
+Rickenbach Sulz; CH
+Rickenbach b. Wil; CH
+Riedelberg-Tal;Kirschbachermühle;Kirschbacherhof; DE
+Riedlhütte; DE
+Riedt b. Erlen; CH
+Riedtwil; CH
+Riegersheim;Eulenmühle; DE
+Riemerling; DE
+Riepshof; DE
+Riesewohld; DE
+Rigi Staffel; CH
+Rikon im Tösstal; CH
+Ringelah; DE
+Ringgenberg BE; CH
+Ringoldswil; CH
+Ringsee; DE
+Riom; CH
+Rittbruch; DE
+Riveo; CH
+Roche VD; CH
+Roches BE; CH
+Rodi-Fiesso; CH
+Roggenstein; DE
+Roggwil BE; CH
+Roggwil TG; CH
+Rohr b. Olten; CH
+Rohr i. NB; DE
+Rohrmatt; CH
+Rohrsheim;Dardesheim; DE
+Rollhäusl; DE
+Romainmôtier; CH
+Rombach; CH
+Romont BE; CH
+Romont FR; CH
+Root D4; CH
+Ropahl; DE
+Rosbach; DE
+Rotenberg, Jagdhaus; DE
+Rotenburg a. d. Fulda; DE
+Rothe-Kreuz; DE
+Rothenburg /O.L.; DE
+Rothenhausen; CH
+Rothenwand; AT
+Rotherhof; DE
+Rott a. Inn; DE
+Rotwandhaus; DE
+Roumaz (Savièse); CH
+Roveredo TI; CH
+Roßlaich; DE
+Rudolfstetten; CH
+Rudolz; AT
+Rumlikon; CH
+Rundsmühlhof; DE
+Rupbach, Gem Gutenacker; DE
+Russy; CH
+Röbel /Müritz; DE
+Rödelbach;Theismühlen; DE
+Röderhof; DE
+Rögen; DE
+Rögen, Gut; DE
+Römerswil LU; CH
+Röthenbach Herzogenbuchsee; CH
+Rößnitz;Schneckengrün; DE
+Rüegsauschachen; CH
+Rüfenach AG; CH
+Rümligen; CH
+Rüschegg Gambach; CH
+Rüthi (Rheintal); CH
+Rüti ZH; CH
+Rüti b. Büren; CH
+Rüti b. Lyssach; CH
+Rütli; CH
+S. Antonino; CH
+S. Carlo (Poschiavo); CH
+S. Pietro; CH
+S. Vittore; CH
+Saalfeld /Saale; DE
+Sachsen; DE
+Sachsen b. Ansbach; DE
+Sachsen-Anhalt; DE
+Sachsgrün;Triebel /Vogtl.;Posseck; DE
+Sagl; AT
+Saland; CH
+Salmbacher Passage; DE
+Salvenach; CH
+Salzwedel , Hansestadt; DE
+Samnaun Dorf; CH
+Samstagern; CH
+Sand a. Main; DE
+Sandbühlerhof; DE
+Sandersmühle; DE
+Sangernboden; CH
+Sankt Kathrein am Offenegg II.Viertel; AT
+Sankt Marienkirchen bei Schärding; AT
+Sansenhof; DE
+Sarkwitz; DE
+Sattelmühle; DE
+Sauerseifen; DE
+Sauersmühle; DE
+Saules BE; CH
+Saurenhof;Bärenhof; DE
+Saxdorf;Neudeck;Bahnsdorf; DE
+Schachen LU; CH
+Schachendorf / Cajta; AT
+Schandorf / Cemba; AT
+Scharrmühle;Scharrhof; DE
+Schelertal; DE
+Scherz; CH
+Scheuerlehof; DE
+Schießhof; DE
+Schildow; DE
+Schinznach Bad; CH
+Schlans; CH
+Schlatt TG; CH
+Schlatt ZH; CH
+Schlattingen; CH
+Schleifhäusle; DE
+Schleifmühle; DE
+Schleimünde; DE
+Schleuse Dausenau; DE
+Schleuse Ems;Lindenbach; DE
+Schlosswil; CH
+Schloßhof; DE
+Schlößlesmühle;Schlechtenmühle;Walzenmühle; DE
+Schmedeland; DE
+Schmidrüti; CH
+Schmitten (Albula); CH
+Schmitten FR; CH
+Schnackenwöhr; DE
+Schneefernerhaus; DE
+Schneidmühle; DE
+Schochen; DE
+Scholmunderhof; DE
+Scholterhaus; DE
+Schonterhöhe; DE
+Schoren; DE
+Schottersmühle; DE
+Schurrenhof;Kratzerhöfle; DE
+Schwabert;Falkenauel; DE
+Schwaig b. Nürnberg; DE
+Schwanden b. Brienz; CH
+Schwarzach a. Main; DE
+Schwarzach b. Nabburg; DE
+Schwarzenbach (Zerstreut); AT
+Schwarzenberg /Erzgeb.; DE
+Schwarzenberg LU; CH
+Schwarzenegg; CH
+Schwarzengraben; DE
+Schwedt /Oder; DE
+Schweinfurter Haus; DE
+Schwende; CH
+Schweringen, Ziegelei; DE
+Schöchleinsmühle; DE
+Schöllbronner Mühle; DE
+Schönau a. Königssee;Kärlingerhaus; DE
+Schönbornerhof; DE
+Schönbrunn i. Steigerwald; DE
+Schönbühl Einkaufszentrum; CH
+Schöne Aussicht; DE
+Schöne Aussicht, Gem Masburg;Präfekturhof; DE
+Schöneck /Vogtl.; DE
+Schönenbaumgarten; CH
+Schönenberg ZH; CH
+Schönenberg an der Thur; CH
+Schönfließ;Mühlenbeck; DE
+Schörghof; DE
+Schützenhof; DE
+Sedrun; CH
+Seebad Ahlbeck; DE
+Seebad Bansin; DE
+Seedorf UR; CH
+Seehausen a. Staffelsee; DE
+Seeon; DE
+Seewen SO; CH
+Seewiesen; DE
+Seewis Dorf; CH
+Segnas; CH
+Sehmatal-Cranzahl;Sehmatal-Sehma;Sehmatal-Neudorf; DE
+Seligweiler; DE
+Selkingen; CH
+Sennhof (Winterthur); CH
+Sennhütte; DE
+Sereetz;Sielbek;Sereetzerfeld; DE
+Serneus; CH
+Sessa; CH
+Siebnen; CH
+Siegendorf / Cindrof; AT
+Sigigen; CH
+Sigirino; CH
+Signy-Centre; CH
+Signôra; CH
+Sihlwald; CH
+Simbach a. Inn; DE
+Simmern/ Hunsrück; DE
+Simplon Dorf; CH
+Sinnhub; AT
+Siselen BE; CH
+Sisseln AG; CH
+Sixenhof; DE
+Sohl;Bremscheid;Stopperich; DE
+Somazzo; CH
+Sonderhof; DE
+Sonnenhof; DE
+Spaltenhof; DE
+Spiegel b. Bern; CH
+Spitalhaus; DE
+Spitzau; DE
+Spitzenberg; AT
+Splügen; CH
+Spritzenmühle; DE
+St Georgen; DE
+St-Barthélemy VD; CH
+St-Blaise; CH
+St-George; CH
+St-Gingolph; CH
+St-Livres; CH
+St-Légier-La Chiésaz; CH
+St-Léonard; CH
+St-Martin FR; CH
+St-Oyens; CH
+St-Prex; CH
+St-Saphorin (Lavaux); CH
+St-Sulpice VD; CH
+St-Ursanne; CH
+St. Alban; DE
+St. Andreasberg; DE
+St. Annen; DE
+St. Gallen K AG; CH
+St. Goar; DE
+St. Goarshausen; DE
+St. Katharinen; DE
+St. Margarethen TG; CH
+St. Margrethen SG; CH
+St. Margrethenberg; CH
+St. Martin; DE
+St. Michaelisdonn; DE
+St. Moritz 3; CH
+St. Niklaus VS; CH
+St. Niklausen LU; CH
+St. Niklausen OW; CH
+St. Ottilien; DE
+St. Pelagiberg; CH
+St. Peterzell; CH
+Sta. Maria in Calanca; CH
+Stadtbek, Gem Seedorf; DE
+Stadtbekermühle;Stadtbek, Gem Bosau; DE
+Stalden (Sarnen); CH
+Stalden VS; CH
+Standorf; DE
+Stausteinerhof; DE
+Stavenhagen , Reuterstadt; DE
+Steckenbergermühle;Gasteyers Mühle;Rupbach, Gem Bremberg; DE
+Steffenshof; DE
+Stein AG; CH
+Stein AR; CH
+Stein SG; CH
+Stein a.d.Traun; DE
+Stein am Rhein 1; CH
+Steinbach a. Wald; DE
+Steinbrunn / Štikapron; AT
+Steinebach/ Sieg; DE
+Steinebrunn; CH
+Steingraben; DE
+Steinrab;Truchtlaching;Apperting;Höllthal; DE
+Stenten; DE
+Stetten AG; CH
+Stetten SH; CH
+Stinatz / Stinjaki; AT
+Stockbornerhof; DE
+Stocksberg, Gem Beilstein; DE
+Stockstadt a. Main; DE
+Stollbeck; DE
+Stollberg /Erzgeb.; DE
+Stolzenbergerhof;Bremricherhof;Schmalfelderhof; DE
+Stoos SZ; CH
+Studen BE; CH
+Studen SZ; CH
+Stutzenklinge;Mooswiese; DE
+Stöffin; DE
+Stöhrhaus; DE
+Stötten a. Auerberg; DE
+Stüterhof; DE
+Suberg; CH
+Sugnens; CH
+Suhhaus;Wahlenhalden;Rötenbach;Brandhof;Algishofen;Schlauchhof;Fach; DE
+Suhrbrook; DE
+Sulzbach a. Main; DE
+Sulzbach/ Saar; DE
+Sulzfeld a. Main; DE
+Sulzhof; DE
+Susten; CH
+Sutz; CH
+Sédeilles; CH
+Sörenberg; CH
+Süderen; CH
+Süderhackstedtfeld; DE
+Südfall; DE
+Sünna; DE
+Taching a. See; DE
+Tackesdorf-Nord; DE
+Tannengrundhof; DE
+Tanzenhaid; DE
+Tarnewitzerhagen; DE
+Tatroz; CH
+Taverne; CH
+Tenna; CH
+Territet; CH
+Teufen ZH; CH
+Teufenthal AG; CH
+Teuffenthal b. Thun; CH
+Thalheim AG; CH
+Thalhofen; DE
+Thierrens; CH
+Thiesholz;Borrishaag;Stoltoft;Böelnorderfeld; DE
+Thyon; CH
+Thüringer Hütte; DE
+Tiefencastel; CH
+Tillmitsch Links der Laßnitz; AT
+Tirschendorf; DE
+Tivoli; DE
+Todsburg;Eselhöfe; DE
+Torfhaus; DE
+Torfkaten; DE
+Torgon; CH
+Traubenmühle;Scherbenmühle; DE
+Traunwalchen; DE
+Trausdorf an der Wulka / Trajštof; AT
+Trautenhof; DE
+Trebsen /Mulde; DE
+Treyfayes; CH
+Tschiertschen; CH
+Turbach; CH
+Turtmann; CH
+Tuttwil; CH
+Tägerschen; CH
+Töging a. Inn; DE
+Tüscherz-Alfermée; CH
+Uerzlikon; CH
+Uesslingen; CH
+Uffing a. Staffelsee; DE
+Uitikon Waldegg; CH
+Umleitungsdeich; DE
+Unbesandten;Besandten;Wootz;Gaarz;Baarz; DE
+Unter-Hainbrunn; DE
+Unterbäch VS; CH
+Unterdielbach; DE
+Unterendingen; CH
+Unterführbuch;Dürach;Oberführbuch; DE
+Unterrotenstein; DE
+Untersiegenbühl; DE
+Untersteckholz; CH
+Unterthierwasen;Oberthierwasen; DE
+Unterwasser; CH
+Urfeld;Walchensee;Herzogstand;Zwergern; DE
+Urnerboden; CH
+Uznach Vögele AG; CH
+Vaalerfeld; DE
+Valbella; CH
+Vaumarcus; CH
+Veltheim AG; CH
+Vers-lEglise; CH
+Versegères; CH
+Vesin; CH
+Vetschau /Spreewald; DE
+Vevey 1; CH
+Vezio; CH
+Vichères (Liddes); CH
+Viktoriastollen; DE
+Villariaz; CH
+Villars-Mendraz; CH
+Villars-Ste-Croix; CH
+Villars-sous-Champvent; CH
+Villars-sous-Mont; CH
+Villars-sur-Fontenais; CH
+Villars-sur-Glâne 1; CH
+Villarsel-le-Gibloux; CH
+Villarsiviriaux; CH
+Villarvolard; CH
+Villaz-St-Pierre; CH
+Villeneuve VD; CH
+Vilters; CH
+Vogelkoje;Jugendseeheim Kassel; DE
+Vogelsang AG; CH
+Vogthof; DE
+Vordertambergau; AT
+Vorsuchhütte; DE
+Vuippens; CH
+Vuissens; CH
+Völmlesmühle;Pfaffenstube; DE
+Wagen; CH
+Waging a. See; DE
+Wahlen b. Laufen; CH
+Wald AR; CH
+Wald ZH; CH
+Walde AG; CH
+Waldfriede; DE
+Waldhäusern AG; CH
+Waldschmidtmühle; DE
+Waldshagen; DE
+Walenstadtberg; CH
+Wallenried; DE
+Walliswil b. Niederbipp; CH
+Walliswil b. Wangen; CH
+Waltalingen; CH
+Walterswil BE; CH
+Walterswil SO; CH
+Wangen SZ; CH
+Wangen b. Olten; CH
+Wangerooge , Nordseebad; DE
+Warthof; DE
+Wasen im Emmental; CH
+Wassermühle; DE
+Watzlsteg; DE
+Watzumer Häuschen;Groß Rode;Tetzelstein; DE
+Weg; DE
+Weggen-Ziegelhütte;Leinhäusle; DE
+Weiberhof; DE
+Weidenhell; DE
+Weidhausen b. Coburg; DE
+Weier im Emmental; CH
+Weiherhof; DE
+Weihermühle; DE
+Weilheim i. OB; DE
+Weingraben / Bajngrob; AT
+Weiningen TG; CH
+Weiningen ZH; CH
+Weissenstein b. Solothurn; CH
+Weiße Krug; DE
+Weißenborn /Erzgeb.; DE
+Weißeneggerberg; AT
+Weißenfeld; DE
+Weißenseifen, Gem Mürlenbach; DE
+Weißer Hirsch;Söhren; DE
+Weißwasser /O.L.; DE
+Wellingshof; DE
+Welzmühle; DE
+Wengen; CH
+Wengi b. Büren; CH
+Werdenberg; CH
+Wergenstein; CH
+Wermatswil; CH
+Wernetshausen; CH
+Westerburer Polder; DE
+Westkinberg; DE
+Wettswil; CH
+Wetzikon ZH 1; CH
+Wiblishauserhof;Heubelsburg;Brandfeld; DE
+Wieck a Darß; DE
+Wiedenzhausen; DE
+Wiedischhausen; DE
+Wien, Alsergrund; AT
+Wien, Brigittenau; AT
+Wien, Donaustadt; AT
+Wien, Döbling; AT
+Wien, Favoriten; AT
+Wien, Floridsdorf; AT
+Wien, Hernals; AT
+Wien, Hietzing; AT
+Wien, Innere Stadt; AT
+Wien, Josefstadt; AT
+Wien, Landstraße; AT
+Wien, Leopoldstadt; AT
+Wien, Liesing; AT
+Wien, Margareten; AT
+Wien, Mariahilf; AT
+Wien, Meidling; AT
+Wien, Neubau; AT
+Wien, Ottakring; AT
+Wien, Penzing; AT
+Wien, Rudolfsheim-Fünfhaus; AT
+Wien, Simmering; AT
+Wien, Wieden; AT
+Wien, Währing; AT
+Wienacht-Tobel; CH
+Wierenkamp; DE
+Wiesenburg /Mark; DE
+Wieserode;Pansfelde; DE
+Wieslauterhof; DE
+Wiezikon b. Sirnach; CH
+Wil SG; CH
+Wil SG 1; CH
+Wil ZH; CH
+Wildburg; DE
+Wildegg; CH
+Wildenbungert; DE
+Wildensbuch; CH
+Wilen b. Wil; CH
+Wiler b. Utzenstorf; CH
+Windlach; CH
+Winistorf; CH
+Winnerhöfe; DE
+Wisen SO; CH
+Wittbeck; DE
+Wittstock /Dosse; DE
+Wittwil; CH
+Witzschdorf; DE
+Wodenhof; DE
+Wohlbach;Hermsgrün;Unterwürschnitz;Marieney; DE
+Wohlen AG; CH
+Wolfhausen; CH
+Wolfseck, Forsthaus; DE
+Wolfsmühle; DE
+Wormshöft; DE
+Wulfenhusen; DE
+Wulfshof; DE
+Wulkaprodersdorf / Vulkaprodrštof; AT
+Wulkow; DE
+Wunder; DE
+Wälschbuch; DE
+Wörth a. Main; DE
+Wöschnau; CH
+Wünsch; DE
+Wünschbach; DE
+Wünschendorf /Elster; DE
+Zagersdorf / Cogrštof; AT
+Zanken;Fuchshäusle;Obersiegenbühl; DE
+Zeil a. Main; DE
+Zell a. Main; DE
+Zell-Oberwinkel / Sele-Zvrhnji Kot; AT
+Zeltingen, Forsthaus; DE
+Zerbst /Anhalt; DE
+Zermützel;Krangen;Alt Ruppin;Zippelsförde;Molchow; DE
+Ziegelhof;Mildterhof; DE
+Ziegelhütte; DE
+Zihlschlacht; CH
+Zillingtal / Celindof; AT
+Zillis; CH
+Zimmerwald; CH
+Zofingen PF UBS; CH
+Zollbrück; CH
+Zollikerberg; CH
+Zuckerfabrik Vitzenburg; DE
+Zuflucht; DE
+Zuzwil BE; CH
+Zweidlen; CH
+Zwickmühle; DE
+Zwillikon; CH
+Zwillingshof; DE
+Züberwangen; CH
+Zühlsdorf; DE
+Zürich 80; CH
+Ödenbach; DE
+Ödenhof; AT
+Ölmühle; DE
+Ölmühle;Sperrhof; DE

@@ -1,0 +1,15 @@
+CH,S. Antonino
+CH,S. Carlo (Poschiavo)
+CH,S. Pietro
+CH,S. Vittore
+DE,Saalfeld /Saale
+DE,Sachsen
+DE,Sachsen b. Ansbach
+DE,Sachsen-Anhalt
+DE,Sachsgrün;Triebel /Vogtl.;Posseck
+AT,Sagl
+CH,Saland
+DE,Salmbacher Passage
+CH,Salvenach
+DE,Salzwedel , Hansestadt
+CH,Samnaun Dorf

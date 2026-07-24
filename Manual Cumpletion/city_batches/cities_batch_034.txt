@@ -1,0 +1,15 @@
+DE,Großwig;Süptitz;Weidenhain
+CH,Grub AR
+CH,Grub SG
+DE,Grub a. Forst
+DE,Gruberhagen
+CH,Grugnay (Chamoson)
+DE,Grübelsberg
+DE,Grünental
+DE,Grünhof
+DE,Gstadt a. Chiemsee
+CH,Gumefens
+DE,Gumpener Kreuz
+DE,Gumpenweiler
+CH,Guntershausen b. Berg
+CH,Guntmadingen

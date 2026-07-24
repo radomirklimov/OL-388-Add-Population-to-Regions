@@ -1,0 +1,15 @@
+DE,Wunder
+DE,Wälschbuch
+DE,Wörth a. Main
+CH,Wöschnau
+DE,Wünsch
+DE,Wünschbach
+DE,Wünschendorf /Elster
+AT,Zagersdorf / Cogrštof
+DE,Zanken;Fuchshäusle;Obersiegenbühl
+DE,Zeil a. Main
+DE,Zell a. Main
+AT,Zell-Oberwinkel / Sele-Zvrhnji Kot
+DE,Zeltingen, Forsthaus
+DE,Zerbst /Anhalt
+DE,Zermützel;Krangen;Alt Ruppin;Zippelsförde;Molchow

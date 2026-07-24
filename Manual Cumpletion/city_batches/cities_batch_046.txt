@@ -1,0 +1,15 @@
+DE,Jeshop
+DE,Jettenhausen
+DE,Jevenberg;Moltkestein
+DE,Jägerhaus
+DE,Jägerlust, Forsthaus
+DE,Jößnitz
+DE,Kagar;Wallitz;Dorf Zechlin;Flecken Zechlin;Neu Lutterow;Luhme;Alt Lutterow
+DE,Kahl a. Main
+DE,Kahler Berg
+DE,Kahlkamp
+AT,Kaisersdorf / Kalištrof
+DE,Kaisershagen;Ammern;Dachrieden;Reiser
+DE,Kalbergerhof
+AT,Kalham
+DE,Kalkofen, Gem Dörnberg;Schleuse

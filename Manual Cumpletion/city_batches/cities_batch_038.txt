@@ -1,0 +1,15 @@
+DE,Hehm;Nordfeld
+DE,Heidehof
+DE,Heidersbacher Mühle
+DE,Heiligenbruck;Schilpenbühl
+DE,Heimbuch
+CH,Heimenschwand
+DE,Heinrichsegen
+DE,Hellbornerhof
+DE,Hengstbacherhof
+CH,Hennens
+DE,Hennickendorf;Herzfelde
+DE,Herbelsmühle
+DE,Herfingerhof;Mühlbusch
+CH,Hergiswil NW
+CH,Hergiswil b. Willisau

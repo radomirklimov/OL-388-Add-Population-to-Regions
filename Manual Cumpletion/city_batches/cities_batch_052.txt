@@ -1,0 +1,15 @@
+CH,Kulmerau
+DE,Kurort Rathen
+DE,Kurort Seiffen
+CH,Kyburg-Buchegg
+DE,Köhnerbrücke
+DE,Kölleshof
+AT,Kömmel / Komelj
+DE,Königreich
+DE,Königstein /Sächs. Schw.
+DE,Königswill
+DE,Köppelmühle
+DE,Köschinger Waldhaus
+DE,Köshof;Schautenhof;Eibenhof
+DE,Köthel, Kr Hzgt Lauenburg
+DE,Köthel, Kr Stormarn

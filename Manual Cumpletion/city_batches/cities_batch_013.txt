@@ -1,0 +1,15 @@
+DE,Brille
+DE,Brokdorferlandscheide
+DE,Brombach
+DE,Bronnerlehe
+DE,Bruchsiedlung
+CH,Bruderholz
+DE,Brückenmühle
+CH,Brügg BE
+CH,Brülisau
+CH,Brünig
+CH,Brüttisellen
+CH,Buch SH
+DE,Buch a. Buchrain
+DE,Buch a. Erlbach
+CH,Buchen BE

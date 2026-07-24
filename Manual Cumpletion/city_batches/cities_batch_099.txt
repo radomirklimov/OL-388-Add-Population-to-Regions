@@ -1,0 +1,15 @@
+CH,Suberg
+CH,Sugnens
+DE,Suhhaus;Wahlenhalden;Rötenbach;Brandhof;Algishofen;Schlauchhof;Fach
+DE,Suhrbrook
+DE,Sulzbach a. Main
+DE,Sulzbach/ Saar
+DE,Sulzfeld a. Main
+DE,Sulzhof
+CH,Susten
+CH,Sutz
+CH,Sédeilles
+CH,Sörenberg
+CH,Süderen
+DE,Süderhackstedtfeld
+DE,Südfall

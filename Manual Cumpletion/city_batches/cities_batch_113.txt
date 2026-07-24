@@ -1,0 +1,15 @@
+DE,Wittbeck
+DE,Wittstock /Dosse
+CH,Wittwil
+DE,Witzschdorf
+DE,Wodenhof
+DE,Wohlbach;Hermsgrün;Unterwürschnitz;Marieney
+CH,Wohlen AG
+CH,Wolfhausen
+DE,Wolfseck, Forsthaus
+DE,Wolfsmühle
+DE,Wormshöft
+DE,Wulfenhusen
+DE,Wulfshof
+AT,Wulkaprodersdorf / Vulkaprodrštof
+DE,Wulkow

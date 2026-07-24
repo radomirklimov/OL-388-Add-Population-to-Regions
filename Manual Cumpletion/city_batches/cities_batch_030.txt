@@ -1,0 +1,15 @@
+CH,Gadmen
+DE,Gantenbeck;Großenhof
+CH,Ganterschwil
+AT,Gantschier
+DE,Garching b. München
+DE,Gars a. Inn
+DE,Garz /Rügen
+DE,Gastemühle
+DE,Gasthafen
+DE,Gehlmühle
+DE,Gehrhof
+DE,Geisbüschhof;Wüsteratherhof
+DE,Geislinger Weg;Großmannshof
+CH,Geiss
+DE,Gemünden a. Main

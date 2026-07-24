@@ -1,0 +1,15 @@
+DE,Trautenhof
+DE,Trebsen /Mulde
+CH,Treyfayes
+CH,Tschiertschen
+CH,Turbach
+CH,Turtmann
+CH,Tuttwil
+CH,Tägerschen
+DE,Töging a. Inn
+CH,Tüscherz-Alfermée
+CH,Uerzlikon
+CH,Uesslingen
+DE,Uffing a. Staffelsee
+CH,Uitikon Waldegg
+DE,Umleitungsdeich

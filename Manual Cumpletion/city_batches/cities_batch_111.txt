@@ -1,0 +1,15 @@
+AT,Wien, Liesing
+AT,Wien, Margareten
+AT,Wien, Mariahilf
+AT,Wien, Meidling
+AT,Wien, Neubau
+AT,Wien, Ottakring
+AT,Wien, Penzing
+AT,Wien, Rudolfsheim-Fünfhaus
+AT,Wien, Simmering
+AT,Wien, Wieden
+AT,Wien, Währing
+CH,Wienacht-Tobel
+DE,Wierenkamp
+DE,Wiesenburg /Mark
+DE,Wieserode;Pansfelde

@@ -1,0 +1,15 @@
+DE,Obernach
+DE,Obernburg a. Main
+DE,Oberndorf a. Lech
+AT,Oberpullendorf / Felsöpulya
+CH,Oberramsern
+CH,Oberrickenbach
+CH,Obersaxen
+CH,Oberschrot
+DE,Obersteinenberg
+DE,Oberstenwehr
+CH,Oberstetten
+CH,Oberterzen
+CH,Oberwangen TG
+AT,Oberwart / Felsöör
+CH,Oberwil BL

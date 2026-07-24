@@ -1,0 +1,15 @@
+DE,Sehmatal-Cranzahl;Sehmatal-Sehma;Sehmatal-Neudorf
+DE,Seligweiler
+CH,Selkingen
+CH,Sennhof (Winterthur)
+DE,Sennhütte
+DE,Sereetz;Sielbek;Sereetzerfeld
+CH,Serneus
+CH,Sessa
+CH,Siebnen
+AT,Siegendorf / Cindrof
+CH,Sigigen
+CH,Sigirino
+CH,Signy-Centre
+CH,Signôra
+CH,Sihlwald

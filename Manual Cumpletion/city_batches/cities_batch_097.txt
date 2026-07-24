@@ -1,0 +1,15 @@
+DE,Steffenshof
+CH,Stein AG
+CH,Stein AR
+CH,Stein SG
+DE,Stein a.d.Traun
+CH,Stein am Rhein 1
+DE,Steinbach a. Wald
+AT,Steinbrunn / Štikapron
+DE,Steinebach/ Sieg
+CH,Steinebrunn
+DE,Steingraben
+DE,Steinrab;Truchtlaching;Apperting;Höllthal
+DE,Stenten
+CH,Stetten AG
+CH,Stetten SH

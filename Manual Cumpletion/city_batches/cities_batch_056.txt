@@ -1,0 +1,15 @@
+CH,Le Solliat
+CH,Le Sépey
+CH,Leggia
+DE,Leherfeld;Dammsfeld
+DE,Lehmsiek
+CH,Leimbach AG
+CH,Lenggenwil
+CH,Lengnau AG
+CH,Lengnau BE
+CH,Lenk im Simmental
+CH,Lentigny
+CH,Lenzburg 1
+CH,Les Avanchets
+CH,Les Bioux
+CH,Les Brenets

@@ -1,0 +1,15 @@
+DE,Unbesandten;Besandten;Wootz;Gaarz;Baarz
+DE,Unter-Hainbrunn
+CH,Unterbäch VS
+DE,Unterdielbach
+CH,Unterendingen
+DE,Unterführbuch;Dürach;Oberführbuch
+DE,Unterrotenstein
+DE,Untersiegenbühl
+CH,Untersteckholz
+DE,Unterthierwasen;Oberthierwasen
+CH,Unterwasser
+DE,Urfeld;Walchensee;Herzogstand;Zwergern
+CH,Urnerboden
+CH,Uznach Vögele AG
+DE,Vaalerfeld

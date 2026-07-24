@@ -1,0 +1,15 @@
+CH,St. Niklaus VS
+CH,St. Niklausen LU
+CH,St. Niklausen OW
+DE,St. Ottilien
+CH,St. Pelagiberg
+CH,St. Peterzell
+CH,Sta. Maria in Calanca
+DE,Stadtbek, Gem Seedorf
+DE,Stadtbekermühle;Stadtbek, Gem Bosau
+CH,Stalden (Sarnen)
+CH,Stalden VS
+DE,Standorf
+DE,Stausteinerhof
+DE,Stavenhagen , Reuterstadt
+DE,Steckenbergermühle;Gasteyers Mühle;Rupbach, Gem Bremberg

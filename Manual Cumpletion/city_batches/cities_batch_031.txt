@@ -1,0 +1,15 @@
+CH,Gentilino
+CH,Genève 15 Aéroport
+CH,Genève 26
+CH,Genève 27
+CH,Genève 4
+DE,Georgenthal /Thür. Wald
+DE,Gerichtsmannsmühle
+DE,Gerold;Elmau;Kranzbach;Klais
+CH,Gerra (Verzasca)
+DE,Gerschweiler
+DE,Gesotz, Gem Hargarten
+DE,Gestecke
+CH,Gibswil
+DE,Gieshübel
+DE,Gifizenmoos

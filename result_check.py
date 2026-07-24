@@ -17,7 +17,11 @@ with open(result_file, newline="", encoding="utf-8") as f:
     for row in reader:
         total_rows += 1
         population = row["population"]
-        if population is None or int(population) == 0:
+        if (
+            population is None
+            or str(population).strip() == ""
+            or (str(population).isdigit() and int(population) == 0)
+        ):
             rows_without_population += 1
 
         country = row["country"]
@@ -27,7 +31,11 @@ with open(result_file, newline="", encoding="utf-8") as f:
 
         countries[country]["total"] += 1
 
-        if int(population) == 0:
+        if (
+            population is None
+            or str(population).strip() == ""
+            or (str(population).isdigit() and int(population) == 0)
+        ):
             countries[country]["not_found"] += 1
 
 print(f"Rows without population value: {rows_without_population} from {total_rows} total")

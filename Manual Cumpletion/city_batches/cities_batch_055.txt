@@ -1,0 +1,15 @@
+DE,Lauenburg/ Elbe
+CH,Lauenen b. Gstaad
+DE,Laufenbacherhof
+CH,Laupen BE
+CH,Laura
+CH,Lausanne 18
+DE,Lautenbachhof
+CH,Lavin
+CH,Le Brouillet
+CH,Le Bémont JU
+CH,Le Cerneux-Veusil
+CH,Le Châtelard VS
+CH,Le Châtelard-près-Romont
+CH,Le Prédame
+CH,Le Pâquier-Montbarry

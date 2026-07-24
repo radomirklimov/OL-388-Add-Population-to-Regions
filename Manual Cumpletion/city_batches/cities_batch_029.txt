@@ -1,0 +1,15 @@
+DE,Frickenhausen a. Main
+DE,Friedenthal
+DE,Friedrichshof
+CH,Frieswil
+CH,Frinvillier
+DE,Fröndenberg /Ruhr
+CH,Ftan
+DE,Fuchshof
+DE,Fuchsmühle
+CH,Fusio
+DE,Fürnsbach
+CH,Fürstenaubruck
+DE,Fürstenberg /Havel
+DE,Fürstental
+DE,Fürstenwalde /Spree

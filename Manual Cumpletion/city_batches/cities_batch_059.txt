@@ -1,0 +1,15 @@
+CH,Lohn SH
+CH,Lohnstorf
+DE,Lohr a. Main
+DE,Lotenberg;Haagwiesen
+DE,Lotsenstation
+DE,Louisenberg
+DE,Louisenhof
+DE,Luchle
+CH,Luchsingen
+AT,Ludescherberg
+CH,Ludiano
+CH,Lugano 2 Paradiso Caselle
+CH,Lugnorre
+DE,Luhnvie
+DE,Luhrbach

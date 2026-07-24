@@ -1,0 +1,15 @@
+DE,Röderhof
+DE,Rögen
+DE,Rögen, Gut
+CH,Römerswil LU
+CH,Röthenbach Herzogenbuchsee
+DE,Rößnitz;Schneckengrün
+CH,Rüegsauschachen
+CH,Rüfenach AG
+CH,Rümligen
+CH,Rüschegg Gambach
+CH,Rüthi (Rheintal)
+CH,Rüti ZH
+CH,Rüti b. Büren
+CH,Rüti b. Lyssach
+CH,Rütli

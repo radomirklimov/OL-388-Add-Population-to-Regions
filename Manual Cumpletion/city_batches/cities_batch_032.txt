@@ -1,0 +1,15 @@
+DE,Giggenhausen;Moosmühle;Massenhausen;Schaidenhausen;Hetzenhausen
+DE,Glaitenhof
+DE,Glienicke /Nordbahn
+DE,Gmund a. Tegernsee
+CH,Gnosca
+CH,Golaten
+DE,Goldenerhahn
+CH,Gondo
+CH,Goppenstein
+CH,Goppisberg
+CH,Gossau SG
+DE,Grabenstoffl
+DE,Grafenanger;Seebruck
+CH,Grafenort
+DE,Grafing b. München

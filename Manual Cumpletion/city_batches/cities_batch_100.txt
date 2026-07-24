@@ -1,0 +1,15 @@
+DE,Sünna
+DE,Taching a. See
+DE,Tackesdorf-Nord
+DE,Tannengrundhof
+DE,Tanzenhaid
+DE,Tarnewitzerhagen
+CH,Tatroz
+CH,Taverne
+CH,Tenna
+CH,Territet
+CH,Teufen ZH
+CH,Teufenthal AG
+CH,Teuffenthal b. Thun
+CH,Thalheim AG
+DE,Thalhofen

@@ -1,0 +1,15 @@
+DE,Buchhof, Gem Hardthausen
+DE,Buchhof, Gem Öhringen
+CH,Buchs AG
+CH,Buchs SG 3
+CH,Buchs ZH
+CH,Burg AG
+DE,Burg Hohenzollern
+DE,Burgberg i. Allgäu
+DE,Burgbretzingen;Einkorn
+DE,Burlage;Mecklinge;Berglage;Evershorst;Kuhlhorst
+DE,Burxdorf
+CH,Busswil b. Melchnau
+CH,Bäch SZ
+AT,Bächental
+DE,Bärenbrunnerhof;Bärenbrunnermühle

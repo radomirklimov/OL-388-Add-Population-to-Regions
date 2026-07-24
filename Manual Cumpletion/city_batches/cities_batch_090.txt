@@ -1,0 +1,15 @@
+DE,Schwarzengraben
+DE,Schwedt /Oder
+DE,Schweinfurter Haus
+CH,Schwende
+DE,Schweringen, Ziegelei
+DE,Schöchleinsmühle
+DE,Schöllbronner Mühle
+DE,Schönau a. Königssee;Kärlingerhaus
+DE,Schönbornerhof
+DE,Schönbrunn i. Steigerwald
+CH,Schönbühl Einkaufszentrum
+DE,Schöne Aussicht
+DE,Schöne Aussicht, Gem Masburg;Präfekturhof
+DE,Schöneck /Vogtl.
+CH,Schönenbaumgarten

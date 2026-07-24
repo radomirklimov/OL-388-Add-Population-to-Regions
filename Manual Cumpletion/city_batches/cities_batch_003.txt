@@ -1,0 +1,15 @@
+DE,Altbrand;Vorwerk Friedrich
+CH,Altdorf UR
+DE,Altdorf b. Nürnberg
+CH,Alten
+CH,Alterswil FR
+DE,Altheimersberg
+AT,Althodis / Stari Hodas
+DE,Am Römerhof;Am Römerschacht
+DE,Am Rönndeich
+DE,Am Rüdesheimer Hafen
+DE,Am Sandkopf
+DE,Am Sandweiher
+CH,Ammerswil AG
+DE,An der Rhumequelle
+CH,Andwil SG

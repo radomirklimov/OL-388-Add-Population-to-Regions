@@ -1,0 +1,15 @@
+DE,Obere Kleinmichelesmühle;Untere Kleinmichelesmühle
+DE,Obere Roggenmühle
+DE,Obere Ölmühle;Untere Ölmühle
+DE,Oberer Eutinger Talhof
+DE,Oberer Lindenhof
+CH,Oberflachs
+CH,Obergesteln
+CH,Oberglatt ZH
+CH,Oberhasli
+DE,Oberholzhäuseln
+CH,Oberkirch LU
+DE,Oberkutterau
+DE,Oberlauterbach;Trieb
+DE,Oberlindberg
+CH,Obermutten

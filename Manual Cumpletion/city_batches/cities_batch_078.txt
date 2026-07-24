@@ -1,0 +1,15 @@
+CH,Péry
+DE,Püchau
+DE,Quernheimerbruch
+DE,Quirnbach/ Pfalz
+DE,Rabenholzlück
+DE,Rader Insel
+AT,Radhaming
+CH,Ramiswil
+CH,Ramosch
+CH,Ramsei
+CH,Randogne
+DE,Realsmühle
+CH,Rebeuvelier
+DE,Reesmoor
+DE,Rehbruck

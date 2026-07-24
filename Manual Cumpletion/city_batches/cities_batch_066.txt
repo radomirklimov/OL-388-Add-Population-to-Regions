@@ -1,0 +1,15 @@
+CH,Mézery-près-Donneloye
+AT,Möderboden
+DE,Mönchshof
+CH,Mötschwil
+DE,Mückenhof
+DE,Mühlenbeck
+DE,Mühlenthal
+DE,Mühlhausen /Thüringen
+DE,Mühlwand
+CH,Mülenen
+CH,Müllheim Dorf
+CH,Münchenstein 1
+CH,Münchringen
+CH,Münchwilen AG
+CH,Müstair

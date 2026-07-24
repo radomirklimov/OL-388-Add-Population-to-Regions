@@ -1,0 +1,15 @@
+DE,Menglers
+DE,Merkeshausen
+CH,Mex VD
+CH,Mex VS
+CH,Mezzovico
+DE,Michelau i. Steigerwald
+DE,Michelbacher Mühle
+DE,Michelhölzle
+CH,Middes
+DE,Mielberg
+DE,Miele;Rehwinkel
+DE,Minderleinsmühle;Gabermühle
+CH,Misériez (Salins)
+DE,Mittelmühle
+DE,Mittelschieda

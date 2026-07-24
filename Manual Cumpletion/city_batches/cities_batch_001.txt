@@ -1,0 +1,15 @@
+CH,Aathal-Seegräben
+CH,Aawangen
+DE,Abraham
+CH,Abtwil AG
+CH,Abtwil SG
+DE,Addebüll
+DE,Adlersteige
+CH,Adlikon b. Andelfingen
+CH,Adlikon b. Regensdorf
+CH,Adliswil 1
+DE,Adorf /Vogtl.
+CH,Aesch (Neftenbach)
+CH,Aesch BL
+CH,Aesch LU
+CH,Aesch ZH

@@ -1,0 +1,15 @@
+DE,Kirchheim b. München
+CH,Kirchleerau-Moosleerau
+DE,Kirschfurt
+DE,Klaftertalerhof
+DE,Klaubmühle
+DE,Klein Grönau
+DE,Klein Heikeland
+DE,Klein Kampen
+CH,Kleindietwil
+CH,Kleindöttingen
+DE,Kleinromstedt;Großromstedt;Pfuhlsborn;Kösnitz;Eckolstädt;Wormstedt;Münchengosserstädt;Hermstedt;Stobra
+DE,Kleinzerbst
+DE,Klettwitz
+AT,Klingenbach / Klimpuh
+DE,Klingenberg a. Main

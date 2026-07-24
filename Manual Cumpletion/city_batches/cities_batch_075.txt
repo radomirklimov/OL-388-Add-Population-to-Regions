@@ -1,0 +1,15 @@
+DE,Pagensand
+AT,Pama / Bijelo Selo
+AT,Parndorf / Pandrof
+CH,Parpan
+DE,Peickwitz
+CH,Peist
+DE,Pelzerhaus;Beurenermühle
+DE,Pentenried;Frohnloh
+CH,Perlen
+CH,Perly
+CH,Peseux
+DE,Pfaffenhäusle;Mühlhölzle
+DE,Pfahlbronner Mühle;Schenkhöfle;Haldenhof;Haselhof
+DE,Pfahlhof
+DE,Pfalzkyll

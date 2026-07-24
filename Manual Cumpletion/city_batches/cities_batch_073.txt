@@ -1,0 +1,15 @@
+CH,Oberwil b. Büren
+CH,Oberwil b. Zug
+CH,Oberönz
+CH,Oberösch
+AT,Obtarrenz
+DE,Ochsenbusch
+DE,Oelsnitz /Erzgeb.
+CH,Oeschseite
+DE,Oetjendorf
+CH,Oey
+CH,Oftringen 1
+CH,Ohmstal
+DE,Oldenburg (Oldenburg)
+DE,Olenkorb
+CH,Oleyres

@@ -1,0 +1,15 @@
+CH,Pfeffikon LU
+DE,Pfenninghof
+DE,Pflaumdorf;Algertshausen
+AT,Pfoisau
+CH,Pfäffikon ZH
+CH,Pignia
+DE,Pilligerheck
+DE,Pirmannsteinerhof
+DE,Pistre
+DE,Planschwitz;Oelsnitz /Vogtl.
+AT,Plaschlhof
+DE,Plattele
+DE,Plirup
+DE,Plotzsägemühle
+AT,Plöven

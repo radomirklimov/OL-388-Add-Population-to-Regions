@@ -1,0 +1,15 @@
+DE,Holzmühle
+CH,Homberg b. Thun
+DE,Hoppenwalde
+CH,Horgen 1
+DE,Hornberger Reute
+AT,Hornstein / Vorištan
+DE,Horschhof
+DE,Horsmar;Eigenrode
+DE,Hosena
+CH,Hosenruck
+DE,Hummelshalden
+DE,Hundebusch
+DE,Hundertmorgen
+DE,Hundsrück
+DE,Hundsweihersägemühle

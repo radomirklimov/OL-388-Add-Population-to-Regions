@@ -1,0 +1,15 @@
+DE,Klingenmühlhöfle
+DE,Klippmühle
+DE,Klockow
+DE,Kloster St Ludwig
+DE,Klüß
+DE,Kneispermühle
+DE,Knochenmühle;Kaisermühle
+DE,Knyphauserwald
+DE,Kochel a. See
+DE,Kohlmühle
+DE,Kollow, Kurheim
+DE,Kolochau;Malitschkendorf
+DE,Konradsmühle;Würschhauserhof;Würschhausermühle
+DE,Kosilenzien;Neuburxdorf;Langenrieth;Möglenz
+DE,Kottenbornermühle

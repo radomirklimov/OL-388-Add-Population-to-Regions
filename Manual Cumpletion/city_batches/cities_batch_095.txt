@@ -1,0 +1,15 @@
+CH,St-Sulpice VD
+CH,St-Ursanne
+DE,St. Alban
+DE,St. Andreasberg
+DE,St. Annen
+CH,St. Gallen K AG
+DE,St. Goar
+DE,St. Goarshausen
+DE,St. Katharinen
+CH,St. Margarethen TG
+CH,St. Margrethen SG
+CH,St. Margrethenberg
+DE,St. Martin
+DE,St. Michaelisdonn
+CH,St. Moritz 3

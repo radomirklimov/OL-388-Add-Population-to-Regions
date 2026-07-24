@@ -1,0 +1,15 @@
+DE,Hergolding;Parsdorf
+DE,Hermsdorf /Erzgeb.;Hermsdorf-Seyde
+DE,Herrenbranden
+DE,Herrenchiemsee
+DE,Herrsching a. Ammersee
+DE,Hessenhütte
+DE,Hetlinger Neuerkoog
+CH,Hettiswil b. Hindelbank
+DE,Heubergerhof;Pulvermühle
+DE,Heuchelheim a. d. Lahn
+CH,Hilfikon
+DE,Himmelweiler
+DE,Hinterbirkenhof
+DE,Hinterbug
+DE,Hinterer Hessenhof

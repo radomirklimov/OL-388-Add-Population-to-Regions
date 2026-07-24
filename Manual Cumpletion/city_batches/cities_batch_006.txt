@@ -1,0 +1,15 @@
+DE,Bad Frankenhausen /Kyffhäuser
+DE,Bad Homburg
+DE,Bad Homburg v. d. Höhe
+DE,Bad Königshofen i. Grabfeld
+DE,Bad Lauchstädt , Goethestadt
+CH,Bad Zurzach
+DE,Badisch Schöllenbach
+DE,Bahnstock
+DE,Baierhof
+DE,Baldham
+CH,Banco
+CH,Bangerten b. Dieterswil
+CH,Bargen BE
+CH,Bargen SH
+DE,Bargholz

@@ -1,0 +1,15 @@
+CH,Lully FR
+CH,Lully VD
+CH,Lumbrein
+DE,Luppertsseifen, Gem Burscheid
+CH,Lustdorf
+CH,Lustmühle
+CH,Luthern Bad
+DE,Lutherstadt Eisleben
+DE,Lutherstadt Wittenberg
+DE,Ländlerhof
+DE,Lübbenau /Spreewald
+CH,Lüchingen
+CH,Lüsslingen
+CH,Lütisburg Station
+DE,Machtemesmühle;Preischeiderley

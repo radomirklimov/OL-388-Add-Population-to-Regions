@@ -1,0 +1,15 @@
+DE,Ziegelhof;Mildterhof
+DE,Ziegelhütte
+CH,Zihlschlacht
+AT,Zillingtal / Celindof
+CH,Zillis
+CH,Zimmerwald
+CH,Zofingen PF UBS
+CH,Zollbrück
+CH,Zollikerberg
+DE,Zuckerfabrik Vitzenburg
+DE,Zuflucht
+CH,Zuzwil BE
+CH,Zweidlen
+DE,Zwickmühle
+CH,Zwillikon

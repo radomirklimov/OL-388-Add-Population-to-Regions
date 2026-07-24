@@ -1,0 +1,15 @@
+CH,Küssnacht am Rigi
+CH,LAbergement
+CH,LAuberson
+CH,La Conversion
+CH,La Corbaz
+CH,La Coudre
+CH,La Croix-de-Rozon
+CH,La Cure
+CH,La Garde (Sembrancher)
+CH,La Plaine
+CH,La Roche FR
+CH,La Russille
+CH,La Sagne NE
+CH,La Tour-de-Trême
+CH,La Tzoumaz

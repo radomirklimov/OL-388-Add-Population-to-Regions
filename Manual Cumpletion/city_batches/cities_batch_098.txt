@@ -1,0 +1,15 @@
+AT,Stinatz / Stinjaki
+DE,Stockbornerhof
+DE,Stocksberg, Gem Beilstein
+DE,Stockstadt a. Main
+DE,Stollbeck
+DE,Stollberg /Erzgeb.
+DE,Stolzenbergerhof;Bremricherhof;Schmalfelderhof
+CH,Stoos SZ
+CH,Studen BE
+CH,Studen SZ
+DE,Stutzenklinge;Mooswiese
+DE,Stöffin
+DE,Stöhrhaus
+DE,Stötten a. Auerberg
+DE,Stüterhof

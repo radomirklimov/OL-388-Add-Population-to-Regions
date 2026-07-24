@@ -1,0 +1,15 @@
+CH,Schachen LU
+AT,Schachendorf / Cajta
+AT,Schandorf / Cemba
+DE,Scharrmühle;Scharrhof
+DE,Schelertal
+CH,Scherz
+DE,Scheuerlehof
+DE,Schießhof
+DE,Schildow
+CH,Schinznach Bad
+CH,Schlans
+CH,Schlatt TG
+CH,Schlatt ZH
+CH,Schlattingen
+DE,Schleifhäusle

@@ -1,0 +1,15 @@
+CH,Thierrens
+DE,Thiesholz;Borrishaag;Stoltoft;Böelnorderfeld
+CH,Thyon
+DE,Thüringer Hütte
+CH,Tiefencastel
+AT,Tillmitsch Links der Laßnitz
+DE,Tirschendorf
+DE,Tivoli
+DE,Todsburg;Eselhöfe
+DE,Torfhaus
+DE,Torfkaten
+CH,Torgon
+DE,Traubenmühle;Scherbenmühle
+DE,Traunwalchen
+AT,Trausdorf an der Wulka / Trajštof

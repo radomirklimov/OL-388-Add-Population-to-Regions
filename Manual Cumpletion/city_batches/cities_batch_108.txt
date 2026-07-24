@@ -1,0 +1,15 @@
+DE,Weidenhell
+DE,Weidhausen b. Coburg
+CH,Weier im Emmental
+DE,Weiherhof
+DE,Weihermühle
+DE,Weilheim i. OB
+AT,Weingraben / Bajngrob
+CH,Weiningen TG
+CH,Weiningen ZH
+CH,Weissenstein b. Solothurn
+DE,Weiße Krug
+DE,Weißenborn /Erzgeb.
+AT,Weißeneggerberg
+DE,Weißenfeld
+DE,Weißenseifen, Gem Mürlenbach

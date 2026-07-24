@@ -1,0 +1,15 @@
+AT,Angerholz
+DE,Annaberg
+AT,Antau / Otava
+CH,Apples
+CH,Arbedo
+CH,Arcegno
+CH,Arconciel
+CH,Arni AG
+CH,Arni BE
+DE,Artamhof
+DE,Aschau a. Inn
+DE,Aschau i. Chiemgau
+CH,Asp
+DE,Aspelhorn
+CH,Asuel

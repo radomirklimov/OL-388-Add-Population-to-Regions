@@ -1,0 +1,15 @@
+DE,Halbertshof
+DE,Hals
+DE,Hamburg-Insel Neuwerk
+DE,Hamfelde, Kr Hzgt Lauenburg
+DE,Hamfelde, Kr Stormarn
+DE,Hammer
+DE,Hammer a.d. Uecker
+DE,Hammermühle
+DE,Hanchesmühle;Birkenstöcke
+CH,Happerswil
+DE,Hardthof
+DE,Hardtmühle
+DE,Harthof
+AT,Hartlmühl
+DE,Haselbach-Söldhaus

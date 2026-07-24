@@ -1,0 +1,15 @@
+DE,Simbach a. Inn
+DE,Simmern/ Hunsrück
+CH,Simplon Dorf
+AT,Sinnhub
+CH,Siselen BE
+CH,Sisseln AG
+DE,Sixenhof
+DE,Sohl;Bremscheid;Stopperich
+CH,Somazzo
+DE,Sonderhof
+DE,Sonnenhof
+DE,Spaltenhof
+CH,Spiegel b. Bern
+DE,Spitalhaus
+DE,Spitzau

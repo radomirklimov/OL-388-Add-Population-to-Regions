@@ -1,0 +1,15 @@
+CH,Madrano
+DE,Maiermund;Briedeler Heck;Hohestein
+DE,Mainz-Kastel
+DE,Mainz-Kostheim
+DE,Mairing
+DE,Makenhof
+CH,Malans GR
+DE,Malse
+DE,Manker
+DE,Marbach
+CH,Marbach SG
+DE,Marienhof
+CH,Marin-Epagnier
+AT,Markenschlagrotte
+DE,Markertsgrün

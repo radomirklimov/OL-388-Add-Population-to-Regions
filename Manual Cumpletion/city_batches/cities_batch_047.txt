@@ -1,0 +1,15 @@
+CH,Kalpetran
+CH,Kaltacker
+CH,Kaltbach
+DE,Kaltbuch
+DE,Kaltenbrunn
+DE,Kaltenwanghof
+DE,Kamerlanderdeich
+CH,Kappel SO
+DE,Karlshof
+DE,Karlshöhe;Kreuzhof
+DE,Karlshöhe;Schleifthor
+DE,Karlstein a. Main
+DE,Karlsthal Bahnhof
+DE,Karthause Grünau
+DE,Katelbogen;Qualitz;Laase

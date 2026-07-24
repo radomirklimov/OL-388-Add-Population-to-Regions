@@ -1,0 +1,15 @@
+DE,Falkenstein /Vogtl.
+CH,Fanas
+DE,Farchauermühle;Farchau
+CH,Faulensee
+DE,Faustenbach
+DE,Faustermühle
+DE,Feddersdeich;An der Chaussee
+CH,Feldbach
+CH,Feldbrunnen
+DE,Fels
+DE,Felsbergerhof;Spreiterhof
+CH,Fenil-sur-Corsier
+CH,Fenkrieden
+CH,Ferlens VD
+CH,Feutersoey

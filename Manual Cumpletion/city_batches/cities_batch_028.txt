@@ -1,0 +1,15 @@
+CH,Flüh
+CH,Fontainemelon
+CH,Fontanezier
+CH,Forch
+CH,Fornet-Dessus
+CH,Forst b. Längenbühl
+DE,Forsthaus Ivendorf;Ivendorf
+CH,Fortunau (Ayent)
+AT,Frankenau / Frakanava
+DE,Frankenberg /Sa.
+CH,Frasco
+DE,Frauenholz
+DE,Fraulund
+DE,Fresenboje
+DE,Freudenheim

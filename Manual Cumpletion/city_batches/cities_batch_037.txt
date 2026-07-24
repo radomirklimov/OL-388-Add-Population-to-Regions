@@ -1,0 +1,15 @@
+DE,Hasenmühle
+AT,Haslaurotte
+CH,Hasle LU
+CH,Hasle-Rüegsau
+CH,Haslen AI
+CH,Hasliberg Reuti
+CH,Hattenhausen
+CH,Hausen AG
+DE,Hausen b. Würzburg
+CH,Hauterive NE
+DE,Heckenhof
+CH,Heerbrugg
+DE,Heerhof;Osterholz
+DE,Hegebuchenbusch
+DE,Hegerhof

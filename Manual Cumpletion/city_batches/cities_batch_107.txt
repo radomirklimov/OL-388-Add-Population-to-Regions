@@ -1,0 +1,15 @@
+CH,Walliswil b. Wangen
+CH,Waltalingen
+CH,Walterswil BE
+CH,Walterswil SO
+CH,Wangen SZ
+CH,Wangen b. Olten
+DE,Wangerooge , Nordseebad
+DE,Warthof
+CH,Wasen im Emmental
+DE,Wassermühle
+DE,Watzlsteg
+DE,Watzumer Häuschen;Groß Rode;Tetzelstein
+DE,Weg
+DE,Weggen-Ziegelhütte;Leinhäusle
+DE,Weiberhof

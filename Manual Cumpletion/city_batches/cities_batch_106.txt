@@ -1,0 +1,15 @@
+CH,Vuissens
+DE,Völmlesmühle;Pfaffenstube
+CH,Wagen
+DE,Waging a. See
+CH,Wahlen b. Laufen
+CH,Wald AR
+CH,Wald ZH
+CH,Walde AG
+DE,Waldfriede
+CH,Waldhäusern AG
+DE,Waldschmidtmühle
+DE,Waldshagen
+CH,Walenstadtberg
+DE,Wallenried
+CH,Walliswil b. Niederbipp

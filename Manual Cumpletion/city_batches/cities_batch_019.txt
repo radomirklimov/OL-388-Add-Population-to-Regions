@@ -1,0 +1,15 @@
+CH,Cresta (Avers)
+CH,Crissier 1
+CH,Cugy VD
+CH,Cully
+CH,Cumpadials
+CH,Curaglia
+DE,Czorneboh
+DE,Daasdorf a Berge
+DE,Dachsbergau
+DE,Dachshof;Glasmühle
+DE,Dahme /Mark
+CH,Daillon
+DE,Dammereez
+DE,Dammesmühle;Dammeshof
+DE,Dammühle

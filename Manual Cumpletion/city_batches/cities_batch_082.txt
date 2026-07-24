@@ -1,0 +1,15 @@
+CH,Rohrmatt
+DE,Rohrsheim;Dardesheim
+DE,Rollhäusl
+CH,Romainmôtier
+CH,Rombach
+CH,Romont BE
+CH,Romont FR
+CH,Root D4
+DE,Ropahl
+DE,Rosbach
+DE,Rotenberg, Jagdhaus
+DE,Rotenburg a. d. Fulda
+DE,Rothe-Kreuz
+DE,Rothenburg /O.L.
+CH,Rothenhausen

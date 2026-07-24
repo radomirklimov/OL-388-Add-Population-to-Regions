@@ -1,0 +1,15 @@
+CH,Onnens VD
+DE,Orbachshof;Haberhof
+CH,Ortschwaben
+AT,Oslip / Uzlop
+CH,Osogna
+DE,Ostenholz
+CH,Osterfingen
+CH,Ostermundigen KATA
+DE,Ostseebad Heringsdorf
+DE,Ostseebad Nienhagen
+DE,Ostseebad Rerik
+DE,Ostseebad Wustrow
+CH,Ottoberg
+DE,Ottstedt a Berge
+DE,Ovendorferredder

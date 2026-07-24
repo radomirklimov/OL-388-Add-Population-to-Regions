@@ -1,0 +1,15 @@
+DE,Hoffnungstal
+DE,Hofheim
+CH,Hofstetten b. Brienz
+DE,Hohenentringen
+DE,Hohenlohe
+DE,Hohenseeden;Bergzow
+CH,Hohtenn
+CH,Holderbank AG
+CH,Holderbank SO
+DE,Hollerdeich
+DE,Hollermühle
+DE,Hollertal
+DE,Hollmühle
+DE,Holzhauser Eck
+DE,Holzheim a. Forst

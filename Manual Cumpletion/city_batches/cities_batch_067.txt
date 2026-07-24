@@ -1,0 +1,15 @@
+CH,Nax
+CH,Necker
+AT,Nenzinger Himmel
+CH,Nesselnbach
+DE,Nettemühle
+DE,Netzeband;Katerbow;Rägelin;Darsikow;Pfalzheim
+DE,Neu Bleckede;Neu Wendischthun
+DE,Neu Duvenstedt-Nord
+DE,Neualbenreuth
+AT,Neuberg im Burgenland / Nova Gora
+AT,Neubruck
+AT,Neudorf / Novo Selo
+DE,Neue Mühle
+DE,Neufahrn b. Freising
+DE,Neufarn;Purfing

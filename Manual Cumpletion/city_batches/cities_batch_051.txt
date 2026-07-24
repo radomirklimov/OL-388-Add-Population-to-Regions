@@ -1,0 +1,15 @@
+AT,Kottingburgstall
+DE,Kottmar (Gemeinde)
+DE,Kraiburg a. Inn
+DE,Krambergsmühle
+DE,Krauschwitz i.d. O.L.
+DE,Krautenberg
+DE,Krelinger Bruch
+DE,Krettenhof
+DE,Kretzhaus
+DE,Kreut
+DE,Kreuzquelle
+CH,Krinau
+AT,Kroatisch Minihof / Mjenovo
+DE,Krumhermersdorf
+DE,Krummland

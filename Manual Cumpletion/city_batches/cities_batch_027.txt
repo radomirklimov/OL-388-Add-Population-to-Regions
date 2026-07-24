@@ -1,0 +1,15 @@
+CH,Fex
+CH,Filzbach
+DE,Finsterbrunnertal
+AT,Fischamend-Dorf
+CH,Fischbach LU
+DE,Fischen i. Allgäu
+DE,Fischweier
+DE,Fißmühle
+CH,Flamatt
+DE,Flarupholz
+CH,Flendruz
+CH,Flims Dorf
+DE,Flintsbach a. Inn
+DE,Flohkraut
+CH,Flumserberg Bergheim

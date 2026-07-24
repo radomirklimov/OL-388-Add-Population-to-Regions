@@ -1,0 +1,15 @@
+CH,Büttikon AG
+CH,Bützberg
+DE,Büßholz;Kniepenberg
+CH,Calonico
+CH,Campascio
+CH,Campo (Blenio)
+CH,Caneggio
+CH,Capolago
+CH,Carouge GE
+CH,Casima
+CH,Cassina dAgno
+CH,Cauco
+CH,Cavigliano
+CH,Chabrey
+CH,Chapella

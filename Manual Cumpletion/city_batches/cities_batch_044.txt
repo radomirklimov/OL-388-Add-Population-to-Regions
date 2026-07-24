@@ -1,0 +1,15 @@
+DE,Hüttgeswasen
+CH,Ichertswil
+DE,Igelsbach
+CH,Ilanz
+CH,Illhart
+CH,Illighausen
+CH,Illnau
+DE,Iltishof
+CH,Im Fang
+DE,Im Hengstrain
+DE,Immenhof;Bornsmühle
+DE,Immenstadt i. Allgäu
+CH,Indemini
+DE,Ingelbach-Bahnhof
+CH,Innereriz

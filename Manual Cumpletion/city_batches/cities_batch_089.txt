@@ -1,0 +1,15 @@
+DE,Scholmunderhof
+DE,Scholterhaus
+DE,Schonterhöhe
+DE,Schoren
+DE,Schottersmühle
+DE,Schurrenhof;Kratzerhöfle
+DE,Schwabert;Falkenauel
+DE,Schwaig b. Nürnberg
+CH,Schwanden b. Brienz
+DE,Schwarzach a. Main
+DE,Schwarzach b. Nabburg
+AT,Schwarzenbach (Zerstreut)
+DE,Schwarzenberg /Erzgeb.
+CH,Schwarzenberg LU
+CH,Schwarzenegg

@@ -1,0 +1,15 @@
+CH,Valbella
+CH,Vaumarcus
+CH,Veltheim AG
+CH,Vers-lEglise
+CH,Versegères
+CH,Vesin
+DE,Vetschau /Spreewald
+CH,Vevey 1
+CH,Vezio
+CH,Vichères (Liddes)
+DE,Viktoriastollen
+CH,Villariaz
+CH,Villars-Mendraz
+CH,Villars-Ste-Croix
+CH,Villars-sous-Champvent

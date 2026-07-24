@@ -1,0 +1,15 @@
+CH,Innerferrera
+DE,Inning a. Ammersee
+DE,Inning a. Holz
+DE,Inselhof
+CH,Intragna
+DE,Irmannsweiler;Bibersohl
+CH,Iseo
+CH,Isole di Brissago
+CH,Ittenthal
+DE,Jagdschloß Thiergarten
+DE,Jahnsdorf /Erzgeb.
+CH,Jakobsbad
+AT,Jaunstein / Podjuna
+DE,Jeremiasmühle
+DE,Jerrisbekfeld

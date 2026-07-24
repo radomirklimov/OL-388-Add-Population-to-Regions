@@ -1,0 +1,15 @@
+CH,Biel/Bienne 4
+DE,Biersackschlag
+DE,Bierschbacher Mühle;Döttinger Höhe
+CH,Bignasco
+CH,Bionnens
+DE,Birkachhof;Steinächle
+DE,Birkenteich
+DE,Birkhof
+DE,Birkhof;Schillinghof;Voggenmühlhöfle
+CH,Birmensdorf ZH
+CH,Birmenstorf AG
+DE,Bischofsheim a.d.Rhön
+DE,Bismarckquelle
+CH,Blatten (Lötschen)
+CH,Blatten b. Naters

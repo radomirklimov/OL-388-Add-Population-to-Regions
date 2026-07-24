@@ -1,0 +1,8 @@
+DE,Zwillingshof
+CH,Züberwangen
+DE,Zühlsdorf
+CH,Zürich 80
+DE,Ödenbach
+AT,Ödenhof
+DE,Ölmühle
+DE,Ölmühle;Sperrhof

@@ -1,0 +1,15 @@
+CH,Corcelles BE
+CH,Corcelles-sur-Chavornay
+CH,Cormérod
+CH,Cornaux NE
+CH,Corsier GE
+CH,Cossonay-Ville
+CH,Cottens FR
+CH,Courcelon
+CH,Courtaman
+CH,Courtemautruy
+CH,Couvet
+CH,Crans VD
+CH,Crans-Montana 2
+CH,Cressier FR
+CH,Cressier NE

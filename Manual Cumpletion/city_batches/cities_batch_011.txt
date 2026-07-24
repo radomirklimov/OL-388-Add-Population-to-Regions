@@ -1,0 +1,15 @@
+DE,Blaueishütte;Wimbachgrieshütte;Wimbachschloß;Ramsau b. Berchtesgaden;Watzmannhaus
+CH,Blausee-Mitholz
+CH,Bodio TI
+DE,Boizenburg/ Elbe
+DE,Bokelhoop;Gieselauschleuse
+DE,Boklund
+CH,Boll
+CH,Bollodingen
+DE,Bollweg
+CH,Bombinasco
+DE,Bonsbeuern
+DE,Bordelumsiel;Dörpumfeld;Dörpum;Brommelund
+CH,Borgonovo
+CH,Bouloz
+CH,Bourg-St-Pierre

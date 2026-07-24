@@ -1,0 +1,15 @@
+DE,Wieslauterhof
+CH,Wiezikon b. Sirnach
+CH,Wil SG
+CH,Wil SG 1
+CH,Wil ZH
+DE,Wildburg
+CH,Wildegg
+DE,Wildenbungert
+CH,Wildensbuch
+CH,Wilen b. Wil
+CH,Wiler b. Utzenstorf
+CH,Windlach
+CH,Winistorf
+DE,Winnerhöfe
+CH,Wisen SO

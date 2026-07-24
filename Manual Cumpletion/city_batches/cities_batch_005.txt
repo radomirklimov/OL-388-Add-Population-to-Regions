@@ -1,0 +1,15 @@
+CH,Athenaz (Avusy)
+CH,Attelwil
+DE,Auerbach /Vogtl.
+DE,Auerberg
+CH,Augst BL
+DE,Auhof;Heldenmühle;Schummhof
+DE,Aura i. Sinngrund
+AT,Ausserbraz
+CH,Autafond
+DE,Auwies
+CH,Avegno
+CH,Avry-Centre FR
+DE,Babben
+DE,Bachzelten
+DE,Bad Berneck i. Fichtelgebirge

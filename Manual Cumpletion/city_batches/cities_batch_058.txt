@@ -1,0 +1,15 @@
+DE,Lichtenstein /Sa.
+CH,Liebistorf
+CH,Liez (St-Martin)
+DE,Limburg
+DE,Limburg a.d. Lahn
+DE,Lindemannsruhe
+DE,Lindenberg i. Allgäu
+DE,Lindenhof
+DE,Linkersbaindt
+CH,Lippoldswilen
+DE,Lochmühle
+DE,Locktow;Dahnsdorf;Ziezow;Kranepuhl;Mörz
+CH,Loco
+DE,Lohen;Krücklham;Heuwinkl;Reiser;Mittergars
+DE,Lohheide, gemfr. Bezirk

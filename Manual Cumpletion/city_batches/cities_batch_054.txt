@@ -1,0 +1,15 @@
+CH,Laax GR 2
+CH,Lachen SZ
+DE,Lachnitzmühle
+DE,Lambertskreuz
+DE,Landturm
+DE,Langenhalde
+DE,Langenhorst
+AT,Langental / Longitolj
+DE,Langhardt
+DE,Langheckerhof
+DE,Langweid a. Lech
+CH,Lanna
+CH,Lanzenneunforn
+CH,Latterbach
+DE,Lauberhof
