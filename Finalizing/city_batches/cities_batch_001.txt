@@ -1,0 +1,239 @@
+DE,Abraham
+CH,Adliswil 1
+DE,Alt Karin;Neu Karin;Danneborth
+DE,Altbrand;Vorwerk Friedrich
+DE,Am Römerhof;Am Römerschacht
+CH,Arbedo
+CH,Arni BE
+DE,Auhof;Heldenmühle;Schummhof
+CH,Avegno
+DE,Babben
+DE,Bad Homburg
+DE,Bad Lauchstädt , Goethestadt
+DE,Baldham
+DE,Basdorf;Braunsberg
+DE,Battinsthal;Schuckmannshöhe
+CH,Bellevue
+DE,Bellevue
+DE,Benjental;Looganlage
+DE,Bierschbacher Mühle;Döttinger Höhe
+DE,Birkachhof;Steinächle
+DE,Birkhof;Schillinghof;Voggenmühlhöfle
+CH,Blatten b. Naters
+DE,Blaueishütte;Wimbachgrieshütte;Wimbachschloß;Ramsau b. Berchtesgaden;Watzmannhaus
+DE,Bokelhoop;Gieselauschleuse
+DE,Bordelumsiel;Dörpumfeld;Dörpum;Brommelund
+DE,Buchhof, Gem Hardthausen
+DE,Buchhof, Gem Öhringen
+DE,Burgbretzingen;Einkorn
+DE,Burlage;Mecklinge;Berglage;Evershorst;Kuhlhorst
+DE,Bärenbrunnerhof;Bärenbrunnermühle
+DE,Bödingerhof;Buchholzbergerhof;Hübelhof
+DE,Bösby;Bösbyfeld
+DE,Büßholz;Kniepenberg
+CH,Corcelles BE
+CH,Corsier GE
+CH,Cossonay-Ville
+CH,Cottens FR
+CH,Crans VD
+CH,Crans-Montana 2
+CH,Cressier FR
+CH,Crissier 1
+CH,Cugy VD
+DE,Daasdorf a Berge
+DE,Dachshof;Glasmühle
+DE,Dahme /Mark
+DE,Dammesmühle;Dammeshof
+DE,Dargow;Bresahn
+DE,Demmin , Hansestadt
+DE,Deutschland
+DE,Diepoldsburg;Engelhof;Torfgrube
+DE,Diesburgerhof;Neu-Diesburgerhof
+DE,Dietzhausen;Wichtshausen
+AT,Dittmannsdorf
+DE,Dittmannsdorf
+DE,Dürnberg;Enklarn
+DE,Ebenwies;Deckelstein
+DE,Ebing;Unterholzen;Schuhegg;Parschall
+DE,Endorf;Neuplatendorf
+DE,Entrischenbrunn;Streitberg
+DE,Farchauermühle;Farchau
+DE,Feddersdeich;An der Chaussee
+DE,Felsbergerhof;Spreiterhof
+DE,Forsthaus Ivendorf;Ivendorf
+DE,Gantenbeck;Großenhof
+DE,Geisbüschhof;Wüsteratherhof
+DE,Geislinger Weg;Großmannshof
+DE,Gerold;Elmau;Kranzbach;Klais
+DE,Gesotz, Gem Hargarten
+DE,Giggenhausen;Moosmühle;Massenhausen;Schaidenhausen;Hetzenhausen
+DE,Grafenanger;Seebruck
+DE,Greifswald , Hansestadt
+DE,Großwig;Süptitz;Weidenhain
+DE,Gute Mühle;Ströbels Mühle;Saueressigs Mühle
+DE,Hamfelde, Kr Hzgt Lauenburg
+DE,Hamfelde, Kr Stormarn
+DE,Hanchesmühle;Birkenstöcke
+DE,Heerhof;Osterholz
+DE,Hehm;Nordfeld
+DE,Heiligenbruck;Schilpenbühl
+DE,Hennickendorf;Herzfelde
+DE,Herfingerhof;Mühlbusch
+DE,Hergolding;Parsdorf
+DE,Hermsdorf /Erzgeb.;Hermsdorf-Seyde
+DE,Heubergerhof;Pulvermühle
+DE,Hirtscheid;Talmühle
+DE,Hohenseeden;Bergzow
+DE,Horsmar;Eigenrode
+DE,Huy-Neinstedt;Pabstorf;Anderbeck;Vogelsdorf;Dedeleben;Badersleben
+AT,Höchst
+DE,Höchst
+DE,Immenhof;Bornsmühle
+DE,Irmannsweiler;Bibersohl
+DE,Jevenberg;Moltkestein
+DE,Jägerlust, Forsthaus
+DE,Kagar;Wallitz;Dorf Zechlin;Flecken Zechlin;Neu Lutterow;Luhme;Alt Lutterow
+DE,Kaisershagen;Ammern;Dachrieden;Reiser
+DE,Kalkofen, Gem Dörnberg;Schleuse
+DE,Karlshöhe;Kreuzhof
+DE,Karlshöhe;Schleifthor
+AT,Kasten
+DE,Kasten
+DE,Katelbogen;Qualitz;Laase
+DE,Katzhörn;Kleinkoogsdeich;Gotteskoogdeich
+CH,Kilchberg BL
+DE,Kindsbach, Forsthaus
+DE,Kleinromstedt;Großromstedt;Pfuhlsborn;Kösnitz;Eckolstädt;Wormstedt;Münchengosserstädt;Hermstedt;Stobra
+DE,Knochenmühle;Kaisermühle
+DE,Kollow, Kurheim
+DE,Kolochau;Malitschkendorf
+DE,Konradsmühle;Würschhauserhof;Würschhausermühle
+DE,Kosilenzien;Neuburxdorf;Langenrieth;Möglenz
+DE,Köshof;Schautenhof;Eibenhof
+DE,Köthel, Kr Hzgt Lauenburg
+DE,Köthel, Kr Stormarn
+AT,Landeck
+DE,Landeck
+DE,Leherfeld;Dammsfeld
+DE,Limburg
+AT,Linz
+DE,Linz
+DE,Locktow;Dahnsdorf;Ziezow;Kranepuhl;Mörz
+DE,Lohen;Krücklham;Heuwinkl;Reiser;Mittergars
+DE,Lohheide, gemfr. Bezirk
+DE,Lotenberg;Haagwiesen
+DE,Luppertsseifen, Gem Burscheid
+DE,Machtemesmühle;Preischeiderley
+DE,Maiermund;Briedeler Heck;Hohestein
+DE,Martinskirchen;Brottewitz;Koßdorf
+DE,Meisdorf;Ermsleben;Reinstedt
+DE,Miele;Rehwinkel
+DE,Minderleinsmühle;Gabermühle
+DE,Mohrenmühle;Franzenmühle
+DE,Moisall;Käterhagen;Jabelitz;Langen Trechow;Neu Käterhagen;Kurzen Trechow;Göllin;Glambeck
+DE,Netzeband;Katerbow;Rägelin;Darsikow;Pfalzheim
+DE,Neu Bleckede;Neu Wendischthun
+DE,Neufarn;Purfing
+DE,Neustadt /Vogtl.
+DE,Nichel;Schlalach;Niederwerbig
+DE,Obere Kleinmichelesmühle;Untere Kleinmichelesmühle
+DE,Obere Ölmühle;Untere Ölmühle
+DE,Oberlauterbach;Trieb
+DE,Orbachshof;Haberhof
+DE,Pelzerhaus;Beurenermühle
+DE,Pentenried;Frohnloh
+DE,Pfaffenhäusle;Mühlhölzle
+DE,Pfahlbronner Mühle;Schenkhöfle;Haldenhof;Haselhof
+DE,Pflaumdorf;Algertshausen
+DE,Planschwitz;Oelsnitz /Vogtl.
+DE,Reichen;Wiesach
+DE,Reidenbruch;Girgenrath
+DE,Reitmehring;Wasserburg a. Inn
+DE,Reppel;Fünfmühlen
+DE,Riedelberg-Tal;Kirschbachermühle;Kirschbacherhof
+DE,Riegersheim;Eulenmühle
+DE,Riemerling
+DE,Rohrsheim;Dardesheim
+DE,Rotenberg, Jagdhaus
+DE,Rupbach, Gem Gutenacker
+DE,Rödelbach;Theismühlen
+DE,Rögen, Gut
+DE,Rößnitz;Schneckengrün
+DE,Sachsgrün;Triebel /Vogtl.;Posseck
+DE,Salzwedel , Hansestadt
+DE,Saurenhof;Bärenhof
+DE,Saxdorf;Neudeck;Bahnsdorf
+DE,Scharrmühle;Scharrhof
+DE,Schleuse Ems;Lindenbach
+DE,Schlößlesmühle;Schlechtenmühle;Walzenmühle
+DE,Schurrenhof;Kratzerhöfle
+DE,Schwabert;Falkenauel
+CH,Schweiz
+DE,Schweringen, Ziegelei
+DE,Schönau a. Königssee;Kärlingerhaus
+DE,Schöne Aussicht, Gem Masburg;Präfekturhof
+DE,Sehmatal-Cranzahl;Sehmatal-Sehma;Sehmatal-Neudorf
+DE,Sereetz;Sielbek;Sereetzerfeld
+AT,Silbertal
+DE,Silbertal
+DE,Sohl;Bremscheid;Stopperich
+AT,St. Oswald
+DE,St. Oswald
+DE,Stadtbek, Gem Seedorf
+DE,Stadtbekermühle;Stadtbek, Gem Bosau
+DE,Stavenhagen , Reuterstadt
+DE,Steckenbergermühle;Gasteyers Mühle;Rupbach, Gem Bremberg
+DE,Steinrab;Truchtlaching;Apperting;Höllthal
+DE,Stocksberg, Gem Beilstein
+DE,Stolzenbergerhof;Bremricherhof;Schmalfelderhof
+DE,Stutzenklinge;Mooswiese
+DE,Suhhaus;Wahlenhalden;Rötenbach;Brandhof;Algishofen;Schlauchhof;Fach
+DE,Thiesholz;Borrishaag;Stoltoft;Böelnorderfeld
+AT,Thüringen
+DE,Thüringen
+DE,Todsburg;Eselhöfe
+DE,Traubenmühle;Scherbenmühle
+DE,Unbesandten;Besandten;Wootz;Gaarz;Baarz
+DE,Unterführbuch;Dürach;Oberführbuch
+DE,Unterthierwasen;Oberthierwasen
+DE,Urfeld;Walchensee;Herzogstand;Zwergern
+DE,Vogelkoje;Jugendseeheim Kassel
+DE,Völmlesmühle;Pfaffenstube
+DE,Wangerooge , Nordseebad
+DE,Watzumer Häuschen;Groß Rode;Tetzelstein
+DE,Weggen-Ziegelhütte;Leinhäusle
+DE,Weißenseifen, Gem Mürlenbach
+DE,Weißer Hirsch;Söhren
+DE,Wiblishauserhof;Heubelsburg;Brandfeld
+AT,Wien, Alsergrund
+AT,Wien, Brigittenau
+AT,Wien, Donaustadt
+AT,Wien, Döbling
+AT,Wien, Favoriten
+AT,Wien, Floridsdorf
+AT,Wien, Hernals
+AT,Wien, Hietzing
+AT,Wien, Innere Stadt
+AT,Wien, Josefstadt
+AT,Wien, Landstraße
+AT,Wien, Leopoldstadt
+AT,Wien, Liesing
+AT,Wien, Margareten
+AT,Wien, Mariahilf
+AT,Wien, Meidling
+AT,Wien, Neubau
+AT,Wien, Ottakring
+AT,Wien, Penzing
+AT,Wien, Rudolfsheim-Fünfhaus
+AT,Wien, Simmering
+AT,Wien, Wieden
+AT,Wien, Währing
+DE,Wieserode;Pansfelde
+DE,Wohlbach;Hermsgrün;Unterwürschnitz;Marieney
+DE,Wolfseck, Forsthaus
+DE,Zanken;Fuchshäusle;Obersiegenbühl
+DE,Zeltingen, Forsthaus
+DE,Zermützel;Krangen;Alt Ruppin;Zippelsförde;Molchow
+DE,Ziegelhof;Mildterhof
+DE,Ölmühle;Sperrhof
+AT,Österreich

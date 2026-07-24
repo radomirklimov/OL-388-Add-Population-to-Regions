@@ -176,7 +176,7 @@ with open(proposal_file, newline="", encoding="utf-8") as f:
         elif no_population_reason != "":
             population_lookup[placeString] = no_population_reason
         else:
-            population_lookup[placeString] = 0
+            population_lookup[placeString] = "No population found"
 
 for city, population in population_lookup.items():
     print(f"{city}: {population}")
@@ -191,8 +191,8 @@ lp_copy = lp.copy()
 # Create the new column by looking up the population
 lp_copy["population"] = lp_copy["places"].map(population_lookup)
 
-# Optional: replace missing values with 0
-lp_copy["population"] = lp_copy["population"].fillna(0)
+# Optional: replace missing values with "No population found"
+lp_copy["population"] = lp_copy["population"].fillna("No population found")
 
 # Save the updated copy
 lp_copy.to_csv("location_proposals_with_population.csv", index=False)

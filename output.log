@@ -1622,7 +1622,7 @@ Massen;Ponnsdorf;Betten;Lindthal;Gröbitz: 527
 Schacksdorf;Lieskau;Lichterfeld: 3694
 Dollenchen;Sallgast;Göllnitz: 1692
 Crinitz;Gahro: 1127
-Babben: 0
+Babben: No population found
 Sonnewalde: 3120
 Schönborn: 1455
 Tröbitz: 627
@@ -2115,7 +2115,7 @@ Langenweißbach: 2356
 Crinitzberg: 1753
 Auerbach /Vogtl.: 19341
 Werda: 1479
-Neustadt /Vogtl.: 0
+Neustadt /Vogtl.: No population found
 Grünbach;Grünbach-Muldenberg: 1625
 Falkenstein /Vogtl.: 5440
 Rodewisch: 6131
@@ -2472,7 +2472,7 @@ Heideblick: 3514
 Luckau: 9203
 Ihlow: 630
 Dahmetal: 427
-Dahme /Mark: 0
+Dahme /Mark: No population found
 Kasel-Golzig: 689
 Drahnsdorf: 687
 Steinreich: 421
@@ -8011,7 +8011,7 @@ Neu-Anspach: 14342
 Saalburg;Wehrheim: 10033
 Weilrod: 6856
 Grävenwiesbach: 5376
-Bad Homburg: 0
+Bad Homburg: No population found
 Friedrichsdorf: 25871
 Schmitten: 9042
 Oberursel (Taunus): 46736
@@ -8219,7 +8219,7 @@ Idstein: 25736
 Bad Camberg: 14268
 Niedernhausen: 14345
 Waldems: 5288
-Limburg: 0
+Limburg: No population found
 Lohrheim: 592
 Eppenrod: 730
 Flacht: 967
@@ -10389,7 +10389,7 @@ Langenpreising: 2887
 Neuching: 2789
 Walpertskirchen: 2140
 Ottobrunn: 22829
-Riemerling: 0
+Riemerling: No population found
 Haar: 22878
 Kirchheim b. München: 13000
 Ebersberg: 12408
@@ -11452,7 +11452,7 @@ Waffenbrunn: 2019
 Willmering: 2020
 Zandt: 2057
 Passau: 53039
-Abraham: 0
+Abraham: No population found
 Hauzenberg: 11965
 Pocking: 16414
 Breitwies: Locality; no official population published
@@ -12202,7 +12202,7 @@ Plaue;Neusiß: 2220
 Weimar: 65954
 Nohra: 934
 Ottstedt a Berge: Locality; no official population published
-Daasdorf a Berge: 0
+Daasdorf a Berge: No population found
 Isseroda: 508
 Niederzimmern: 1071
 Bechstedtstraß: 295
@@ -15067,7 +15067,7 @@ Unterschächen: 715
 Meien: Village without separate official population
 Stallikon: 3854
 Euthal: Village without separate official population
-Adliswil 1: 0
+Adliswil 1: No population found
 Gersau: 2384
 Feusisberg: 5468
 Bäch SZ: Village without separate official population
@@ -15235,7 +15235,7 @@ Autafond: Former municipality (merged into Belfaux)
 Chénens: 835
 Ellikon an der Thur: 1035
 Chésopelloz: Former municipality (merged into Corminboeuf)
-Cottens FR: 0
+Cottens FR: No population found
 Elsau: 3707
 Ferpicloz: 263
 Fribourg: 37653
@@ -15265,7 +15265,7 @@ Pfungen: 4053
 Rickenbach Sulz: Former municipality (merged into Rickenbach)
 Courgevaux: 1394
 Courtaman: Former municipality (merged into Courtepin)
-Cressier FR: 0
+Cressier FR: No population found
 Fräschels: 442
 Schlatt ZH: Locality; no official population published
 Greng: 170
@@ -15473,7 +15473,7 @@ Häfelfingen: 259
 Hemmiken: 264
 Itingen: 2323
 Känerkinden: 527
-Kilchberg BL: 0
+Kilchberg BL: No population found
 Läufelfingen: 1369
 Maisprach: 937
 Nusshof: 276
@@ -16117,7 +16117,7 @@ Müntschemier: 1609
 Siselen BE: 1100
 Hedingen: 3871
 Treiten: 431
-Arbedo: 0
+Arbedo: No population found
 Gnosca: Former municipality (merged into Bellinzona)
 Cadenazzo: 3068
 Isone: 388
@@ -16225,7 +16225,7 @@ Bignasco: Former municipality (merged into Cevio)
 Linescio: 42
 Riveo: Former municipality (merged into Lavizzara)
 Fusio: Former municipality (merged into Lavizzara)
-Avegno: 0
+Avegno: No population found
 Bätterkinden: 3368
 Deisswil b. Münchenbuchsee: Former municipality (merged into Münchenbuchsee)
 Diemerswil: 205
@@ -16280,7 +16280,7 @@ Boussens: 1006
 La Chaux (Cossonay): 413
 Chavannes-le-Veyron: 163
 Chevilly: 331
-Cossonay-Ville: 0
+Cossonay-Ville: No population found
 Cuarnens: 545
 Daillens: 1057
 Dizy: 232
@@ -16309,7 +16309,7 @@ Assens: 1672
 Bercher: 1359
 Bottens: 1351
 Bretigny-sur-Morrens: 877
-Cugy VD: 0
+Cugy VD: No population found
 Echallens: 5812
 Utzenstorf: 4476
 Essertines-sur-Yverdon: 1081
@@ -16350,7 +16350,7 @@ Zuzwil BE: 600
 Fontanezier: Former municipality (merged into Bonvillars)
 Belmont-sur-Lausanne: 3837
 Cheseaux-sur-Lausanne: 4517
-Crissier 1: 0
+Crissier 1: No population found
 Epalinges: 9822
 Jouxtens-Mézery: 1468
 Lausanne 18: Postal locality; population reported only at municipality level
@@ -16436,7 +16436,7 @@ Beatenberg: 1182
 Coinsins: 498
 Commugny: 2976
 Coppet: 3206
-Crans VD: 0
+Crans VD: No population found
 Crassier: 1236
 Duillier: 1113
 Eysins: 1775
@@ -16585,12 +16585,12 @@ Uerzlikon: Village without separate official population
 Höri: 3307
 Brig: 13400
 Eggerberg: 317
-Blatten b. Naters: 0
+Blatten b. Naters: No population found
 Ried-Brig: 2183
 Simplon Dorf: Village without separate official population
 Termen: 1152
 Gondo: Village without separate official population
-Arni BE: 0
+Arni BE: No population found
 Ardon: 3564
 Grugnay (Chamoson): Village without separate official population
 Daillon: Village without separate official population
@@ -16689,7 +16689,7 @@ Chalais: 3759
 Chippis: 1556
 Grône: 2545
 Icogne: 636
-Crans-Montana 2: 0
+Crans-Montana 2: No population found
 St-Léonard: 2200
 Noës: Village without separate official population
 Niouc: Village without separate official population
@@ -16773,7 +16773,7 @@ Collex: Village without separate official population
 Collonge-Bellerive: 8496
 Cologny: 5970
 Confignon: 4593
-Corsier GE: 0
+Corsier GE: No population found
 Ferenbalm: 1223
 La Plaine: Village without separate official population
 Genève 4: Postal locality; population reported only at municipality level
@@ -16865,7 +16865,7 @@ Chevenez: Former municipality (merged into Haute-Ajoie)
 Belprahon: 276
 Asuel: Former municipality (merged into La Baroche)
 Champoz: 160
-Corcelles BE: 0
+Corcelles BE: No population found
 Wallisellen: 17299
 Court: 1394
 Crémines: 508
